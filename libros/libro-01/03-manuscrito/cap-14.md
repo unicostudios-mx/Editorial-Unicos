@@ -24,7 +24,7 @@ El primero fue el fuego viejo. Huehuetéotl, el arrugado, el señor del centro d
 
 El segundo llegó al día siguiente, cuando el fuego viejo le contó. Llegó con las nubes bajas de agosto, un señor bajo y macizo que olía a tierra mojada, y no venía huyendo: venía *calculando*, como calculan los suyos, por ciclos largos. "El agua entra después de la lumbre, para no apagarla", dijo, cediendo el turno con esa cortesía de temporal que después le conocí durante cinco siglos. Y antes de firmar me hizo la única pregunta técnica que me ha hecho un dios sobre el contrato: "¿Tu libro aguanta agua?" Le dije que había aguantado tres naufragios. Asintió, conforme, como quien contrata un impermeable, y firmó.
 
-Me quedé en esta tierra. No lo decidí: lo fui decidiendo, que es como se deciden las cosas largas. Aquí estaba pasando lo que a mi gremio le importa: el experimento más grande de supervivencia divina de la historia, una mudanza de cielos enteros en tiempo real. Y aquí, además, estaba el cerro.
+Me quedé en esta tierra un siglo largo. No lo decidí: lo fui decidiendo, que es como se deciden las cosas largas. Aquí estaba pasando lo que a mi gremio le importa: el experimento más grande de supervivencia divina de la historia, una mudanza de cielos enteros en tiempo real. Y aquí, además, estaba el cerro.
 
 —
 

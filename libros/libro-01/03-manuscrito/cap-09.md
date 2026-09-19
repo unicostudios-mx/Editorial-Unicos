@@ -60,7 +60,7 @@ Se enderezó. Y empezó el interrogatorio que yo quería: fechas, dinastías, le
 
 —¿Quién mató al hombre del cemento?
 
-—No lo sé. —El libro tibio bajo nuestras manos, la verdad saliendo pareja, sin esfuerzo—. Sé cómo: le arrancaron su página a este libro. Sé que va en orden: el orden en que están cosidos. Y sé quién sigue, y por eso duermo desde el jueves en un catre en la calle de Mesones, junto a un señor de dos mil años que hace el mejor atole de esta ciudad y no me deja pagarle el gas.
+—No lo sé. —El libro tibio bajo nuestras manos, la verdad saliendo pareja, sin esfuerzo—. Sé cómo: le arrancaron su página a este libro. Sé que va en orden: el orden en que están cosidos. Y sé quién sigue, y por eso duermo desde el viernes en un catre en la calle de Mesones, junto a un señor de dos mil años que hace el mejor atole de esta ciudad y no me deja pagarle el gas.
 
 Valeria Ibarra, doctora en historia de las religiones, atea de tercera generación como a ella le gustaba decir, se quedó mirando nuestras dos manos juntas sobre la piel del Registro. Y entonces hizo lo que la hace ella, lo que ningún creyente y ningún incrédulo habrían hecho, lo que solo hace la ciencia cuando es valiente de verdad:
 

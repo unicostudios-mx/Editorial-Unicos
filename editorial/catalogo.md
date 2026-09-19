@@ -2,7 +2,7 @@
 
 | # | Título (provisional) | Slug | Etapa | Estado |
 |---|---|---|---|---|
-| 1 | *El registro de los últimos dioses* (título de trabajo) | `libro-01` | 4 — Borrador 0 en curso | **Puerta 1 cerrada** (2026-09-19, D-006 ratificada por Nico: mezcla D×E + Jehová/Dios cristiano + cosmovisión budista). Brief, biblia mínima y arquitectura completas; capítulos 2/26 escritos. |
+| 1 | *El registro de los últimos dioses* (título de trabajo) | `libro-01` | 6 — Entrega | **Puerta 2 abierta** (2026-09-19): Borrador 0 completo — 26/26 capítulos, ~39,500 palabras, pase editorial hecho. Nico revisa `04-entrega.md` y el manuscrito. |
 
 ## Universo del Libro 1 (D-003, dirección de Nico)
 

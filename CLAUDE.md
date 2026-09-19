@@ -164,4 +164,5 @@ Agentes opcionales por libro (solo si el brief lo pide): investigador, auditor d
 ## 10. Estado del proyecto
 
 - **2026-09-19** — Fundación. Constitución, estructura, agentes, dashboard y workflow nocturno creados.
-- **2026-09-19** — **Puerta 1 del Libro 1 cerrada** (D-006 ratificada por Nico): «El registro de los últimos dioses», mezcla D×E con Jehová/el Dios cristiano y cosmovisión budista. Brief, biblia mínima y arquitectura completas; Borrador 0 en curso. El estudio avanza sin más autorizaciones hasta la Puerta 2.
+- **2026-09-19** — **Puerta 1 del Libro 1 cerrada** (D-006 ratificada por Nico): «El registro de los últimos dioses», mezcla D×E con Jehová/el Dios cristiano y cosmovisión budista. Brief, biblia mínima y arquitectura completas.
+- **2026-09-19** — **Borrador 0 completo y Puerta 2 abierta**: 26 capítulos, ~39,500 palabras, pase editorial hecho. Entrega en `libros/libro-01/04-entrega.md`; Nico revisa.

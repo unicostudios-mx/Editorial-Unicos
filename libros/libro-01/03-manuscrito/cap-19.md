@@ -34,7 +34,7 @@ Cuatro mil años de interrogatorios, y ninguna respuesta me había dolido así d
 
 —Se le dice eutanasia sin consentimiento.
 
-—Consentimiento. —Repitió la palabra sopesándola, como un objeto de museo—. Pregúntele al libro, aquí estamos los dos: ¿alguno de los tres me cerró su puerta? ¿Alguno pidió auxilio, corrió, la llamó a usted, que dormía a tres metros del catre del lar? —Esperó. El libro, tibio, callaba con nosotros dos adentro—. No la llamaron porque ya estaban listos, escribana, todos menos usted. La agonía larga les había hecho el trabajo que a los mortales les hace la vejez buena: los había despedido de todo. Faltaba el trámite. Yo hago trámites.
+—Consentimiento. —Repitió la palabra sopesándola, como un objeto de museo—. Pregúntele al libro, aquí estamos los dos: ¿alguno de los tres me cerró su puerta? ¿Alguno pidió auxilio, corrió, la llamó a usted, que seis noches durmió a tres metros del catre del lar? —Esperó. El libro, tibio, callaba con nosotros dos adentro—. No la llamaron porque ya estaban listos, escribana, todos menos usted. La agonía larga les había hecho el trabajo que a los mortales les hace la vejez buena: los había despedido de todo. Faltaba el trámite. Yo hago trámites.
 
 —Y les dejas recados con alfiler. A mí. —Me incliné hacia él—. Eso no es trámite, Māra. Eso es correspondencia. Un ser sin urgencias inventándose una prisa y firmándola. ¿Qué quieres de mí de verdad?
 

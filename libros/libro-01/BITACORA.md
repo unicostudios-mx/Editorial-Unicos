@@ -1,5 +1,9 @@
 # Bitácora — Libro 1
 
+## 2026-09-19 (5ª sesión) — BORRADOR 0 COMPLETO Y ENTREGA (Puerta 2)
+- **Qué se hizo:** a instrucción de Nico ("escribe mientras haya tokens"), el estudio escribió los capítulos 3–26 en una sola sesión continua: Acto I (morgue, Amarna, censo/Tláloc, Pan, Hestia, Nicea), Acto II (confesión, Serapeo, deva, Nalanda, el Lar y el mensaje, Tenochtitlan/Tepeyac, comprensión, París 1793, reapertura fallida y Santa Muerte, 1915/Amalia, pacto de Māra, última página) y Acto III (vela de Śakra, última lluvia, la muralla, libros nuevos, última entrada, epílogo de Val). Pase editorial ejecutado: 11 correcciones de continuidad (D-011). Redactada la entrega `04-entrega.md`.
+- **Qué se decidió:** D-009 (extensión final ~39.5k, novela corta), D-010 (el Islam no se toca en Borrador 0; señalado a Nico), D-011 (pase editorial).
+- **Qué sigue:** **Puerta 2 abierta** — Nico revisa manuscrito y entrega; 3 dudas esperan su respuesta (Tepeyac, extensión, título). Tras su visto bueno: Borrador 1 dirigido, verificación documental fina y espejo en inglés. La rutina nocturna se desactiva: su trabajo terminó.
 ## 2026-09-19 (4ª sesión) — Puerta 1 CERRADA; arranca el Borrador 0
 - **Qué se hizo:** Nico eligió la mezcla D×E con Jehová/el Dios cristiano y la cosmovisión budista. Se cerró `00-brief.md`; se construyó la biblia mínima (`reglas-del-mundo.md`, `personajes.md`); se escribió `02-arquitectura.md` completa (26 capítulos, final decidido: Edna termina el Registro atestiguando con amor, lo entrega a Val para publicarse como ficción, y muere mortal; la página en blanco queda en blanco). Se escribieron los capítulos 1 («El dios en el cemento») y 2 («La condena»), ~4,300 palabras.
 - **Qué se decidió:** D-006 RATIFICADA (semilla), D-007 (60k/26 caps; protagonista Enheduanna; antagonista Māra; final), D-008 (el Lar séptimo inscrito; Santa Muerte fuera del Registro). Pregunta abierta P8 (revisión especial del capítulo del Tepeyac) con default en uso.

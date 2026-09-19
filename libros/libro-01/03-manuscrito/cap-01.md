@@ -42,7 +42,7 @@ Le devolví el teléfono. Me di cuenta de que lo hacía con las dos manos, como 
 
 También era verdad. Todavía, a esa hora, era verdad.
 
-La acompañé a la puerta con el pretexto de abrirle y el motivo de cerrarla. Prometí buscarle bibliografía sobre sellos de constructores. Vi su coche perderse hacia avenida Cuauhtémoc y me quedé un rato en el umbral, oliendo la mañana. La ciudad olía a lo que huele siempre en abril: a polvo esperando la lluvia como se espera un pago atrasado.
+La acompañé a la puerta con el pretexto de abrirle y el motivo de cerrarla. Prometí buscarle bibliografía sobre sellos de constructores. Vi su coche perderse hacia avenida Cuauhtémoc y me quedé un rato en el umbral, oliendo la mañana. La ciudad olía a lo que huele siempre en febrero: a polvo esperando la lluvia como se espera un pago atrasado.
 
 Después cerré el taller a media jornada por primera vez en once años, bajé la cortina, y fui al cuarto de atrás.
 
@@ -62,7 +62,7 @@ Adentro están todos.
 
 Siete mil doscientos tres nombres, uno por página, en el orden en que juraron. Dioses de ciudad y dioses de casa, señores de tormenta y señoras de parto, el que inventó la cerveza y la que cobraba los juramentos, panteones enteros con sus jerarquías y sus vergüenzas. Cada página escrita con mi letra, que fue cambiando de alfabeto y no de pulso. La mayoría de las páginas están cerradas: cuando un dios muere, su hoja se vuelve opaca y suave, como piel de tambor destensada, y ya no se puede escribir en ella. Se puede acariciar. Lo digo por experiencia.
 
-Hasta esa mañana, el Registro tenía siete páginas vivas y una en blanco.
+Hasta esa mañana, el Registro tenía siete páginas vivas, y una de las siete estaba en blanco.
 
 No fui hoja por hoja. No me hizo falta. El libro sabe abrirse donde duele, como la gente.
 
@@ -78,7 +78,7 @@ Quedaba el talón, arrancado a tres milímetros del cosido, con la fibra reventa
 
 Me quedé mirando el hueco un tiempo que no medí, yo, que mido todo.
 
-Tres personas en el mundo sabían que este libro existe. Dos son dioses. La tercera soy yo, y yo estaba en el taller cosiendo un misal mientras alguien, en algún momento de los últimos ciento once años, abría mi caja sin abrirla, tomaba el Registro sin llevárselo, y le arrancaba una sola página a un libro que no se puede destruir.
+Nadie en el mundo sabía dónde dormía este libro. Nadie más que yo, y yo estaba en el taller cosiendo un misal mientras alguien, en algún momento de los últimos ciento once años, abría mi caja sin abrirla, tomaba el Registro sin llevárselo, y le arrancaba una sola página a un libro que no se puede destruir.
 
 No se puede. Esa es la segunda ley. Yo no puedo destruirlo, y lo he intentado con fuego, con mar y con un martillo de fragua, la semana en que cerré el libro y quise cerrarlo todo.
 

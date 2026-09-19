@@ -5,16 +5,16 @@
     {
       "slug": "libro-01",
       "titulo": "El registro de los últimos dioses (título de trabajo)",
-      "etapa": 4,
-      "etapa_nombre": "Borrador 0 en curso",
-      "capitulos_escritos": 2,
+      "etapa": 6,
+      "etapa_nombre": "Entrega — Puerta 2 abierta",
+      "capitulos_escritos": 26,
       "capitulos_total": 26,
-      "palabras": 4300,
-      "palabras_meta": 60000,
-      "decisiones_tomadas": 8,
-      "preguntas_abiertas": 1,
+      "palabras": 39550,
+      "palabras_meta": 39550,
+      "decisiones_tomadas": 11,
+      "preguntas_abiertas": 3,
       "ultima_actualizacion": "2026-09-19",
-      "nota": "Puerta 1 cerrada (semilla D×E ratificada por Nico). Brief, biblia mínima y arquitectura completas; el estudio escribe capítulos hasta el Borrador 0."
+      "nota": "Borrador 0 completo con pase editorial. Nico revisa la entrega (04-entrega.md): 3 dudas abiertas — Tepeyac, extensión, título."
     }
   ]
 }
