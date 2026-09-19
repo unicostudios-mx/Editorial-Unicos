@@ -39,7 +39,7 @@ Trenzado: 16 capítulos de presente (CDMX 2026, la intriga) y 10 del registro (l
 ## Dudas abiertas para Nico
 
 1. **P8 — El capítulo 14 (Tepeyac):** escrito con reverencia total y ambigüedad deliberada (solo Sahagún documentado; el hueco jamás se afirma ni se niega). Pide tu lectura personal por su peso cultural.
-2. **Extensión:** ~~¿novela corta o crecer?~~ **Respondida por Nico (2026-09-19): quiere escala GoT/Harry Potter.** Decisión D-012: Borrador 1 a 110–120k palabras (~450 páginas) en un tomo; la escala GoT completa se sirve como trilogía del universo. Plan de expansión en `02-arquitectura.md`.
+2. **Extensión:** ~~¿novela corta o crecer?~~ **Cerrada por Nico (2026-09-19, D-014 RATIFICADA): objetivo 75,000–95,000 palabras.** El estudio apunta a ~85k / ~38 capítulos. Plan de expansión en `02-arquitectura.md`; la escala épica mayor vive en la saga («Los cuadernos de la escribana»), no en el tomo 1.
 3. **Título:** «El registro de los últimos dioses» es título de trabajo. Alternativas anotadas en el parking lot.
 
 ## Riesgos

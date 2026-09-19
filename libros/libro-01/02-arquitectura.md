@@ -66,9 +66,9 @@ Las muertes siguen el orden de inscripción porque **el cierre del Registro (191
 
 **26 · P — Epílogo (voz de Val).** Un año después: el libro publicado "como novela" — el lector entiende que es el que tiene en las manos. En el Tepeyac, la fila de los que creen no se acaba; en la obra de la Doctores hay un edificio nuevo con ladrillos bien puestos; en alguna parte, alguien le reza a una muerte con vestido. La página en blanco se imprimió en blanco, en todas las ediciones, y nadie en la imprenta recuerda haberlo decidido. Cierre: la duda como forma adulta de la fe.
 
-## Plan de Borrador 1 — Expansión a ~110–120k palabras (D-012)
+## Plan de Borrador 1 — Expansión a 75–95k palabras (D-014, objetivo ~85k)
 
-Nico pidió (2026-09-19) un libro de escala mayor, referencia GoT/Harry Potter. Decisión del estudio: **objetivo 110–120k palabras (~420–470 páginas)** en un solo volumen — la escala GoT (~300k) se sirve mejor como trilogía del universo (ver D-012). La expansión añade contenido real, nunca relleno:
+Nico fijó (2026-09-19) el objetivo del primer libro en **75,000–95,000 palabras** (D-014, RATIFICADA; ajusta D-012 — la escala de saga se mantiene, el tomo 1 se compacta a ~85k, ~330 páginas, ~38 capítulos). La expansión añade ~14 capítulos nuevos + engorde dirigido, y aplica la Guía de estilo v1.0 (D-013) incluyendo sus 3 directivas de reescritura. Ajustes por presupuesto de palabras: el capítulo de Delfos-Juliano se cede al cuaderno 2 («El nuevo Dioniso»); "Los funerales" se funde con el capítulo del mensaje. La expansión añade contenido real, nunca relleno:
 
 **Nuevos capítulos del registro (regla E, con ancla documentada):**
 - «La muerte de la Señora» — Uruk, s. I–III: el ocaso de Inanna/Ishtar, la condenadora de Edna; ancla: la última tablilla cuneiforme datada (75 d.C.). El duelo más personal de la escribana.
