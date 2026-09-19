@@ -1,0 +1,20 @@
+{
+  "generado": "2026-09-19",
+  "editorial": "Editorial Unico Studios",
+  "libros": [
+    {
+      "slug": "libro-01",
+      "titulo": "La fonda de los recuerdos (propuesta)",
+      "etapa": 1,
+      "etapa_nombre": "Brief — Puerta 1 enviada",
+      "capitulos_escritos": 0,
+      "capitulos_total": 24,
+      "palabras": 0,
+      "palabras_meta": 50000,
+      "decisiones_tomadas": 2,
+      "preguntas_abiertas": 7,
+      "ultima_actualizacion": "2026-09-19",
+      "nota": "Puerta 1 vence 2026-09-22; si no hay respuesta, se avanza con la propuesta por defecto."
+    }
+  ]
+}

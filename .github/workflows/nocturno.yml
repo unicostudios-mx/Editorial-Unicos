@@ -1,0 +1,82 @@
+# Corrida nocturna — Editorial Unico Studios
+#
+# Cada noche, el estudio avanza el libro activo: capítulos, críticas y
+# reescrituras. Trabaja en una rama nocturno/<fecha> y abre un PR con
+# resumen; el editor-jefe lo fusiona en la siguiente sesión si pasa
+# continuidad. No cruza puertas humanas ni activa el freno de emergencia.
+#
+# Requisito: configurar el secreto ANTHROPIC_API_KEY en el repositorio
+# (Settings → Secrets and variables → Actions). Sin él, el workflow falla
+# sin efectos. Nota: cada corrida consume créditos de la API.
+
+name: Corrida nocturna
+
+on:
+  schedule:
+    - cron: "0 7 * * *" # 07:00 UTC = 01:00 CDMX
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  nocturno:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Crear rama nocturna
+        id: rama
+        run: |
+          FECHA=$(date -u +%Y-%m-%d)
+          RAMA="nocturno/${FECHA}"
+          git checkout -B "$RAMA"
+          echo "rama=$RAMA" >> "$GITHUB_OUTPUT"
+          echo "fecha=$FECHA" >> "$GITHUB_OUTPUT"
+
+      - name: Sesión nocturna del estudio
+        uses: anthropics/claude-code-action@v1
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          prompt: |
+            Eres el estudio de la Editorial Unico Studios en corrida nocturna.
+            Obedece CLAUDE.md (la constitución). Reglas de esta corrida:
+            1. Lee editorial/catalogo.md y trabaja SOLO el libro activo más avanzado
+               que no esté en una puerta humana. Si el único libro está esperando
+               la Puerta 1 y aún no vence su plazo de 72 horas, no escribas
+               manuscrito: deja todo como está y termina.
+            2. Avanza lo que el pipeline pida: biblia mínima, escaleta, capítulos
+               nuevos, críticas y reescrituras. Meta por corrida: 1 a 3 capítulos
+               avanzados o revisados.
+            3. Registra toda decisión en decisiones.md (TOMADA, con porqué),
+               actualiza BITACORA.md, editorial/catalogo.md y dashboard/data.json.
+            4. No cruces puertas humanas ni toques nada que exija el freno de
+               emergencia (sección 3.4 de CLAUDE.md). No publiques nada fuera
+               del repositorio.
+            5. Haz commits con mensajes claros conforme avances.
+          claude_args: "--allowedTools Bash,Read,Write,Edit,Glob,Grep --max-turns 80"
+
+      - name: Push y pull request
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          RAMA="${{ steps.rama.outputs.rama }}"
+          FECHA="${{ steps.rama.outputs.fecha }}"
+          if [ -z "$(git log origin/${{ github.event.repository.default_branch }}..HEAD --oneline 2>/dev/null)" ] && git diff --quiet && git diff --cached --quiet; then
+            echo "Sin cambios esta noche; no se abre PR."
+            exit 0
+          fi
+          git push -u origin "$RAMA"
+          gh pr create \
+            --base "${{ github.event.repository.default_branch }}" \
+            --head "$RAMA" \
+            --title "Corrida nocturna ${FECHA}" \
+            --body "$(git log origin/${{ github.event.repository.default_branch }}..HEAD --pretty='- %s' || echo 'Avance nocturno')
+
+El editor-jefe fusiona este PR en la siguiente sesión si pasa la revisión de continuidad." \
+            || echo "PR ya existente o sin cambios."

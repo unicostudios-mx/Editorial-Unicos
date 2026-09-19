@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Editorial Unico Studios</title>
+<style>
+  :root {
+    --bg: #faf8f5;
+    --card: #ffffff;
+    --ink: #1f1b16;
+    --muted: #6b635a;
+    --line: #e6e0d8;
+    --accent: #8a5a2b;
+    --accent-soft: #f0e6d9;
+    --ok: #3d7a4f;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #17140f;
+      --card: #201c16;
+      --ink: #ece6dd;
+      --muted: #a39a8e;
+      --line: #353028;
+      --accent: #d0a05e;
+      --accent-soft: #2e2617;
+      --ok: #7fb98f;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #17140f; --card: #201c16; --ink: #ece6dd; --muted: #a39a8e;
+    --line: #353028; --accent: #d0a05e; --accent-soft: #2e2617; --ok: #7fb98f;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--ink);
+    font: 16px/1.55 Georgia, 'Times New Roman', serif;
+    padding: 32px 16px 64px;
+  }
+  main { max-width: 760px; margin: 0 auto; }
+  header h1 { font-size: 1.7rem; margin: 0 0 4px; letter-spacing: .01em; }
+  header p { color: var(--muted); margin: 0 0 28px; font-size: .95rem; }
+  .card {
+    background: var(--card); border: 1px solid var(--line); border-radius: 10px;
+    padding: 20px 22px; margin-bottom: 16px;
+  }
+  .card h2 { margin: 0 0 2px; font-size: 1.2rem; }
+  .etapa { color: var(--accent); font-size: .9rem; margin-bottom: 14px; }
+  .pipeline { display: flex; gap: 4px; margin: 10px 0 14px; }
+  .pipeline span {
+    flex: 1; height: 8px; border-radius: 4px; background: var(--line);
+  }
+  .pipeline span.done { background: var(--accent); }
+  .pipeline span.current { background: var(--accent-soft); border: 1px solid var(--accent); }
+  .stats { display: flex; flex-wrap: wrap; gap: 18px; color: var(--muted); font-size: .9rem; }
+  .stats b { color: var(--ink); font-weight: 600; }
+  .nota { margin-top: 12px; font-size: .9rem; color: var(--muted); border-left: 3px solid var(--accent); padding-left: 10px; }
+  .error { color: var(--muted); font-style: italic; }
+  footer { color: var(--muted); font-size: .85rem; margin-top: 24px; }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <h1>Editorial Unico Studios</h1>
+    <p id="sub">Cargando catálogo…</p>
+  </header>
+  <section id="libros"></section>
+  <footer>Dashboard estático · lee <code>data.json</code> del repositorio · sin backend</footer>
+</main>
+<script>
+const ETAPAS = ["Semilla","Brief","Biblia mínima","Arquitectura","Borrador 0","Pase editorial","Entrega"];
+fetch('data.json')
+  .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+  .then(data => {
+    document.getElementById('sub').textContent =
+      'Estado del catálogo · actualizado ' + (data.generado || '—');
+    const cont = document.getElementById('libros');
+    (data.libros || []).forEach(l => {
+      const card = document.createElement('article');
+      card.className = 'card';
+      const pasos = ETAPAS.map((_, i) => {
+        const cls = i < l.etapa ? 'done' : (i === l.etapa ? 'current' : '');
+        return '<span class="' + cls + '" title="' + ETAPAS[i] + '"></span>';
+      }).join('');
+      card.innerHTML =
+        '<h2></h2>' +
+        '<div class="etapa">Etapa ' + l.etapa + ' de 6 — ' + (l.etapa_nombre || ETAPAS[l.etapa] || '') + '</div>' +
+        '<div class="pipeline">' + pasos + '</div>' +
+        '<div class="stats">' +
+          '<span>Capítulos: <b>' + (l.capitulos_escritos ?? 0) + ' / ' + (l.capitulos_total ?? '—') + '</b></span>' +
+          '<span>Palabras: <b>' + (l.palabras ?? 0).toLocaleString('es-MX') + '</b> de ' + (l.palabras_meta ?? 0).toLocaleString('es-MX') + '</span>' +
+          '<span>Decisiones: <b>' + (l.decisiones_tomadas ?? 0) + '</b></span>' +
+          '<span>Preguntas abiertas: <b>' + (l.preguntas_abiertas ?? 0) + '</b></span>' +
+        '</div>' +
+        (l.nota ? '<div class="nota"></div>' : '');
+      card.querySelector('h2').textContent = l.titulo || l.slug;
+      if (l.nota) card.querySelector('.nota').textContent = l.nota;
+      cont.appendChild(card);
+    });
+  })
+  .catch(() => {
+    document.getElementById('sub').innerHTML =
+      '<span class="error">No se pudo leer data.json (si abriste el archivo localmente, sírvelo con un servidor estático o desde GitHub Pages).</span>';
+  });
+</script>
+</body>
+</html>
