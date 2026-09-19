@@ -56,4 +56,4 @@ Y Amón engordó de nuevo. Sobrevivió mil años más, hasta que el hambre gener
 
 A veces, en estos siglos de estufas y motores, cuando el sol de mediodía me da en la nuca en una calle cualquiera, me detengo un momento, por si acaso hay una atención vasta y sin rostro que reconozca a una vieja colega.
 
-Nunca ha pasado nada. Lo anoto igual. Anotar lo que no pasa también es mi oficio; es, de hecho, la parte que más se parece a rezar.
+Nunca ha pasado nada. Lo anoto igual. Anotar lo que no pasa también es mi oficio.

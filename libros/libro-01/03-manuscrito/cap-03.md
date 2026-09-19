@@ -20,7 +20,7 @@ El muchacho suspiró.
 
 —Ya no están. Esta mañana el colado amaneció normal. Concreto corriente, fraguado corriente. Tenemos las fotos de anoche y el material de hoy, y no coinciden, y el perito de campo está pensando seriamente en decir que las fotos se corrompieron, porque es la única palabra que le cabe en el formato.
 
-Eso también lo sé de siempre: las huellas de los dioses son como ellos. Sin testimonio fresco, se deshacen. Para el viernes, el expediente entero empezaría a dar vergüenza a quienes lo escribieron, y en un mes sería una anécdota que nadie contaría sobrio. El olvido no necesita conspiraciones. Es la pendiente natural del mundo. Yo soy la única cuesta arriba que conozco, y esa mañana me sentí exactamente del tamaño de esa frase.
+Eso también lo sé de siempre: las huellas de los dioses son como ellos. Sin testimonio fresco, se deshacen. Para el viernes, el expediente entero empezaría a dar vergüenza a quienes lo escribieron, y en un mes sería una anécdota que nadie contaría sobrio. El olvido no necesita conspiraciones. Es la pendiente natural del mundo, y esa mañana la sentí entera en las rodillas.
 
 Me acerqué a la plancha. El muchacho hizo el gesto de impedirlo y no lo terminó; hay gestos que se disuelven cerca de ciertos muertos.
 

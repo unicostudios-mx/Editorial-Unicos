@@ -46,4 +46,4 @@ Seis semanas después, la cabeza del sumo sacerdote del Ser Supremo cayó en la 
 
 La busqué durante años, con la lámpara baja de mi oficio, por las noches de París. Nunca la encontré, y nunca encontré tampoco el vacío limpio que dejan los que no fueron. Quedó de ella —queda todavía; lo compruebo cada vez que este siglo discute a gritos— una intemperie particular: un lugar frío en el aire de las asambleas, del tamaño exacto de una diosa, donde los hombres ponen estatuas que no lloran y palabras con mayúscula que no contestan. Los oí jurar por Ella durante los dos siglos siguientes, en parlamentos y en barricadas, con una fe que ya quisieran muchos de mi censo.
 
-Le rezan al hueco. El hueco no come. Esa es toda la diferencia, y no he conocido época que la entienda menos que la de ustedes.
+Le rezan al hueco. El hueco no come. Esa es toda la diferencia.
