@@ -1,49 +1,63 @@
-# 16. La diosa fabricada
+# 16. El deva
 
-Del registro. París, 1793.
+La casa de estudios budistas está en la colonia Roma, en una calle de fresnos, y es una casa como cualquiera de su cuadra salvo por el silencio, que está mejor barrido. Hay un salón con cojines, una biblioteca chica, un jardín interior con un pirul al que nadie poda porque a nadie se le ocurriría, y un hombre que ayuda.
 
-He visto nacer dioses. No es frecuente ni es como lo pintan: un dios nuevo no llega con trompetas sino como llega la humedad a un muro, de a poco, por capilaridad, hasta que un día la mancha tiene cara. Serapis fue la excepción de mi censo —nacido por comisión y aun así viable— y durante dos mil años lo tuve por el único caso logrado de dios fabricado.
+Los miembros creen que se llama don Sergio y que es un jubilado que se acercó al centro hace años, "cuando enviudó". Riega el jardín, acomoda los cojines antes de las sesiones, repara lo que se rompe sin que se le pida. Los maestros que vienen de fuera a dar enseñanzas lo saludan con una inclinación un poco más honda de lo que un jardinero jubilado explicaría, y si alguien les preguntara por qué, dirían que no saben, y sería cierto.
 
-En París, en el otoño de 1793, vi el otro caso. El que salió mal. Y aprendí la diferencia, que me iba a doler entender ciento veinte años después, la semana en que yo misma quise fabricar un milagro por decreto.
+Yo crucé ese jardín un miércoles por la tarde, y el hombre que regaba dejó la manguera, cerró la llave con cuidado de no desperdiciar, y me hizo la inclinación exacta que se le hace a una colega de gremio distinto.
 
-—
+—Escribana —dijo Śakra, rey de los Treinta y Tres, señor del cielo que ustedes tienen encima del cielo—. Te estaba esperando desde el jueves. Pasa. Hay té.
 
-Yo vivía en París desde los años del rey viejo, restaurando libros para gente que los compraba por metros. Cuando la Revolución llegó, me quedé, contra el consejo de todos mis siglos. Las revoluciones son malas para los cuerpos y extraordinarias para mi oficio: en ninguna otra circunstancia puede una escribana ver, en tiempo real y en una sola ciudad, cómo un pueblo entero renegocia su contrato con el cielo.
-
-Y esta lo renegoció como nadie. No cambió de dios, como los conversos. No escondió a los suyos, como los vencidos. Este pueblo *despidió al personal*. En dos años vi cerrarse las iglesias de París como se cierran comercios en quiebra; vi fundir las campanas para cañones —el metal que llamaba a misa saliendo a matar prusianos, que es la reconversión industrial más teológica que he presenciado—; vi a los santos de las portadas de Notre-Dame decapitados a cincel, porque los ciudadanos los tomaron por reyes, y en cierto modo no se equivocaban: llevaban siglos cobrando en el mismo mostrador.
-
-Los de arriba de Francia —los chicos, los locales, las vírgenes de gremio y los santos de puente que quedaban vivos del gran hambre— no entendían nada. Me buscaban de noche, como siempre me buscan cuando el suelo tiembla, y me preguntaban lo que los de arriba preguntan siempre: *¿esto es persecución o es olvido?* Porque la persecución se resiste y el olvido se negocia, y son estrategias contrarias. Y yo no sabía qué contestarles, porque era una tercera cosa que ni ellos ni yo habíamos visto: era *sustitución planificada*. El decreto de Akenatón, pero votado en asamblea.
-
-El 10 de noviembre de 1793 —ellos decían 20 de brumario, porque hasta al calendario le habían dado la vuelta, y esa era la señal que yo debí leer primero: quien refunda el tiempo va en serio— fui a Notre-Dame con medio París. Adentro habían montado una montaña de cartón y tela sobre el coro, con un templete griego en la cima y una antorcha de la Verdad. Los músicos de la Ópera tocaban. Y en el momento culminante, de la montaña salió la Libertad: una cantante hermosa, de blanco, con el gorro rojo, que se sentó en un trono de follaje a recibir el homenaje de la ciudad.
-
-La Fiesta de la Razón. Está en sus libros; los detalles que doy constan todos. Lo que no consta es lo que yo fui a hacer: fui con mi libro bajo el chal, como voy a todos los nacimientos. Por deber profesional. Por si acaso.
-
-Y aquí viene la parte que me cuesta escribir, porque es la parte donde mi oficio toca su propio fondo:
-
-Algo cuajó.
-
-Lo sentí a la mitad del himno, cuando diez mil voces cantaban a la Libertad con los ojos húmedos —y había ojos húmedos; no todo era teatro; nunca es todo teatro, ese es exactamente el problema—. Algo empezó a condensarse en el aire de la nave, arriba del templete, donde se condensan siempre: una atención devuelta, un peso naciente, la mancha de humedad buscando cara. Mi libro se entibió. Yo he asistido a tres nacimientos divinos en cuatro milenios y conozco ese calor: es idéntico al de una página a punto de escribirse.
-
-Duró lo que duró el himno.
-
-Cuando la música paró y la cantante bajó de la montaña a saludar a los diputados, aquello que empezaba quedó arriba, solo, sin terminar de ser, como queda el aliento en un vidrio. Y yo me quedé hasta que la catedral se vació, mirando ese casi, con el libro tibio enfriándose, y entendí por qué Serapis vivió y esto no iba a vivir.
-
-A Serapis lo fabricó una comisión, sí. Pero después la comisión se hizo a un lado, y el dios quedó a la intemperie de la fe real: los enfermos que subían sus cien escalones por si acaso, los marineros que le dejaban monedas sin que nadie los viera. El por-si-acaso, esa moneda menuda, es fe de verdad porque nadie la administra: se da a solas, sin testigos, sin decreto. La Razón de Notre-Dame tenía himnos por encargo, fiesta por calendario oficial y devoción por acta de la Comuna. Todo lo visible de un culto y nada de lo invisible. Era un dios de puro mediodía: sin sombra donde el creyente pudiera dudar a solas, y por lo tanto sin sombra donde creer a solas. Y lo que no se cree a solas no alimenta.
-
-La ley me la dejó dictada aquel vidrio empañado, y la escribo como la anoté esa noche, porque ciento veinte años después me la tuve que leer a mí misma con las manos temblando:
-
-*La fe administrada no alimenta. Lo que se ordena sentir, no pesa.*
+Todos me dan de beber. Lo anoto porque importa: cuatro milenios, y los de arriba jamás me han dejado empezar a trabajar sin ponerme algo caliente en las manos. Puede que sea cortesía. Puede que sepan, mejor que yo, que el libro pesa menos con las manos ocupadas.
 
 —
 
-El resto fue rápido, y consta todo. A los hebertistas, padres de la Razón, los guillotinaron en primavera: el culto quedó huérfano a los cuatro meses. Robespierre, que encontraba ateo el invento —los revolucionarios también tienen teólogos; son los que más—, fabricó el suyo: el Ser Supremo, con fiesta enorme en junio, diseñada por el mejor pintor de Francia, con Robespierre de sumo sacerdote celeste bajando una efigie del Ateísmo en llamas. Fui también. Con el libro. Por deber.
+De todos mis inscritos, Śakra es el único que no es mío del todo, y me explico, porque de esto depende entender su muerte.
 
-Esa vez no cuajó nada de nada. Ni el aliento en el vidrio. Cien mil personas en el Campo de Marte, y el aire de arriba seco como lija, porque para junio el miedo ya se había comido todo: la gente cantaba mirando de reojo a los comisarios que apuntaban quién cantaba, y el miedo, hay que decirlo de una vez, alimenta muchas cosas de este mundo, pero jamás ha alimentado un dios. Los dioses de miedo que hay en mi libro comían el temor *libre*: el del monte, el de la noche, el del mar. El temor vigilado no sube; se queda al ras del suelo, entre los hombres, que es donde hace su trabajo.
+Los dioses de mi libro viven de ustedes: del testimonio, del rito, del por-si-acaso. Los devas no. Los devas viven de su propio mérito: de un capital de actos buenos acumulado en vidas anteriores, que los sube a sus cielos como el calor sube el aire, y ahí arden, brillantes y larguísimos, hasta que el capital se acaba. No piden culto. No lo necesitan; técnicamente, ni siquiera les conviene: el culto es de los dioses que dependen, y ellos presumían no depender de nadie. Su doctrina —que es la doctrina del hombre que despertó bajo el árbol, y que los describe con una precisión de contador— dice claramente lo que ningún otro credo se atrevió a decir de sus propios dioses: que son impermanentes. Que sus cielos son altos y no son eternos. Que un deva es una lámpara de aceite propio, y que ninguna lámpara viene con el aceite infinito.
 
-Seis semanas después, la cabeza del sumo sacerdote del Ser Supremo cayó en la misma canasta que las otras, y su dios de decreto no lo esperó ni una noche: no hay página que cerrar de quien no llegó a página.
+Por eso duró. Cuando el gran hambre se llevó a los que comían testimonio, los devas siguieron ardiendo de su propia reserva, indiferentes, y a mí me constaba su existencia pero no su firma: no había motivo para que un deva jurara en el libro de los dependientes.
 
-¿Y la Razón? ¿La casi, la del vidrio empañado, mi mancha de humedad sin cara?
+Śakra firmó por otra razón. Firmó la noche en que ardió Nalanda, y esa historia tiene su propio capítulo; adelanto solo el porqué, con sus palabras de aquella noche: "He visto arder la biblioteca que mejor nos describía. Quiero constar en la que quede."
 
-La busqué durante años, con la lámpara baja de mi oficio, por las noches de París. Nunca la encontré, y nunca encontré tampoco el vacío limpio que dejan los que no fueron. Quedó de ella —queda todavía; lo compruebo cada vez que este siglo discute a gritos— una intemperie particular: un lugar frío en el aire de las asambleas, del tamaño exacto de una diosa, donde los hombres ponen estatuas que no lloran y palabras con mayúscula que no contestan. Los oí jurar por Ella durante los dos siglos siguientes, en parlamentos y en barricadas, con una fe que ya quisieran muchos de mi censo.
+—
 
-Le rezan al hueco. El hueco no come. Esa es toda la diferencia, y no he conocido época que la entienda menos que la de ustedes.
+Sirvió el té en el cuartito que la casa le presta junto a la cocina —un catre, una repisa, una foto del Himalaya recortada de una revista, la austeridad exacta de quien tuvo mil palacios y aprendió qué peso cargan— y se sentó frente a mí, y entonces, a esa distancia, con la luz del jardín de lado, lo vi.
+
+Lo había visto por última vez hace treinta años, y en los devas treinta años no son nada: son lámparas parejas, sin pabilo que recortar. El hombre frente a mí había envejecido. No como envejecen ustedes, a jalones, sino como envejece una brasa: parejo, hacia adentro, con dignidad térmica. Y en el aire del cuartito faltaba algo que siempre estuvo en el aire alrededor de Śakra, y que yo había respirado durante ocho siglos sin ponerle nombre, porque uno no le pone nombre a lo que nunca falta: esa fragancia leve, de flor sin flor, que los textos de su doctrina enumeran con la crueldad serena de los inventarios.
+
+Los signos. Las cinco señales del deva que muere. Sus propios libros las cuentan: las guirnaldas se marchitan, las vestiduras se manchan, brota el sudor de las axilas, el cuerpo pierde su fragancia, y el deva deja de hallarse en su asiento.
+
+—¿Cuáles llevas? —pregunté, porque entre él y yo el rodeo habría sido una descortesía.
+
+—Tres y media —dijo, con la precisión de quien lo ha visto en otros mil veces—. Las guirnaldas hace años; aquí eran los cempasúchiles del altar de muertos, se me secaban en dos días, los muchachos le echaban la culpa al clima. Las vestiduras, mira —levantó el brazo: en la manga de la camisa de jardinero, una sombra que ningún jabón de este mundo iba a sacar—. El sudor empezó en marzo. Y la fragancia se está yendo, tú lo acabas de notar, no me lo niegues, que tienes cara de escribana midiendo un desgarro. —Bajó el brazo—. Me falta la quinta. Todavía me hallo en mi asiento. Todavía, cuando riego el jardín, el jardín y yo estamos de acuerdo. El día que eso se rompa, cuenta siete días.
+
+—Vine a cuidarte —dije, y ya al decirlo supe que iba a fracasar igual que en Mesones, porque los de arriba no se dejan cuidar por la de abajo; el gremio no lo permite.
+
+—Ya sé a qué viniste. Y sé lo de la señora del fuego y lo del señor de los ladrillos, y sé quién sigue en tu costura, y no soy yo, así que tu catre está bien puesto donde está. —Tomó su té—. No vine a esta ciudad huyendo, escribana. Vine porque aquí es donde mejor se muere del lado de acá del mundo. Este pueblo le pone flores a la muerte y le hace pan. Un deva sabe leer una plaza.
+
+Afuera, en el jardín, un colibrí trabajaba el pirul. Śakra lo siguió con los ojos, con un gusto tan limpio que dolía, y comprendí que estaba despidiéndose de los colibríes en general, uno por uno, sin prisa, como quien cierra una contabilidad enorme en orden alfabético.
+
+—Te voy a pedir algo que no le he pedido a nadie en dos mil quinientos años —dijo entonces, sin dejar de mirar el jardín—. Y te lo pide el rey de los Treinta y Tres, para que sepas el peso: los devas morimos solos. Es la regla no escrita de los cielos. Cuando a uno le aparecen las señales, los demás dejan de mirarlo. No por crueldad: por espanto. Somos los seres más largos del samsara y los que peor cargamos su ley; el moribundo les recuerda a los sanos el fondo del contrato, y los sanos apartan la vista, y el que muere, muere en un palacio lleno, solo como un perro. Lo he visto hacer. Lo he *hecho*, escribana. Aparté la vista de amigos de veinte mil años. Me lo cobra la memoria desde entonces.
+
+Dejó el té. Me miró de frente, y en sus ojos de jardinero jubilado estaba el resto: el señor del rayo, el rey de la montaña del centro del mundo, el que interrogó al Despierto sobre el origen de la sed y recibió respuesta, el que ha visto marchitarse cielos enteros.
+
+—Cuando me llegue la quinta señal, ven. Siéntate donde estás sentada ahora. Abre tu libro en mi página, y escribe mi muerte *mientras ocurre*. No después, como haces con todos. Mientras. Quiero irme sabiendo que una mano va anotando, que a alguien le consta, renglón por renglón. —Hizo una pausa y la voz le bajó, por primera vez en ochocientos años, a estatura de hombre—: No quiero morirme solo, Enheduanna. Ya sé cómo se hace. No quiero saber cómo se hace.
+
+—Vendré —dije. La mano en mi bolsa, sobre el libro, para que la palabra pesara lo que tenía que pesar—. Y escribiré mientras.
+
+Asintió, como se firma un tratado, y el cuartito se quedó un momento en ese silencio bien barrido de toda la casa. Después recogió las tazas —es de los que recogen las tazas— y dijo, de espaldas, con un tono nuevo, administrativo, el tono con el que un rey pasa al siguiente punto de la agenda:
+
+—Ahora pregúntame lo que viniste a preguntarme y no me has preguntado.
+
+—¿Quién está arrancando mis páginas?
+
+—Lo he sentido dos veces en esta ciudad. La noche del ladrillo y la tarde del fuego. —Se volvió—. No lo he visto: lo he *sentido*, como se siente que dejó de llover. Los tuyos no pueden reconocerlo porque los tuyos nunca lo trataron; nosotros sí. Anduvo alrededor del Despierto años enteros, discutiéndole. Es de los nuestros y no es de nadie. No come fe, así que tu hambre no lo toca. No está en tu libro, así que tu costura no lo obliga. Y no odia, escribana; eso es lo que lo hace serio. Llega temprano, saluda bien, no da lata.
+
+Las palabras de la vecina de la bata, exactas, en la boca del rey de los devas. El cuarto se me enfrió sin cambiar de temperatura.
+
+—Dime el nombre.
+
+Śakra miró un momento la página del jardín, donde el colibrí seguía en lo suyo, cosiendo el aire.
+
+—Māra —dijo—. Se llama Māra.

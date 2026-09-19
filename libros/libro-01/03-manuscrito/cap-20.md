@@ -1,67 +1,61 @@
-# 20. La última página
+# 20. El mensaje
 
-A Valeria le di acceso al Registro completo esa semana, porque después de la visita de Māra ya no había secreto que valiera un riesgo, y porque en cuatro mil años nadie —de arriba ni de abajo— había mirado mi libro con la clase de atención que ella tiene: la del que ama la verdad más que su propia comodidad. Le puse una mesa junto a la mía. Le enseñé a pasar páginas con el hueso de la muñeca, sin ácido de dedos. La dejé sola con siete mil años de muertos, y me fui a coser un misal, y el taller sonaba a lo que debió sonar siempre: dos oficios respirando juntos.
+Seis noches dormí en el catre que el Lar me acomodó junto al zaguán, y fueron, lo escribo sin vergüenza, seis noches buenas. La vecindad de Mesones respiraba a su modo antiguo: los pleitos de las nueve, la telenovela de las diez, el gotear del lavadero, y sobre todo eso, como un barniz, la vigilancia sin sueño del portero más viejo del mundo. Dormir cuidada por el Lar era dormir como se dormía antes: sabiendo que el umbral tenía dueño.
 
-Al tercer día la oí detenerse.
+En las madrugadas platicábamos. Él cebaba el atole del día siguiente y me contaba Roma con chismes de portería: qué senador entraba por qué puerta trasera, qué esclava salía ganando en qué casa, cómo se veía el incendio de Nerón desde un umbral de la Subura ("mal planeado, escribana; hasta para quemar una ciudad hay que saber de vientos"). Dos mil años de historia universal contados desde el quicio. Los historiadores matarían por esas madrugadas. Yo las tuve y no las cambio por nada de lo que sigue.
 
-Hay silencios de lectura y silencios de hallazgo, y una encuadernadora los distingue desde la otra mesa. Levanté la vista. Valeria estaba al final del libro, más allá de las páginas vivas, más allá de los siglos vacíos que dejé cosidos por si el cielo volvía a dar sorpresas, en el pliego último, el que colinda con la tapa. Tenía las dos manos quietas en el aire, como se le quedan a uno las manos cuando el instinto ya supo y la cabeza todavía no.
+El miércoles fui a la Roma a ver al deva, como quedó contado. Volví a Mesones a las nueve y cuarto de la noche.
 
-—Edna —dijo—. ¿Por qué hay una entrada en la última página?
+El portón estaba emparejado.
 
-—Porque el libro se hizo completo —dije, sin dejar el misal, porque hay noticias que solo se pueden dar cosiendo—. Todo libro bien hecho se cose con su colofón.
+No abierto: emparejado. Los tres cerrojos descorridos, la hoja apenas apoyada en el marco, como la deja alguien que sale un momento por cigarros. En dos mil años, el Lar no había dejado así una puerta ni el día que ardió Roma. Me quedé en la banqueta un tiempo que no quiero medir, con la mano en el libro, oyendo la telenovela de las diez salir por las ventanas de los altos como si el mundo siguiera teniendo derecho.
 
-—Edna. —Su voz, muy pareja—. La letra no es tuya. He visto tu letra en cuatro alfabetos y seis mil años y esta no es tuya. Y el nombre...
+Adentro, el patio en calma. La veladora del nicho, apagada. Y en su silla de siempre, junto al zaguán, de frente a la puerta, el Lar.
 
-—El nombre es el mío.
+Sentado. Derecho. Las manos en las rodillas, la barbilla al pecho, como cabecean los porteros que no aceptarían jamás estar dormidos. Muerto en su puesto, mirando la entrada, porque si algo iba a entrar por esa puerta, iba a tener que pasarle por enfrente, y no le tembló el turno ni al final. El último lar de Roma murió de guardia. Pido que eso conste con todas sus letras: murió de guardia, cuidando una vecindad que ni sabía su nombre, con los cerrojos descorridos por su propia mano.
 
-Dejé el misal. Fui a su mesa. Y miré, por primera vez en ciento once años —la evitaba; una aprende a hojear su propio libro con los ojos entrecerrados, como se pasa rápido frente a ciertos espejos—, la entrada siete mil doscientos cuatro.
+Porque eso fue lo que entendí antes que nada, y fue lo que más me dolió entender: no hubo forzamiento. Hubo *hospitalidad*. Igual que Hestia con sus dos pocillos, el Lar le abrió. Le descorrió sus tres cerrojos litúrgicos a lo que venía, porque lo reconoció y porque los dioses del umbral tienen una teología estricta: al que llega con derecho no se le cierra. Toda mi guardia de seis noches no valía nada frente a eso. Yo cuidaba la puerta por fuera. El asunto siempre estuvo en si él abriría por dentro.
 
-No la escribí yo. Estaba ahí la noche del llano de sal, cuando el libro amaneció hecho: la última página, y en ella, en una letra que no es de ninguna mano que yo haya visto escribir —una letra como de filo de cuchillo caliente sobre cera, que es lo más cerca que sé decir—, mi nombre completo. *Enheduanna, hija de Sargón, sacerdotisa de Nanna en Ur.* Y debajo, nada: el espacio en blanco de una entrada abierta, esperando su renglón final como esperan todas.
+En el suelo, junto a su silla, estaba la jarra de peltre. Dos jarros servidos. El segundo, usado.
 
-—Explícamelo —dijo Val, con la calma feroz que le sale cuando tiene miedo—. Explícame por qué tu nombre está inscrito en el registro de los dioses.
+Y sobre sus manos quietas, doblada en cuatro, su página. La desdoblé con estas manos que ya iban aprendiendo el gesto, y la encontré como las otras: opaca, suave, cerrada. Mi letra latina del siglo primero. Su fórmula de juramento, que él quiso brevísima, de hombre de trabajo: *custodio*.
 
-—Porque esa fue siempre la ley segunda, leída completa. —Me senté junto a ella. Las cosas grandes se dicen sentada—. "No morirás mientras el libro esté abierto." Yo entendí, a mis cincuenta años mortales, que el libro me protegía. Tardé siglos en leer la mecánica: el libro no me protege, Valeria. El libro me *contiene*. La noche en que se hizo, me cosieron adentro. Soy la entrada última. Vivo de estar inscrita, exactamente como ellos: el libro es mi último creyente, igual que fue el de Kulla. La única diferencia es de orden: yo estoy al final de la costura. —Puse la mano plana sobre mi propio nombre, y la página, tibia, me reconoció como me reconoce todo el libro: sin drama, como la mano reconoce a la otra mano—. Cuando cerré en 1915, la vela empezó a consumirse página por página. Once, Kulla. Ciento cuatro, Hestia. Ciento cincuenta y nueve, el Lar. La fila avanza. Y al final de la fila, cuando todas las páginas vivas estén cerradas y el libro esté *terminado*, la llama llega a la última entrada.
+Pero esta vez había algo más. Prendido a la página con un alfiler —un alfiler común, de mercería, y esa domesticidad me heló más que cualquier prodigio— había un fragmento de otro papel. Una esquina quemada, del tamaño de un boleto de metro. La reconocí al tacto antes que con los ojos, y el estómago se me hizo de piedra: papel de trapo, lino y cáñamo. Papel de mi libro. La esquina de una de las páginas arrancadas, de Kulla o de Hestia, salvada del fuego a propósito, para servir de papel de carta.
 
-Val se quedó mirando mi nombre. La vi hacer la cuenta que yo llevaba semanas sin decir en voz alta, y la vi terminarla, y la vi levantarse de la silla y caminar hasta la ventana y quedarse ahí, de espaldas, un rato largo, porque hay cuentas que no se pueden terminar mirando a la gente.
+Tenía una sola línea, en tinta común, en una letra pareja, sin adornos, la letra de quien ha llenado muchos formularios en muchos siglos:
 
-—Por eso vas a "terminar el libro" —dijo al fin, a la ventana—. Lo dijiste con esas palabras. Se lo dijiste a él con esas palabras. La vela del deva, la despedida de Tláloc, escribir las muertes mientras ocurren. No es solo el duelo bien hecho, ni la responsabilidad, ni el oficio. Terminar el libro es tu muerte, Edna. Estás organizando tu propia fila y te formaste al final.
+*Tú lo empezaste. Yo solo tengo prisa.*
 
-—Sí.
+—
 
-—¿Y cuándo pensabas decírmelo?
+Valeria llegó a las diez y media, porque la llamé, y llegó con su carpeta y su método, y su método duró exactamente hasta que vio al Lar en su silla. Lo conoció el domingo, cuando vino a traerme un cargador y el viejo la interrogó por la rendija —¿quién?, ¿de parte de quién?, ¿la espera la señora?— antes de dejarla pasar a tomar atole. Tres días le bastaron a Val para quererlo; era imposible no quererlo; era el umbral del mundo con chanclas.
 
-—Hoy —dije, y era verdad, y el libro estaba ahí para quien quisiera comprobarlo—. Te dejé sola con el libro sabiendo lo que ibas a encontrar, porque soy cobarde de una manera muy vieja y muy específica: sé dar todas las noticias menos las mías.
+La vi taparse la boca. La vi, después, hacer lo suyo: sacar la libreta, apuntar, medir, fotografiar el fragmento, el alfiler, los jarros. Trabajó media hora en silencio y al final se sentó en mi catre, con la libreta en las rodillas, y dijo lo que su método le mandaba decir, mirándome de frente, con un valor que le agradezco hasta hoy:
 
-Se volvió. Tenía los ojos brillantes y la mandíbula de las Ibarra, que es una mandíbula que no negocia.
+—Edna. Tres muertes en el orden exacto de un listado que solo existe en un libro que solo tú tienes. La nota dice "tú lo empezaste". Los dos sabemos qué pregunta sigue en cualquier investigación seria. —Tragó saliva—. ¿Dónde estabas hoy de seis a nueve?
 
-—No. —Una sílaba, la misma medida que mi "ya no" de 1915, y pensé que las puertas de esta historia se abren y se cierran todas con dos letras—. No, Edna. Hay otra opción y la sabes: el libro abierto detiene la fila. Lo hiciste, funcionó, la vela se paró. Podemos... no sé, dosificar. Abrir por periodos. Buscar en las leyes un resquicio, contigo adentro sí hay motivo, tú no eres una agonía congelada, tú estás *bien*, tú...
+No me ofendí. Que no se ofenda nadie que lea esto: la pregunta era la correcta, y el que la hace frente al cadáver de alguien que quería es el que de verdad respeta a los muertos. Saqué el libro, lo puse entre las dos sobre el catre, y puse su mano y la mía encima.
 
-—Valeria.
+—Pregúntamelo aquí.
 
-—...cuatro mil años y quieres que me quede mirando cómo te apagas por una culpa que ya pagaste, ¿eso es el duelo bien hecho?, ¿eso les vas a enseñar a tus muertos?...
+—¿Mataste a alguno de ellos? ¿Arrancaste tú las páginas?
 
-—Valeria. —Le tomé las dos manos, como me las tomó ella a mí el día del cemento, con las fotos—. Mírame y hazme la pregunta con método. La que le harías a cualquier testigo de este caso. La única que importa.
+—No. —La verdad salió como sale sobre el libro: plana, sin esfuerzo, sin adornos posibles—. No los maté. No arranqué las páginas. No sé aún quién lo hace. Y la nota, Valeria, dice la verdad de todos modos. Eso es lo que te tengo que contar esta noche, y es peor que ser culpable de tres muertes.
 
-Le costó. El método, cuando de verdad se ama a alguien, es lo primero que se cae y lo último que se recupera. La vi recogerlo del suelo, pieza por pieza, con un esfuerzo que no le voy a olvidar mientras me quede tinta.
+Y ahí, en el patio de la vecindad, con la telenovela terminándose arriba y el portero muerto de guardia frente a su puerta, le conté lo que ni Tláloc me había querido decir completo y yo ya no podía seguir sin decir: 1915. El cierre. Lo que Tláloc sintió durante un siglo en sus lluvias: el apagarse parejo, en orden, de todos los que yo había cosido. La puerta que llevaba ciento once años abierta y que abrí yo.
 
-—¿Cuántos años tienes? —preguntó.
+Val escuchó sin interrumpir, con la mano todavía en el libro, y cuando terminé se quedó mirando el nicho de la veladora apagada. Luego dijo, despacio, ordenando las piezas en voz alta como hace cuando piensa de verdad:
 
-—Cuatro mil trescientos.
+—Entonces el de la nota no está iniciando nada. Está... adelantando. Las muertes ya venían, lentas, en orden, desde 1915. Él conoce el proceso, conoce el orden, y lo está acelerando a mano. —Frunció el ceño, y la vi agarrar el hilo que a mí me faltaba, porque para eso son los mortales con método—: Pero Edna, eso no cuadra con la prisa. Si el proceso ya está andando, ¿qué prisa puede tener alguien que, por lo que me cuentas de él, tiene todo el tiempo del mundo? Nadie apura un final inevitable. Se apura un final que *puede no llegar*. —Levantó los ojos de la libreta—. Tu asesino tiene miedo de algo, o tiene fecha límite, o hay algo en tu lista que puede atorársele. ¿Qué se le puede atorar?
 
-—¿Estás cansada?
+Yo estaba mirando al Lar, a mi portero, y pensando que había que cerrarle bien los ojos y avisarle a la vecindad con alguna mentira piadosa de las que él habría aprobado, cuando la pregunta de Val me pasó por en medio como pasa el frío por una puerta.
 
-—No. —Y la respuesta me sorprendió a mí más que a ella, porque en 1915 habría sido que sí, y el libro no me dejó decirla entonces porque nadie me la preguntó sobre él—. Cansada estuve. Ahora estoy *terminando*. Son estados distintos, Val. El cansancio quiere que las cosas paren; el terminar quiere que las cosas cierren. Llevo un mes acompañando muertes como se deben acompañar y es la primera vez en cuarenta siglos que mi oficio y yo estamos en paz. No me quites la paz para darme tiempo. A mí el tiempo ya me lo dieron todo, y ya vi lo que hace en cantidades industriales: nada. El tiempo solo trabaja bien por jornal, en vidas de tamaño humano, donde cada día vale porque se acaba.
+Qué se le puede atorar.
 
-—¿Y qué me toca a mí? —Se le quebró en la última palabra, y no la recogió, y bien hecho: hay quiebres que son la voz diciendo la verdad con el cuerpo—. ¿Mirar? ¿Apuntar en mi libreta cómo se muere mi mejor amiga? ¿Ese es mi papel en tu libro terminado?
+El orden de la costura. Kulla, once. Hestia, ciento cuatro. El Lar, ciento cincuenta y nueve.
 
-Y ahí estaba mi última acta pendiente, la que había venido postergando con más arte que ninguna, y la firmé:
+Y entre la ciento sesenta y la ciento sesenta y uno, cosida una noche de Nicea con hilo encerado y mis mejores manos, la página que no se deja escribir.
 
-—No. Tu papel es el mío. —Fui por el Registro; lo puse en sus manos; pesó en ella lo que pesa: todo—. Alguien tiene que quedarse con el libro, Valeria. Terminado, cerrado, completo: siete mil doscientas cuatro entradas y una página en blanco. Alguien que sepa lo que es, que no le rece ni lo queme, que lo *lea*. Los dioses tuvieron cuatro mil años de escribana. Los que ellos fueron —el relato, que es como sobreviven los muertos de arriba— va a necesitar una historiadora. —Le cerré los dedos sobre el lino—. Me pediste tu papel: atestíguame. Hasta el final del libro, con tu libreta y tu mandíbula y tu gas pimienta. Y después, cuéntanos. A todos. Como se cuentan las cosas ciertas que nadie puede creer: con rigor, con fuentes, y sin miedo a que se rían.
+La página que no se deja arrancar.
 
-Valeria Ibarra miró el libro en sus manos. Miró a su amiga imposible, cuatro milenios parada en un taller que huele a cola de conejo. Y dijo lo que dicen los suyos, los de método, cuando aceptan lo que no tiene remedio y deciden hacerlo bien, que es la forma más alta de fe que conozco y la única que nunca le he podido inscribir a nadie:
-
-—Voy a necesitar acceso completo al archivo —dijo, con la voz todavía mojada—. Y vas a contestarme todas las preguntas, en orden, aunque tardemos lo que queda. Todas, Edna. Desde Ur.
-
-—Desde Ur —prometí.
-
-Y así quedó firmado, sin libro de por medio, porque hay juramentos que son más fuertes que mi costura: los que se hacen entre mortales. Yo, para efectos de esa mesa, ya era una de ellas. Nunca he recibido un ascenso mayor.
+—Valeria —dije, y mi voz me sonó rara, como me sonaba en Ur—. Creo que sé dónde se detiene la fila.

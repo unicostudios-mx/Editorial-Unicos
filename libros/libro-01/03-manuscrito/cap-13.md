@@ -1,61 +1,55 @@
-# 13. El mensaje
+# 13. El fin de los templos
 
-Seis noches dormí en el catre que el Lar me acomodó junto al zaguán, y fueron, lo escribo sin vergüenza, seis noches buenas. La vecindad de Mesones respiraba a su modo antiguo: los pleitos de las nueve, la telenovela de las diez, el gotear del lavadero, y sobre todo eso, como un barniz, la vigilancia sin sueño del portero más viejo del mundo. Dormir cuidada por el Lar era dormir como se dormía antes: sabiendo que el umbral tenía dueño.
+Del registro. Alejandría, año 391.
 
-En las madrugadas platicábamos. Él cebaba el atole del día siguiente y me contaba Roma con chismes de portería: qué senador entraba por qué puerta trasera, qué esclava salía ganando en qué casa, cómo se veía el incendio de Nerón desde un umbral de la Subura ("mal planeado, escribana; hasta para quemar una ciudad hay que saber de vientos"). Dos mil años de historia universal contados desde el quicio. Los historiadores matarían por esas madrugadas. Yo las tuve y no las cambio por nada de lo que sigue.
+De todos los dioses que he inscrito, Serapis fue el único que sabía lo que era, y esa lucidez le costó y le sirvió a partes iguales.
 
-El miércoles fui a la Roma a ver al deva, como quedó contado. Volví a Mesones a las nueve y cuarto de la noche.
+Lo fabricaron. No lo digo como insulto: lo digo como consta. Cuando el primer Ptolomeo heredó Egipto de las guerras de Alejandro, se encontró con un problema administrativo del tamaño de dos civilizaciones: griegos y egipcios en la misma ciudad, cada quien con sus dioses, y ninguna gana de compartir altar. Y el rey hizo lo que hacen los reyes buenos para los asuntos prácticos: convocó comisión. Un sacerdote egipcio, un teólogo griego de la familia de los Eumólpidas, expertos, presupuesto. De ahí salió Serapis: barba griega, modales de Zeus, oficio de Osiris, un cesto de grano en la cabeza para que el pueblo entendiera que el asunto era la abundancia. Un dios de diseño, hecho para unificar el mercado.
 
-El portón estaba emparejado.
+Yo fui a inscribirlo con más curiosidad que respeto, lo confieso aquí donde no puedo mentir. Salí dos horas después con el respeto multiplicado y la curiosidad intacta, que es la mejor proporción que conozco.
 
-No abierto: emparejado. Los tres cerrojos descorridos, la hoja apenas apoyada en el marco, como la deja alguien que sale un momento por cigarros. En dos mil años, el Lar no había dejado así una puerta ni el día que ardió Roma. Me quedé en la banqueta un tiempo que no quiero medir, con la mano en el libro, oyendo la telenovela de las diez salir por las ventanas de los altos como si el mundo siguiera teniendo derecho.
+Porque Serapis *sabía*. Firmó mi libro y me dijo, con una franqueza que ningún dios nacido de la tierra se habría permitido:
 
-Adentro, el patio en calma. La veladora del nicho, apagada. Y en su silla de siempre, junto al zaguán, de frente a la puerta, el Lar.
+—Los dos somos artesanías, escribana. A ti te hizo una comisión de dioses; a mí, una comisión de hombres. La diferencia es que yo no me hago ilusiones sobre mi origen, y eso, vas a ver, es una ventaja teológica.
 
-Sentado. Derecho. Las manos en las rodillas, la barbilla al pecho, como cabecean los porteros que no aceptarían jamás estar dormidos. Muerto en su puesto, mirando la entrada, porque si algo iba a entrar por esa puerta, iba a tener que pasarle por enfrente, y no le tembló el turno ni al final. El último lar de Roma murió de guardia. Pido que eso conste con todas sus letras: murió de guardia, cuidando una vecindad que ni sabía su nombre, con los cerrojos descorridos por su propia mano.
+Y lo fue. Mientras los dioses viejos administraban su decadencia con la dignidad ciega de la aristocracia, Serapis administró su éxito como el empresario que era: templos filiales, sucursales del culto, milagros de sanación con horario. Su casa matriz, el Serapeo de Alejandría, llegó a ser de las cosas más grandes que la fe ha construido: una acrópolis artificial sobre cien escalones, con biblioteca propia —la hija de la grande—, y el dios adentro, colosal, de maderas preciosas y metales, con esa técnica de los artesanos alejandrinos que hacía que los ojos parecieran seguirte. Los seguían. Ahí vivía. Un dios de diseño entiende que la imagen no es su retrato: es su domicilio.
 
-Porque eso fue lo que entendí antes que nada, y fue lo que más me dolió entender: no hubo forzamiento. Hubo *hospitalidad*. Igual que Hestia con sus dos pocillos, el Lar le abrió. Le descorrió sus tres cerrojos litúrgicos a lo que venía, porque lo reconoció y porque los dioses del umbral tienen una teología estricta: al que llega con derecho no se le cierra. Toda mi guardia de seis noches no valía nada frente a eso. Yo cuidaba la puerta por fuera. El asunto siempre estuvo en si él abriría por dentro.
+Cuando el hambre general empezó —la de después de Nicea, la lenta, la administrada—, Serapis fue de los que mejor la leyeron. Me lo dijo en su última buena década, paseando por su biblioteca:
 
-En el suelo, junto a su silla, estaba la jarra de peltre. Dos jarros servidos. El segundo, usado.
+—Esto no es una guerra, Enheduanna, y los míos se equivocan preparándose para una guerra. Las guerras las gana el más fuerte. Esto es un cambio de administración. Los cambios de administración los gana el que firma el inventario. —Se detuvo frente a sus propios rollos—. Van a venir por el edificio. No por mí: por el edificio. Lo que no entra en inventario no existe para el nuevo administrador, y nosotros somos, para ellos, edificios. Deberías avisarles a los chicos: que aprendan desde ahora a no ser edificios.
 
-Y sobre sus manos quietas, doblada en cuatro, su página. La desdoblé con estas manos que ya iban aprendiendo el gesto, y la encontré como las otras: opaca, suave, cerrada. Mi letra latina del siglo primero. Su fórmula de juramento, que él quiso brevísima, de hombre de trabajo: *custodio*.
-
-Pero esta vez había algo más. Prendido a la página con un alfiler —un alfiler común, de mercería, y esa domesticidad me heló más que cualquier prodigio— había un fragmento de otro papel. Una esquina quemada, del tamaño de un boleto de metro. La reconocí al tacto antes que con los ojos, y el estómago se me hizo de piedra: papel de trapo, lino y cáñamo. Papel de mi libro. La esquina de una de las páginas arrancadas, de Kulla o de Hestia, salvada del fuego a propósito, para servir de papel de carta.
-
-Tenía una sola línea, en tinta común, en una letra pareja, sin adornos, la letra de quien ha llenado muchos formularios en muchos siglos:
-
-*Tú lo empezaste. Yo solo tengo prisa.*
+*Que aprendan a no ser edificios.* Lo anoté esa noche. Es, de todo lo que me han dicho los de arriba en cuatro milenios, la instrucción de supervivencia más exacta, y la dio un dios fabricado por comisión.
 
 —
 
-Valeria llegó a las diez y media, porque la llamé, y llegó con su carpeta y su método, y su método duró exactamente hasta que vio al Lar en su silla. Lo conoció el domingo, cuando vino a traerme un cargador y el viejo la interrogó por la rendija —¿quién?, ¿de parte de quién?, ¿la espera la señora?— antes de dejarla pasar a tomar atole. Tres días le bastaron a Val para quererlo; era imposible no quererlo; era el umbral del mundo con chanclas.
+Los decretos llegaron como llegan los decretos: primero como rumor, luego como copia, luego como soldados. El emperador Teodosio había ido cerrando la llave año tras año —prohibidos los sacrificios, prohibidas las visitas a los templos, prohibido mirar las estatuas *como quien mira a un dios*, que es la prohibición más fina y más feroz que ha redactado burócrata alguno—. En Alejandría, la cosa se calentó como se calienta todo en Alejandría: con motín. Hubo muertos de ambos lados, hubo paganos atrincherados en el Serapeo, hubo un obispo, Teófilo, que entendía de poder como Serapis entendía de comercio, y hubo, al final, la autorización imperial que todos sabían que llegaría.
 
-La vi taparse la boca. La vi, después, hacer lo suyo: sacar la libreta, apuntar, medir, fotografiar el fragmento, el alfiler, los jarros. Trabajó media hora en silencio y al final se sentó en mi catre, con la libreta en las rodillas, y dijo lo que su método le mandaba decir, mirándome de frente, con un valor que le agradezco hasta hoy:
+Yo estaba en la escalinata aquel día, entre la multitud, con el libro contra el pecho. Cien escalones de gente: arriba los soldados y los monjes del obispo, abajo la ciudad entera, y en medio, el aire tenso de los finales que ya nadie puede administrar.
 
-—Edna. Tres muertes en el orden exacto de un listado que solo existe en un libro que solo tú tienes. La nota dice "tú lo empezaste". Los dos sabemos qué pregunta sigue en cualquier investigación seria. —Tragó saliva—. ¿Dónde estabas hoy de seis a nueve?
+Y pasó lo que las propias crónicas cristianas registran con orgullo, y que yo confirmo palabra por palabra porque lo vi: los soldados dudaban. Frente al coloso, hacha en mano, los hombres del imperio más poderoso del mundo dudaban, porque toda Alejandría sabía desde niña que si una mano tocaba a Serapis, la tierra se abriría y el cielo se caería a pedazos. Entonces un soldado —las crónicas no dan el nombre; yo tampoco: era un hombre con miedo, que es el nombre más común del mundo— subió por el andamio, tomó vuelo y descargó el hacha contra la mejilla del dios.
 
-No me ofendí. Que no se ofenda nadie que lea esto: la pregunta era la correcta, y el que la hace frente al cadáver de alguien que quería es el que de verdad respeta a los muertos. Saqué el libro, lo puse entre las dos sobre el catre, y puse su mano y la mía encima.
+El golpe sonó a lo que era: madera vieja. La mejilla se desprendió, giró en el aire, cayó los cien escalones rebotando —un pedazo de cara de dios rebotando escaleras abajo, ese ruido no se me ha quitado en dieciséis siglos— y de la madera abierta salió, ante diez mil testigos, una familia de ratas que llevaba años viviendo en la cabeza de Serapis.
 
-—Pregúntamelo aquí.
+No se abrió la tierra. No se cayó el cielo.
 
-—¿Mataste a alguno de ellos? ¿Arrancaste tú las páginas?
+Se cayó algo peor, y lo sentí caerse en la escalinata entera, en la respiración de diez mil personas a la vez: se cayó el *por si acaso*. Esa última moneda de la fe, la del incrédulo que igual no toca la estatua, la del converso que igual saluda de lejos al dios viejo. El por-si-acaso alimentaba a media Alejandría divina, y aquel hacha lo cortó de un tajo. He visto morir dioses de hambre y dioses de olvido; aquella tarde vi a una ciudad entera dejar de tener miedo en el mismo minuto, y no sé cómo se registra eso, y lo registro así: el silencio que siguió al golpe duró tres respiraciones y valió por un siglo de sequía.
 
-—No. —La verdad salió como sale sobre el libro: plana, sin esfuerzo, sin adornos posibles—. No los maté. No arranqué las páginas. No sé aún quién lo hace. Y la nota, Valeria, dice la verdad de todos modos. Eso es lo que te tengo que contar esta noche, y es peor que ser culpable de tres muertes.
+Desarmaron el coloso el resto del día, con sierras, con sogas, con método. Repartieron los pedazos por los barrios para quemarlos en público, uno por horno, que es la liturgia exacta del inventario: no destruir el edificio, sino demostrar que era edificio.
 
-Y ahí, en el patio de la vecindad, con la telenovela terminándose arriba y el portero muerto de guardia frente a su puerta, le conté lo que ni Tláloc me había querido decir completo y yo ya no podía seguir sin decir: 1915. El cierre. Lo que Tláloc sintió durante un siglo en sus lluvias: el apagarse parejo, en orden, de todos los que yo había cosido. La puerta que llevaba ciento once años abierta y que abrí yo.
+A Serapis lo encontré esa noche en el puerto, sentado en un noray, del tamaño de un estibador cansado. Miraba arder, a lo lejos, uno de sus pedazos.
 
-Val escuchó sin interrumpir, con la mano todavía en el libro, y cuando terminé se quedó mirando el nicho de la veladora apagada. Luego dijo, despacio, ordenando las piezas en voz alta como hace cuando piensa de verdad:
+—No me mires con duelo, escribana, que me lo sé de memoria —me dijo—. Tenían razón en todo, ¿sabes? Era madera. Siempre fue madera. Yo estuve en la comisión, conocí al carpintero, un hombre excelente, le gustaba el vino de Quíos. —Se encogió de hombros—. El error de ellos no es de hecho, es de inventario: creen que demostrando la madera me demostraron a mí. Yo no vivía *en* la madera, vivía en el por-si-acaso. Y eso sí me lo quemaron hoy. Eso no se restaura.
 
-—Entonces el de la nota no está iniciando nada. Está... adelantando. Las muertes ya venían, lentas, en orden, desde 1915. Él conoce el proceso, conoce el orden, y lo está acelerando a mano. —Frunció el ceño, y la vi agarrar el hilo que a mí me faltaba, porque para eso son los mortales con método—: Pero Edna, eso no cuadra con la prisa. Si el proceso ya está andando, ¿qué prisa puede tener alguien que, por lo que me cuentas de él, tiene todo el tiempo del mundo? Nadie apura un final inevitable. Se apura un final que *puede no llegar*. —Levantó los ojos de la libreta—. Tu asesino tiene miedo de algo, o tiene fecha límite, o hay algo en tu lista que puede atorársele. ¿Qué se le puede atorar?
+—¿Cuánto te queda? —le pregunté, porque a él se le podía preguntar así, entre profesionales.
 
-Yo estaba mirando al Lar, a mi portero, y pensando que había que cerrarle bien los ojos y avisarle a la vecindad con alguna mentira piadosa de las que él habría aprobado, cuando la pregunta de Val me pasó por en medio como pasa el frío por una puerta.
+—Poco y malo. —Sonrió con la mejilla entera, él sí—. Me quedan los chistes. ¿Sabes que ya anda uno en los mercados? Que dentro de mi cabeza había ratas, y que por eso los oráculos salían roñosos. Es bueno. Me lo inventaron los mismos que ayer me traían a sus hijos enfermos. —Miró el fuego lejano—. El chiste es la última renta de un dios, Enheduanna. Se cobra en cobre, pero se cobra. Cuando ya ni se burlen, entonces sí, vas cerrando mi página.
 
-Qué se le puede atorar.
+Le duró el cobre veinte años. Su página se cerró una tarde de invierno, sola, bajo mi mano, mientras yo copiaba a Homero de encargo, y en el mercado de al lado ya nadie se acordaba del chiste.
 
-El orden de la costura. Kulla, once. Hestia, ciento cuatro. El Lar, ciento cincuenta y nueve.
+—
 
-Y entre la ciento sesenta y la ciento sesenta y uno, cosida una noche de Nicea con hilo encerado y mis mejores manos, la página que no se deja escribir.
+Eso fue el año 391 y su década: no una batalla, un inventario. De los miles de mi libro, los que sobrevivieron aquel siglo fueron exactamente los que entendieron a tiempo la instrucción del fabricado: los que supieron dejar de ser edificios. Los chicos, los domésticos, los que cupieron en una costumbre: en encender la estufa del triste, en bendecir el umbral, en el golpecito del albañil sobre el tabique asentado. La lumbre y el ladrillo les ganaron a los colosos, y ningún teólogo de arriba o de abajo lo tiene todavía en sus manuales.
 
-La página que no se deja arrancar.
+Y quedó, de aquella tarde de la escalinata, mi anotación de trabajo, que releo cada vez que este siglo me presume alguna demolición:
 
-—Valeria —dije, y mi voz me sonó rara, como me sonaba en Ur—. Creo que sé dónde se detiene la fila.
+*Al dios no lo mató el hacha. Lo mató la falta de temblor.*

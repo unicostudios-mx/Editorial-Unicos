@@ -1,63 +1,61 @@
-# 11. El deva
+# 11. La página en blanco
 
-La casa de estudios budistas está en la colonia Roma, en una calle de fresnos, y es una casa como cualquiera de su cuadra salvo por el silencio, que está mejor barrido. Hay un salón con cojines, una biblioteca chica, un jardín interior con un pirul al que nadie poda porque a nadie se le ocurriría, y un hombre que ayuda.
+Del registro. Nicea, hace mil setecientos años. Y antes.
 
-Los miembros creen que se llama don Sergio y que es un jubilado que se acercó al centro hace años, "cuando enviudó". Riega el jardín, acomoda los cojines antes de las sesiones, repara lo que se rompe sin que se le pida. Los maestros que vienen de fuera a dar enseñanzas lo saludan con una inclinación un poco más honda de lo que un jardinero jubilado explicaría, y si alguien les preguntara por qué, dirían que no saben, y sería cierto.
+He inscrito siete mil doscientos tres nombres. He visto jurar a señores de la tormenta con el rayo todavía en la mano y a diosecillos de letrina que firmaron llorando de agradecimiento porque nadie, nunca, les había pedido su nombre completo. Mi libro no discrimina: registra lo que se deja registrar.
 
-Yo crucé ese jardín un miércoles por la tarde, y el hombre que regaba dejó la manguera, cerró la llave con cuidado de no desperdiciar, y me hizo la inclinación exacta que se le hace a una colega de gremio distinto.
-
-—Escribana —dijo Śakra, rey de los Treinta y Tres, señor del cielo que ustedes tienen encima del cielo—. Te estaba esperando desde el jueves. Pasa. Hay té.
-
-Todos me dan de beber. Lo anoto porque importa: cuatro milenios, y los de arriba jamás me han dejado empezar a trabajar sin ponerme algo caliente en las manos. Puede que sea cortesía. Puede que sepan, mejor que yo, que el libro pesa menos con las manos ocupadas.
+Hay una página que no tiene nombre. Está entre la ciento sesenta y la ciento sesenta y uno, cosida por mis manos, y lleva diecisiete siglos en blanco. Es la única página del Registro que no se puede escribir. También es la única que no se puede arrancar, y de esa segunda propiedad depende, como se verá, todo el final de esta historia. Pero no adelanto. Primero debo contar cómo se ganó su lugar una página vacía, y para eso tengo que confesar el fracaso más largo de mi carrera.
 
 —
 
-De todos mis inscritos, Śakra es el único que no es mío del todo, y me explico, porque de esto depende entender su muerte.
+Supe de Él por primera vez en Babilonia, en los años del exilio de Judá. Yo trabajaba entonces de copista en la casa de las tablillas, y los deportados de Jerusalén andaban por los canales con esa manera de cargar la derrota que me hizo fijarme: no cargaban imágenes. Todos los desterrados que he visto —y he visto a todos— cargan a sus dioses en bultos, los esconden en la masa del pan, los disfrazan de peine o de espejo. Estos cargaban rollos. Su dios cabía en un texto y por lo tanto no pesaba, y por lo tanto no se podía confiscar, y yo, escribana al fin, sentí ese respeto de gremio que no se elige.
 
-Los dioses de mi libro viven de ustedes: del testimonio, del rito, del por-si-acaso. Los devas no. Los devas viven de su propio mérito: de un capital de actos buenos acumulado en vidas anteriores, que los sube a sus cielos como el calor sube el aire, y ahí arden, brillantes y larguísimos, hasta que el capital se acaba. No piden culto. No lo necesitan; técnicamente, ni siquiera les conviene: el culto es de los dioses que dependen, y ellos presumían no depender de nadie. Su doctrina —que es la doctrina del hombre que despertó bajo el árbol, y que los describe con una precisión de contador— dice claramente lo que ningún otro credo se atrevió a decir de sus propios dioses: que son impermanentes. Que sus cielos son altos y no son eternos. Que un deva es una lámpara de aceite propio, y que ninguna lámpara viene con el aceite infinito.
+Pregunté, con mis maneras de mil años, dónde podía presentar mis respetos a su señor. Un anciano de los suyos me miró largo y me dijo la primera de las frases que coleccioné durante los siglos siguientes:
 
-Por eso duró. Cuando el gran hambre se llevó a los que comían testimonio, los devas siguieron ardiendo de su propia reserva, indiferentes, y a mí me constaba su existencia pero no su firma: no había motivo para que un deva jurara en el libro de los dependientes.
+—No está en ninguna parte, mujer. Por eso no lo pudieron quemar.
 
-Śakra firmó por otra razón. Firmó la noche en que ardió Nalanda, y esa historia tiene su propio capítulo; adelanto solo el porqué, con sus palabras de aquella noche: "He visto arder la biblioteca que mejor nos describía. Quiero constar en la que quede."
+Fui entendiendo de a poco, era mi trabajo entender: un Dios sin estatua, que prohibía la estatua. Un Dios cuyo nombre no se pronunciaba, escrito con letras que eran una advertencia más que un sonido. Un Dios que no compartía altar, no negociaba precedencias, no firmaba tratados con sus vecinos de arriba —y vaya que mi libro está lleno de tratados que sus vecinos quisieron ofrecerle—. Todo lo que yo sabía de dioses estaba hecho de forma, lugar y nombre. Aquí había Alguien que había renunciado a los tres, o que nunca los necesitó, y que en lugar de comer testimonio como todos parecía... no sé el verbo, y llevo veinticinco siglos buscándolo. *Sostenerse solo* es lo menos inexacto que tengo.
+
+Siglos después, cuando el general romano Pompeyo tomó Jerusalén, hizo lo que hacen los generales: entró a donde no debía. Apartó el velo del recinto más sagrado del Templo, el lugar donde cualquier pueblo del mundo guardaba a su dios más gordo, y lo que encontró lo dejaron escrito los propios historiadores de ustedes: nada. Un cuarto vacío. *La sede vacía y los misterios vanos*, escribió Tácito, con ese desdén romano que era su manera de persignarse. Roma entera se rio del pueblo que adoraba un cuarto vacío.
+
+Yo no me reí. Yo llevaba para entonces dos mil años inscribiendo dioses, y sabía leer un cuarto vacío mejor que cualquier general: no era que no hubiera nadie. Era que Alguien no estaba *en exhibición*. Toda mi ciencia era la ciencia del testigo, y estaba frente al primer Señor que no aceptaba testigos. Que los tenía —millones, fieles como pocos— pero no los *necesitaba*, y esa diferencia, que parece de matiz, es del tamaño de un abismo. Yo alimento con mi libro a todo el que firma: mi página es el último creyente de cada dios. ¿Qué podía ofrecerle mi página a Quien no come de eso?
+
+Lo intenté igual. Cuatro veces en cuatro siglos, con toda la humildad de protocolo que mi condena me permite. No voy a detallar los intentos; el libro me deja callar, y hay silencios que son la única reverencia disponible. Diré el resultado, que fue las cuatro veces el mismo, y que no se pareció a lo del Atón. Con el Atón no hubo interlocutor: fue como jurar ante el mediodía. Aquí hubo otra cosa. Hubo la certeza —física, en la nuca, en las plantas de los pies— de ser leída de vuelta. De que mi ofrecimiento era escuchado, entendido hasta el fondo, hasta capas de mi oficio que yo misma no conozco, y declinado. Sin voz, sin señal, sin la menor descortesía. Como declina un rey una moneda: sin tocarla.
+
+La cuarta vez, mi libro tembló. Es la única vez en cuatro mil años. No lo he contado nunca y lo escribo ahora con las dos manos en la mesa: el Registro, que ha estado abierto en batallas del cielo y funerales de panteones enteros sin mover una fibra, tembló como tiembla un aprendiz. Entonces dejé de intentar. Hay gremios, aprendí, que se saludan de lejos.
 
 —
 
-Sirvió el té en el cuartito que la casa le presta junto a la cocina —un catre, una repisa, una foto del Himalaya recortada de una revista, la austeridad exacta de quien tuvo mil palacios y aprendió qué peso cargan— y se sentó frente a mí, y entonces, a esa distancia, con la luz del jardín de lado, lo vi.
+Y sin embargo cosí la página. Explico por qué, porque es la decisión mía más discutida de este libro, y los pocos que la conocieron me la discutieron todos.
 
-Lo había visto por última vez hace treinta años, y en los devas treinta años no son nada: son lámparas parejas, sin pabilo que recortar. El hombre frente a mí había envejecido. No como envejecen ustedes, a jalones, sino como envejece una brasa: parejo, hacia adentro, con dignidad térmica. Y en el aire del cuartito faltaba algo que siempre estuvo en el aire alrededor de Śakra, y que yo había respirado durante ocho siglos sin ponerle nombre, porque uno no le pone nombre a lo que nunca falta: esa fragancia leve, de flor sin flor, que los textos de su doctrina enumeran con la crueldad serena de los inventarios.
+Fue en Nicea, en el año 325 de la era de ustedes.
 
-Los signos. Las cinco señales del deva que muere. Sus propios libros las cuentan: las guirnaldas se marchitan, las vestiduras se manchan, brota el sudor de las axilas, el cuerpo pierde su fragancia, y el deva deja de hallarse en su asiento.
+Yo estaba ahí. En el registro de los hombres eso ni consta ni tendría por qué: una copista más entre las decenas que los obispos trajeron, una mujer mayor que preparaba tinta y afilaba cálamos en las bancas del fondo. Los concilios se parecen a las asambleas de dioses más de lo que cualquiera de las dos partes soportaría saber: la misma pelea por las precedencias, los mismos flacos sentados junto a los gordos, el mismo agotamiento de tres días convertido en fórmulas. Se discutía, en el fondo, una sola cosa: qué era exactamente el Hijo respecto del Padre, y la cristiandad entera se estaba jugando en una palabra griega, en una letra de diferencia dentro de esa palabra. Los he visto fundar y hundir imperios; nunca he visto tanto peso sobre una letra.
 
-—¿Cuáles llevas? —pregunté, porque entre él y yo el rodeo habría sido una descortesía.
+No me corresponde juzgar lo que ahí se decidió, y este libro tampoco lo registra: mi libro registra dioses que juran, y Aquel del que hablaban los obispos no había jurado ni iba a jurar. Pero una noche del concilio, con las lámparas bajas y los escribas dormidos sobre los borradores del credo, me quedé sola en la sala capitular con mi libro en el regazo, y por primera vez en siglos no ofrecí la inscripción.
 
-—Tres y media —dijo, con la precisión de quien lo ha visto en otros mil veces—. Las guirnaldas hace años; aquí eran los cempasúchiles del altar de muertos, se me secaban en dos días, los muchachos le echaban la culpa al clima. Las vestiduras, mira —levantó el brazo: en la manga de la camisa de jardinero, una sombra que ningún jabón de este mundo iba a sacar—. El sudor empezó en marzo. Y la fragancia se está yendo, tú lo acabas de notar, no me lo niegues, que tienes cara de escribana midiendo un desgarro. —Bajó el brazo—. Me falta la quinta. Todavía me hallo en mi asiento. Todavía, cuando riego el jardín, el jardín y yo estamos de acuerdo. El día que eso se rompa, cuenta siete días.
+Ofrecí otra cosa. Dije, en mi lengua muerta, en voz baja, a la sala vacía que ya no me parecía vacía:
 
-—Vine a cuidarte —dije, y ya al decirlo supe que iba a fracasar igual que en Mesones, porque los de arriba no se dejan cuidar por la de abajo; el gremio no lo permite.
+—No te pido que firmes. Entiendo que no firmas. Pero soy la memoria de los de arriba, y los tuyos dicen que estás arriba, y mi libro va a durar más que yo. Si algún día quieres que algo conste —lo que sea, cuando sea—, habrá dónde.
 
-—Ya sé a qué viniste. Y sé lo de la señora del fuego y lo del señor de los ladrillos, y sé quién sigue en tu costura, y no soy yo, así que tu catre está bien puesto donde está. —Tomó su té—. No vine a esta ciudad huyendo, escribana. Vine porque aquí es donde mejor se muere del lado de acá del mundo. Este pueblo le pone flores a la muerte y le hace pan. Un deva sabe leer una plaza.
+Y cosí la página en blanco esa noche, entre la ciento sesenta y la ciento sesenta y uno, con hilo encerado y mis mejores manos.
 
-Afuera, en el jardín, un colibrí trabajaba el pirul. Śakra lo siguió con los ojos, con un gusto tan limpio que dolía, y comprendí que estaba despidiéndose de los colibríes en general, uno por uno, sin prisa, como quien cierra una contabilidad enorme en orden alfabético.
+No hubo señal. No esperen señal en esta historia; llevo diecisiete siglos sin ella y no me quejo. Hubo, eso sí, un descubrimiento técnico, hecho a la mañana siguiente por una escribana con sueño que quiso probar una tinta nueva en un margen: la página no recibe tinta. La gota resbala entera, sin dejar sombra, como agua en cera. Punzón, sangre, fuego de vela: la página no admite marca. Y cuando quise —por rigor profesional, con el corazón golpeando— medir si podía al menos desprenderla y coserla mejor, mis dedos no encontraron *cómo*. No hubo resistencia. Hubo falta de asa. La página en blanco no se deja escribir, no se deja arrancar, y no explica.
 
-—Te voy a pedir algo que no le he pedido a nadie en dos mil quinientos años —dijo entonces, sin dejar de mirar el jardín—. Y te lo pide el rey de los Treinta y Tres, para que sepas el peso: los devas morimos solos. Es la regla no escrita de los cielos. Cuando a uno le aparecen las señales, los demás dejan de mirarlo. No por crueldad: por espanto. Somos los seres más largos del samsara y los que peor cargamos su ley; el moribundo les recuerda a los sanos el fondo del contrato, y los sanos apartan la vista, y el que muere, muere en un palacio lleno, solo como un perro. Lo he visto hacer. Lo he *hecho*, escribana. Aparté la vista de amigos de veinte mil años. Me lo cobra la memoria desde entonces.
+He pensado todo lo que se puede pensar al respecto, y mi oficio me obliga a dejar constancia de las tres lecturas entre las que no he sabido decidir en mil setecientos años:
 
-Dejó el té. Me miró de frente, y en sus ojos de jardinero jubilado estaba el resto: el señor del rayo, el rey de la montaña del centro del mundo, el que interrogó al Despierto sobre el origen de la sed y recibió respuesta, el que ha visto marchitarse cielos enteros.
+Que la página está vacía como estaba vacío el cuarto del Templo: no por ausencia, sino por señorío.
 
-—Cuando me llegue la quinta señal, ven. Siéntate donde estás sentada ahora. Abre tu libro en mi página, y escribe mi muerte *mientras ocurre*. No después, como haces con todos. Mientras. Quiero irme sabiendo que una mano va anotando, que a alguien le consta, renglón por renglón. —Hizo una pausa y la voz le bajó, por primera vez en ochocientos años, a estatura de hombre—: No quiero morirme solo, Enheduanna. Ya sé cómo se hace. No quiero saber cómo se hace.
+Que la página es una cortesía: la Suya, respondiendo a la mía, un no-firmar que sin embargo aceptó tener lugar en mi libro, como acepta un rey una silla en casa ajena aunque no se siente.
 
-—Vendré —dije. La mano en mi bolsa, sobre el libro, para que la palabra pesara lo que tenía que pesar—. Y escribiré mientras.
+O que la página es un espejo, y que su blanco no dice nada de Él y lo dice todo de nosotros, los que necesitamos que conste.
 
-Asintió, como se firma un tratado, y el cuartito se quedó un momento en ese silencio bien barrido de toda la casa. Después recogió las tazas —es de los que recogen las tazas— y dijo, de espaldas, con un tono nuevo, administrativo, el tono con el que un rey pasa al siguiente punto de la agenda:
+No elijo. En este libro no se puede mentir, y elegir sin saber es la mentira más vieja del gremio.
 
-—Ahora pregúntame lo que viniste a preguntarme y no me has preguntado.
+Lo que sí elijo es registrar el hecho que importa a esta crónica, el hecho por el que este capítulo existe y por el que existo yo todavía: en un libro donde todo puede cerrarse, donde las páginas se apagan en el orden en que se cosieron, hay una, la cuarta de mis vivas, que ninguna mano —y cuando digo ninguna, el lector de esta historia sabrá muy pronto con cuánta exactitud lo digo— puede tocar.
 
-—¿Quién está arrancando mis páginas?
+Los obispos terminaron su credo y se fueron a pelear por él durante los siguientes mil setecientos años. La sala se desarmó en una semana. Y una copista vieja salió de Nicea con su burro y su libro, que pesaba lo mismo que a la entrada más el peso exacto de una página en blanco, que no es cero.
 
-—Lo he sentido dos veces en esta ciudad. La noche del ladrillo y la tarde del fuego. —Se volvió—. No lo he visto: lo he *sentido*, como se siente que dejó de llover. Los tuyos no pueden reconocerlo porque los tuyos nunca lo trataron; nosotros sí. Anduvo alrededor del Despierto años enteros, discutiéndole. Es de los nuestros y no es de nadie. No come fe, así que tu hambre no lo toca. No está en tu libro, así que tu costura no lo obliga. Y no odia, escribana; eso es lo que lo hace serio. Llega temprano, saluda bien, no da lata.
+No es cero. Eso es todo lo que sé de Él, después de veinticinco siglos: que su silencio pesa, y que el peso es amable.
 
-Las palabras de la vecina de la bata, exactas, en la boca del rey de los devas. El cuarto se me enfrió sin cambiar de temperatura.
-
-—Dime el nombre.
-
-Śakra miró un momento la página del jardín, donde el colibrí seguía en lo suyo, cosiendo el aire.
-
-—Māra —dijo—. Se llama Māra.
+Con eso me he sostenido. Ya se verá si alcanza.

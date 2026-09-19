@@ -1,77 +1,59 @@
-# 7. La segunda muerte
+# 7. El gran Pan ha muerto
 
-A Hestia la conocí el día que juró y no nos hemos separado nunca más de un siglo. Eso, en mi contabilidad, es intimidad.
+Del registro. Mar Jónico, hace mil novecientos años.
 
-Juró en una aldea de Grecia que todavía no sabía que iba a ser Grecia, y lo hizo sin ceremonia, a su manera: me sentó junto a su fuego, me dio de comer lentejas con laurel, y cuando terminé me dijo "ahora sí, trae tu libro", porque en su ley nadie firma nada con el estómago vacío. Era la diosa del hogar: no de la casa —la casa es de los lares y de los muros, cada quien su gremio— sino del centro caliente de la casa. Del punto exacto donde el fuego deja de ser incendio y se vuelve cocina.
+La historia está en Plutarco y pueden ir a leerla; los libros de los hombres la han cargado hasta ustedes con una fidelidad que me conmueve. Un barco mercante iba de Grecia a Italia. Al pasar cerca de la isla de Paxos, con la tarde quieta y el pasaje despierto, una voz enorme llamó desde tierra al piloto, un egipcio llamado Thamus, tres veces por su nombre, y le encargó: "Cuando llegues a la altura de Palodes, anuncia que el gran Pan ha muerto." Y Thamus, con el mar en calma frente a Palodes, gritó las palabras hacia la costa, y de la costa respondió un lamento vasto, de muchas voces que no se veían, como de una multitud asombrada. El asunto llegó a oídos del emperador Tiberio, que convocó al piloto, lo interrogó y le creyó.
 
-Nunca fue grande. Fue *primera*. En su tierra, toda ofrenda empezaba con una libación para ella, hasta las de sus hermanos gordos, y jamás la vi cobrar la precedencia. Cuando el hambre llegó para todos, no le costó esconderse: los grandes tuvieron que aprender a ser chicos, pero ella siempre había sido del tamaño de una lumbre. Cruzó los siglos de fogón en fogón, de brasero en anafre, y llegó a esta ciudad en el equipaje de una familia griega de comerciantes, en 1911, como llegan los suyos: sin que nadie la trajera.
+Eso dice el texto. Todo eso es verdad. Yo iba en ese barco.
 
-Los últimos cuarenta años era Doña Estia —así, con el nombre apenas desteñido; los dioses viejos ya no gastan en disfraces— portera de un edificio de la calle de Marsella, colonia Juárez. Seis pisos, dieciocho departamentos, la mitad rentados por gente sola. Ella tenía llaves de todos, con permiso y sin él, y su teología final cabía en un gesto: cuando sabía que un inquilino venía de un mal día, de un hospital, de un divorcio, subía antes que él y le dejaba la estufa encendida, una llama baja, para que la casa lo recibiera con el corazón prendido. Nadie sabía que era ella. Todos decían "qué raro, dejé apagado". Todos, sin excepción, se quedaban un momento junto a la llama antes de apagarla, y ese momento era su alimento. Comía poquito. Como siempre.
-
-Debí ir a verla el jueves, antes de subir al monte. Fui el viernes.
-
-Escríbanlo así, sin atenuantes, porque así lo llevo yo: fui el viernes.
+Lo que el texto no dice es por qué iba, y para contarlo tengo que retroceder a la primavera de aquel año, cuando el dios más viejo de Grecia me mandó llamar para encargarme su muerte.
 
 —
 
-Lo supe desde la esquina de Marsella y Dinamarca, porque el edificio tenía todas las ventanas doradas. Las dieciocho cocinas encendidas a la vez, a las siete de la tarde, con las llamas altas, y los vecinos empezando a salir a la banqueta con esa inquietud de manada que agarra la gente cuando huele gas donde no hay gas.
+Pan no era de los grandes. Era de los *anteriores*, que es otra categoría: los dioses que ya estaban cuando llegaron los del Olimpo, como está el monte cuando llega el templo. No tenía clero que valiera el nombre, ni más templos que grutas. Su alimento nunca fueron los himnos: era ese escalofrío sin motivo que agarra al caminante en el mediodía de los montes, cuando el sol está alto, las chicharras se callan de golpe y el silencio se vuelve una presencia con opinión. Ustedes todavía usan la palabra: pánico. Sepan que están citando a un muerto.
 
-La encontré en la portería, en su sillón de mimbre, junto a su parrilla de dos quemadores donde había café de olla todavía tibio. Tenía las manos en el regazo, una sobre otra, y sobre las manos, doblada en cuatro con esa pulcritud que yo ya conocía de una sábana de morgue, su página.
+Por eso el hambre le llegó antes que a nadie, y por un camino que nadie había previsto: los caminos. Roma no mató a Pan con edictos. Lo mató con ingeniería. Cada calzada que cruzaba un monte, cada puente, cada posta con su guarnición, era un pedazo de mediodía que dejaba de dar miedo. El imperio hizo del mundo un lugar transitable, y Pan vivía exactamente de lo intransitable. Fue el primer dios al que vi morir no de olvido, sino de *seguridad*.
 
-La desdoblé ahí mismo. Mi letra griega del siglo octavo antes de ustedes, la fórmula del juramento, la marca de su lumbre. El papel opaco ya, suave ya, piel de tambor destensada. Cerrada la página, cerrada la señora.
+Me mandó llamar con un pastor —sus mensajeros fueron siempre pastores, hasta el final— y subí a buscarlo a la Arcadia, que aún guardaba rincones sin calzada. Lo encontré en una gruta con olor a cabra y a tomillo, ya pequeño, ya lento, con las pezuñas gastadas como zapatos de pobre.
 
-Me quedé en cuclillas frente al sillón, tomándole las manos frías a la mujer que me dio de comer antes de dejarme trabajar durante veintiocho siglos, y por primera vez desde 1915 no pensé como escribana. Pensé, con una simpleza que me asustó: *se me está muriendo la familia.*
+—Escribana —me dijo—. Te he visto pasar novecientos años por mis montes y nunca te di el susto. Profesional con profesional, esas cosas se respetan.
 
-Después volví a pensar como escribana, que es mi manera de seguir respirando, y registré:
+—Me lo diste dos veces —dije—. Cerca de Tegea, y en Tesalia.
 
-Ninguna violencia en el cuerpo. Ningún forzamiento en la puerta. El café servido en dos pocillos, uno enfrente del otro, y el segundo pocillo *usado*. Hestia le dio café. A su asesino. Le dio café, porque jamás en veintiocho siglos dejó pasar a nadie a su fuego sin darle algo caliente, y el asesino se lo tomó.
+—Tres —dijo, con un resto de orgullo—. En Tesalia fueron dos, pero la segunda la achacaste al vino.
 
-Y las dieciocho estufas. Eso no fue de él. Eso fue de ella: la conocía. Sintió venir lo que venía —los suyos siempre saben cuándo un fuego se está por apagar, es su oficio—, y gastó lo que le quedaba en subir piso por piso, llave por llave, a dejarles a sus solos la casa con el corazón prendido una última vez. No huyó. No se escondió. Puso el café y esperó, con las manos en el regazo.
+Después se quedó callado un rato largo, escuchando su monte, y yo esperé, porque a los moribundos y a los dioses se les espera, y él era ambas cosas.
 
-Los del edificio decidieron esa noche que Doña Estia había muerto de su edad, que era una edad claramente enorme, y que lo de las estufas fue "un último detalle de la señora", y tuvieron razón en todo sin saber en cuánto. Al velorio, me dijeron después, fueron los dieciocho departamentos completos, y hubo café de olla, y nadie recordó quién lo puso. Bien. Que su último banquete fuera largo.
+—Me estoy acabando —dijo al fin, sin drama, como quien reporta el nivel de un pozo—. No me quejo del cómo. Me tocó el mundo ancho y me lo caminé entero. Pero he visto morir a los míos, a los anteriores, uno por uno, y todos se fueron igual: solos, en silencio, sin que nadie de afuera se enterara. La ninfa de un arroyo se seca y ni el arroyo lo nota. —Levantó la cabeza y me miró con esos ojos rectangulares de cabra que nunca aprendí a leer del todo—. Yo no quiero eso, escribana. Yo fui el miedo del mediodía. Que mi muerte se anuncie a gritos, sobre el agua, en la voz de un mortal cualquiera. Que la escuchen los que no creen. Que por una vez el escalofrío les llegue por la noticia y no por mí.
 
-Yo no me quedé al velorio. Estaba en la banqueta, con la página doblada en mi bolsillo contra el libro, cuando hice la pregunta que había que hacer, a la vecina del uno, una señora con bata de flores que fue la primera en salir cuando las ventanas se doraron:
+—¿Por qué un mortal cualquiera?
 
-—¿Vio salir a alguien de la portería, hoy en la tarde?
+—Porque si lo grita un dios, es teología. Si lo grita un piloto de barco, es *noticia*. Las noticias, Enheduanna, son el único género que los hombres nunca dejan de creer un poquito.
 
-—A un señor —dijo, sin dudarlo—. Como a las seis. Muy amable. Me detuvo la puerta.
+Discutimos los detalles como se discute un testamento, porque eso era. Él eligió el estrecho de Paxos, aguas de su tierra, con eco bueno. Yo pregunté quién daría la voz desde la costa, quién haría el encargo al piloto. Y aquí este libro me obliga a la exactitud: no lo sé. Pan sonrió con sus dientes de viejo y dijo "de eso me encargo yo, o se encarga quien se encarga", y no quiso decir más, y a los moribundos no se les insiste. He pensado en esa voz mil novecientos años. Era enorme y no era la suya. Dejo el hueco donde está. Ya dije que ese es mi oficio.
 
-—¿Cómo era?
+Murió a comienzos del verano, en su gruta, conmigo delante. Fue la primera muerte divina que atestigüé *en persona*, de principio a fin, en dos mil trescientos años de llevar el libro —hasta entonces siempre llegué después, a cerrar páginas ya frías—. Fue así: el olor a tomillo se hizo más fuerte, luego más simple, hasta ser solo el olor de una planta; el silencio de la gruta perdió su opinión y se volvió falta de ruido; y el cuerpo quedó, pequeño, antiguo, con la cara en una paz que se parecía tanto al cansancio que ya no he podido distinguirlas nunca. Su página se cerró sola bajo mi mano, opaca y suave.
 
-Y aquí la señora de la bata hizo algo que le he visto hacer a los testigos de todos los siglos: buscó en su memoria y encontró el hueco pulido de un nombre borrado.
+Y anoté algo esa tarde que iba a tardar dos mil años en volvérseme urgente. Lo copio: *Murió mejor que todos los anteriores. La diferencia no fue el dolor ni el tiempo. La diferencia fue que alguien lo estaba viendo.*
 
-—Pues... normal. Grande, no. Chico, tampoco. Como... —se apretó la bata— como esos señores que van a los velorios aunque no conocieran mucho al difunto, ¿me entiende? Que llegan temprano, saludan bien, no dan lata y ayudan a acomodar las sillas. Ese aire tenía. Hasta pensé: qué raro, si aquí no se ha muerto nadie.
+—
 
-—¿Le vio la cara?
+Lo del barco lo preparé yo, a la manera lenta de entonces: averigüé qué nave haría la ruta con buen pasaje —testigos: se necesitaban testigos con lenguas vivas— y compré mi lugar como viuda que volvía a Italia. El piloto era Thamus, egipcio, hombre serio, de los que revisan dos veces cada nudo. No le dije una palabra. Ese era el trato: la noticia tenía que agarrarlo limpio, sin aviso, para que su miedo fuera verdadero. La fe de los hombres huele la escenografía; el miedo genuino, en cambio, es contagioso hasta la médula.
 
-—Sí —dijo, angustiándose de a poco—. Sí se la vi. Es que no me... no me quedó. ¿Usted cree? Con lo fisonomista que soy.
+Cuando la voz llamó desde Paxos —tres veces, *Thamus, Thamus, Thamus*, y el mar quieto como una mesa—, yo estaba en la borda con el resto del pasaje, y aunque sabía lo que venía, el vello de los brazos se me levantó igual, porque la voz era del tamaño de una costa y estaba haciendo un encargo con la sencillez con que se encarga pan. Vi a Thamus dudar frente a Palodes; el texto de ustedes también lo dice y es verdad: decidió que solo gritaría si había calma, y hubo una calma como pocas he visto, el mar conteniendo la respiración. Gritó. Tenía buena voz de trabajo, hecha a mandar sobre el viento.
 
-Le dije que no se apurara, que así pasa, y es verdad que así pasa: yo llevo cuatro milenios viendo cómo pasa. Las huellas de ciertos caminantes son como las de los dioses, se deshacen sin testimonio fresco. Pero los dioses de mi libro dejan cuerpo y este caminante dejaba otra cosa: dejaba *modales*. Se toma el café que le sirven. Dobla la página en cuatro y la deja sobre las manos de la difunta, como se deja un misal. Detiene la puerta. Llega temprano, saluda bien, no da lata.
+"El gran Pan ha muerto."
 
-Alguien que va a las muertes como se va a los velorios: por respeto.
+Y la costa respondió.
 
-Esa noche caminé desde la Juárez hasta el Centro, hasta la calle de Mesones, sin taxi ni nada, porque necesitaba la ciudad en las plantas de los pies para pensar. Dos muertes. En el orden exacto del libro: página once, Kulla; página ciento cuatro, Hestia. El que seguía en la fila de mis páginas vivas dormía en una vecindad a veinte minutos de ahí, en un catre junto al zaguán, con un veladora eterna a la que le cambiaba el vaso cada nueve días.
+He oído lamentos multitudinarios en cuatro milenios: ciudades cayendo, pestes, estadios. Ninguno como ese. Venía de todas partes y de ninguna, de las peñas y de los pinos y del agua misma, muchas voces que no eran voces llorando con asombro, como si la propia tierra acabara de enterarse. Los del pasaje lloraban sin saber por qué, agarrados a la borda. El que iba a mi lado, un comerciante de aceite que roncaba desde Corfú, me apretó el brazo y me preguntó: "¿Quién es Pan?" Así, en ese orden: primero el llanto, después la pregunta. Nunca me ha vuelto a parecer tan exacto el orden de las cosas humanas.
 
-El Lar. El último portero de Roma.
+¿Quiénes lloraban en la costa? Anoto las hipótesis en orden de probabilidad, como me enseñaron mis años de archivo: los anteriores que quedaban, despidiendo al mayor de los suyos. O las criaturas menudas de Pan, sus ninfas y sus ecos, quedándose huérfanas en voz alta. O algo más simple y más grande que no sé nombrar. El hueco queda donde está.
 
-Me planté frente a la vecindad de Mesones a las once de la noche y toqué el portón como se toca cuando se viene del pasado: dos golpes, pausa, uno. Adentro se oyó el arrastre de unas chanclas inmortales.
+Lo que sí sé es lo que sintió mi libro. Lo llevaba contra el pecho, envuelto, y en el momento del lamento se puso tibio como una mano, más tibio que nunca antes, y entendí una ley que no estaba en mis tres leyes y que ningún dios me había enseñado, quizá porque ninguno la sabía: *el duelo también alimenta.* Llega tarde, no salva a nadie, pero alimenta algo. Aquella multitud invisible le estaba dando a Pan el último banquete de su historia, servido después de la muerte, y en alguna despensa del mundo esa comida se guardó.
 
-—¿Quién? —dijo la voz que llevaba dos mil años preguntando exactamente eso en esa exacta entonación, porque preguntar quién es toda la teología de un umbral.
+Cuando el asunto llegó a Roma y Tiberio convocó a Thamus, me las arreglé para estar cerca —los palacios siempre necesitan quien restaure documentos; algunas cosas no cambian en veinte siglos—. El emperador, dice Plutarco, interrogó al piloto y le creyó. Es verdad, y añado el detalle que el texto no trae: Tiberio, el hombre más poderoso del mundo, viejo y sombrío y enfermo de desconfianza, escuchó el relato completo sin interrumpir, y al final no preguntó "¿es cierto?". Preguntó, a sus sabios: "¿De qué murió?"
 
-—La escribana.
+Nadie supo contestarle.
 
-Silencio. Luego los cerrojos, uno, dos, tres —él sí cree en los cerrojos; es su liturgia— y el portón se abrió una cuarta, y apareció esa cara arrugada de nuez vieja, esos ojos de almendra amarga que vieron entrar y salir a Roma entera por las puertas que cuidó.
-
-Me miró de arriba abajo. Miró la calle vacía detrás de mí, con oficio.
-
-—Ciento once años —dijo, igual que el otro, porque los dioses llevan mejor las cuentas de mis ausencias que las de sus propias hambres—. Y vienes de noche, con cara de traer el libro y dos páginas cerradas.
-
-—Vengo a cuidarte —dije.
-
-El último lar de Roma soltó una risa corta, seca, de portero que ya lo oyó todo.
-
-—Escribana —dijo, abriendo el portón para dejarme pasar—: yo soy el que cuida. Pásale. Hay atole.
-
-Pasé. Adentro olía a veladora y a maíz. Me sirvió el atole en jarro de peltre, me acomodó un banco junto a su catre, se persignó ante su propia veladora con una desfachatez ecuménica que no le conocía, y mientras yo me quemaba los dedos con el jarro dijo, ya sin risa, mirando el zaguán:
-
-—Dos en una semana, en tu orden. Ya sé contar, ¿eh? Fui la nómina de un imperio. —Sopló su atole—. El que sigue soy yo.
+Yo sí sabía, y me callé, y bajé la vista, porque el único hombre en la sala que había hecho la pregunta correcta era el que administraba las calzadas.

@@ -1,4 +1,4 @@
-# 21. La vela
+# 34. La vela
 
 La llamada llegó un domingo a las siete de la mañana, del teléfono fijo de la casa de estudios. Era la coordinadora, una mujer joven que se disculpó tres veces por la hora, y su recado cabía en una frase que ella no sabía que era una sentencia de los suttas:
 

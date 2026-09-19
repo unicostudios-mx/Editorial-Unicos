@@ -1,55 +1,71 @@
-# 10. El fin de los templos
+# 10. La confesión
 
-Del registro. Alejandría, año 391.
+Valeria llegó al taller un martes a las ocho de la mañana, sin cafés, que era su manera de declarar la guerra, y puso sobre mi mesa de costura una carpeta beige de las que usa para sus artículos.
 
-De todos los dioses que he inscrito, Serapis fue el único que sabía lo que era, y esa lucidez le costó y le sirvió a partes iguales.
+—Te voy a contar una historia —dijo— y me vas a decir en qué me equivoco.
 
-Lo fabricaron. No lo digo como insulto: lo digo como consta. Cuando el primer Ptolomeo heredó Egipto de las guerras de Alejandro, se encontró con un problema administrativo del tamaño de dos civilizaciones: griegos y egipcios en la misma ciudad, cada quien con sus dioses, y ninguna gana de compartir altar. Y el rey hizo lo que hacen los reyes buenos para los asuntos prácticos: convocó comisión. Un sacerdote egipcio, un teólogo griego de la familia de los Eumólpidas, expertos, presupuesto. De ahí salió Serapis: barba griega, modales de Zeus, oficio de Osiris, un cesto de grano en la cabeza para que el pueblo entendiera que el asunto era la abundancia. Un dios de diseño, hecho para unificar el mercado.
+Llevaba diez años, me contó, coleccionando expedientes imposibles. Discretamente, como colecciona una historiadora seria: sin publicarlos, sin creerles, apuntándolos en una libreta con el rótulo irónico de *Milagros*. El hombre de Iztapalapa, 2019, cuyo cuerpo dio una edad de novecientos años y cuya acta se extravió tres veces. La mujer de Oaxaca que los forenses describieron una semana como "de identidad imposible" y a la siguiente ya nadie del turno recordaba haber procesado. Un patrón de cuerpos que aparecían, escandalizaban a un laboratorio, y se iban desdibujando del papeleo como se desdibuja un sueño a media mañana, hasta quedar en anécdota y luego en nada.
 
-Yo fui a inscribirlo con más curiosidad que respeto, lo confieso aquí donde no puedo mentir. Salí dos horas después con el respeto multiplicado y la curiosidad intacta, que es la mejor proporción que conozco.
+—Siempre pensé que el patrón era burocrático —dijo—. La incompetencia parece sobrenatural si la miras con cariño. Pero llevo dos semanas revisándolo todo junto, y el patrón no es de trámite. Es de *disolución*. Los expedientes no se pierden, Edna: se evaporan con calendario, como si la realidad tuviera un plazo para dejar de constar. —Abrió la carpeta—. Y luego está mi restauradora favorita.
 
-Porque Serapis *sabía*. Firmó mi libro y me dijo, con una franqueza que ningún dios nacido de la tierra se habría permitido:
+Fue poniendo fotos sobre la mesa como quien pone cartas: yo en el Incifo, tomándole la mano al cuerpo de Kulla. Yo en la banqueta de Marsella, la noche de las dieciocho ventanas doradas, interrogando a la vecina de la bata. Yo entrando a la vecindad de Mesones a las once y media de la noche, con mi bolsa contra el pecho.
 
-—Los dos somos artesanías, escribana. A ti te hizo una comisión de dioses; a mí, una comisión de hombres. La diferencia es que yo no me hago ilusiones sobre mi origen, y eso, vas a ver, es una ventaja teológica.
+—Me mentiste con las fibras —dijo, sin triunfo, y eso fue lo que me dolió: lo dijo con tristeza—. Celulosa moderna. Llevé una al microscopio del instituto, porque te la robé del guante, porque soy esa clase de amiga. Papel de trapo, lino y cáñamo, apresto de gelatina. Ese papel no se fabrica desde hace siglos, y tú lo sabías mejor que nadie en esta ciudad. —Se sentó—. Un cuerpo con agua del Éufrates en los dientes. Una portera griega que muere la misma semana con su edificio encendido como un altar. Tú, que vas de una muerte a la otra como quien sigue una lista. Y una libreta mía con diez años de muertos que se evaporan. Dime en qué me equivoco, Edna. Porque la única historia que me cuadra completa no me la permite mi cabeza.
 
-Y lo fue. Mientras los dioses viejos administraban su decadencia con la dignidad ciega de la aristocracia, Serapis administró su éxito como el empresario que era: templos filiales, sucursales del culto, milagros de sanación con horario. Su casa matriz, el Serapeo de Alejandría, llegó a ser de las cosas más grandes que la fe ha construido: una acrópolis artificial sobre cien escalones, con biblioteca propia —la hija de la grande—, y el dios adentro, colosal, de maderas preciosas y metales, con esa técnica de los artesanos alejandrinos que hacía que los ojos parecieran seguirte. Los seguían. Ahí vivía. Un dios de diseño entiende que la imagen no es su retrato: es su domicilio.
+Me quedé mirando a mi amiga: treinta y ocho años, la mejor mente que he tratado en este siglo, hija de guadalupanos, atea con la ferocidad de las hijas de guadalupanos, con las ojeras de dos semanas de no dormir por culpa de un patrón. Y pensé en Kulla con su página en la mano, y en Hestia sirviendo el segundo pocillo, y en la frase que me había traído caminando desde la Juárez: *se me está muriendo la familia.* Los vivos que me quedaban cabían en los dedos de una mano.
 
-Cuando el hambre general empezó —la de después de Nicea, la lenta, la administrada—, Serapis fue de los que mejor la leyeron. Me lo dijo en su última buena década, paseando por su biblioteca:
+Uno no adopta a un mortal a la ligera. Me lo había prohibido desde 1915, y esa prohibición también era una puerta que yo había cerrado, y ya se sabía en esta historia lo que pasa con mis puertas cerradas.
 
-—Esto no es una guerra, Enheduanna, y los míos se equivocan preparándose para una guerra. Las guerras las gana el más fuerte. Esto es un cambio de administración. Los cambios de administración los gana el que firma el inventario. —Se detuvo frente a sus propios rollos—. Van a venir por el edificio. No por mí: por el edificio. Lo que no entra en inventario no existe para el nuevo administrador, y nosotros somos, para ellos, edificios. Deberías avisarles a los chicos: que aprendan desde ahora a no ser edificios.
+—No te equivocas en nada —dije—. Te faltan datos. ¿Quieres los datos?
 
-*Que aprendan a no ser edificios.* Lo anoté esa noche. Es, de todo lo que me han dicho los de arriba en cuatro milenios, la instrucción de supervivencia más exacta, y la dio un dios fabricado por comisión.
+—Quiero los datos.
 
-—
+—Los datos tienen un costo, Valeria. No es dinero y no es fe. Es peor: es que son ciertos. Se pagan una sola vez y no hay devolución. La mujer que salga de este taller hoy en la tarde no va a poder volver a ser la de esta mañana. Te lo digo con conocimiento de causa: yo llevo cuatro mil años sin poder volver.
 
-Los decretos llegaron como llegan los decretos: primero como rumor, luego como copia, luego como soldados. El emperador Teodosio había ido cerrando la llave año tras año —prohibidos los sacrificios, prohibidas las visitas a los templos, prohibido mirar las estatuas *como quien mira a un dios*, que es la prohibición más fina y más feroz que ha redactado burócrata alguno—. En Alejandría, la cosa se calentó como se calienta todo en Alejandría: con motín. Hubo muertos de ambos lados, hubo paganos atrincherados en el Serapeo, hubo un obispo, Teófilo, que entendía de poder como Serapis entendía de comercio, y hubo, al final, la autorización imperial que todos sabían que llegaría.
+Val es valiente, pero no es imprudente, y la vi tomarse en serio el precio: se quedó callada un minuto entero, mirando la carpeta de sus milagros. Luego dijo, muy quedito, la cosa más honesta que le he oído a un mortal en mucho tiempo:
 
-Yo estaba en la escalinata aquel día, entre la multitud, con el libro contra el pecho. Cien escalones de gente: arriba los soldados y los monjes del obispo, abajo la ciudad entera, y en medio, el aire tenso de los finales que ya nadie puede administrar.
+—Si me voy ahorita, ¿voy a dejar de pensar en esto algún día?
 
-Y pasó lo que las propias crónicas cristianas registran con orgullo, y que yo confirmo palabra por palabra porque lo vi: los soldados dudaban. Frente al coloso, hacha en mano, los hombres del imperio más poderoso del mundo dudaban, porque toda Alejandría sabía desde niña que si una mano tocaba a Serapis, la tierra se abriría y el cielo se caería a pedazos. Entonces un soldado —las crónicas no dan el nombre; yo tampoco: era un hombre con miedo, que es el nombre más común del mundo— subió por el andamio, tomó vuelo y descargó el hacha contra la mejilla del dios.
+—No.
 
-El golpe sonó a lo que era: madera vieja. La mejilla se desprendió, giró en el aire, cayó los cien escalones rebotando —un pedazo de cara de dios rebotando escaleras abajo, ese ruido no se me ha quitado en dieciséis siglos— y de la madera abierta salió, ante diez mil testigos, una familia de ratas que llevaba años viviendo en la cabeza de Serapis.
-
-No se abrió la tierra. No se cayó el cielo.
-
-Se cayó algo peor, y lo sentí caerse en la escalinata entera, en la respiración de diez mil personas a la vez: se cayó el *por si acaso*. Esa última moneda de la fe, la del incrédulo que igual no toca la estatua, la del converso que igual saluda de lejos al dios viejo. El por-si-acaso alimentaba a media Alejandría divina, y aquel hacha lo cortó de un tajo. He visto morir dioses de hambre y dioses de olvido; aquella tarde vi a una ciudad entera dejar de tener miedo en el mismo minuto, y no sé cómo se registra eso, y lo registro así: el silencio que siguió al golpe duró tres respiraciones y valió por un siglo de sequía.
-
-Desarmaron el coloso el resto del día, con sierras, con sogas, con método. Repartieron los pedazos por los barrios para quemarlos en público, uno por horno, que es la liturgia exacta del inventario: no destruir el edificio, sino demostrar que era edificio.
-
-A Serapis lo encontré esa noche en el puerto, sentado en un noray, del tamaño de un estibador cansado. Miraba arder, a lo lejos, uno de sus pedazos.
-
-—No me mires con duelo, escribana, que me lo sé de memoria —me dijo—. Tenían razón en todo, ¿sabes? Era madera. Siempre fue madera. Yo estuve en la comisión, conocí al carpintero, un hombre excelente, le gustaba el vino de Quíos. —Se encogió de hombros—. El error de ellos no es de hecho, es de inventario: creen que demostrando la madera me demostraron a mí. Yo no vivía *en* la madera, vivía en el por-si-acaso. Y eso sí me lo quemaron hoy. Eso no se restaura.
-
-—¿Cuánto te queda? —le pregunté, porque a él se le podía preguntar así, entre profesionales.
-
-—Poco y malo. —Sonrió con la mejilla entera, él sí—. Me quedan los chistes. ¿Sabes que ya anda uno en los mercados? Que dentro de mi cabeza había ratas, y que por eso los oráculos salían roñosos. Es bueno. Me lo inventaron los mismos que ayer me traían a sus hijos enfermos. —Miró el fuego lejano—. El chiste es la última renta de un dios, Enheduanna. Se cobra en cobre, pero se cobra. Cuando ya ni se burlen, entonces sí, vas cerrando mi página.
-
-Le duró el cobre veinte años. Su página se cerró una tarde de invierno, sola, bajo mi mano, mientras yo copiaba a Homero de encargo, y en el mercado de al lado ya nadie se acordaba del chiste.
+—Entonces ya pagué. —Cerró la carpeta—. Dame los datos.
 
 —
 
-Eso fue el año 391 y su década: no una batalla, un inventario. De los miles de mi libro, los que sobrevivieron aquel siglo fueron exactamente los que entendieron a tiempo la instrucción del fabricado: los que supieron dejar de ser edificios. Los chicos, los domésticos, los que cupieron en una costumbre: en encender la estufa del triste, en bendecir el umbral, en el golpecito del albañil sobre el tabique asentado. La lumbre y el ladrillo les ganaron a los colosos, y ningún teólogo de arriba o de abajo lo tiene todavía en sus manuales.
+Fui por el libro a la trastienda. Lo puse sobre la mesa, envuelto, y lo desenvolví sin ceremonia, porque la ceremonia la iba a poner él solo, y la puso: el taller entero pareció acomodarse alrededor del Registro como se acomoda un público.
 
-Y quedó, de aquella tarde de la escalinata, mi anotación de trabajo, que releo cada vez que este siglo me presume alguna demolición:
+—Antes de contarte nada, vas a hacer una cosa por mí —dije—. Vas a poner la mano sobre este libro y me vas a preguntar lo que quieras. Lo que sea. Y yo voy a contestar con la mano en él.
 
-*Al dios no lo mató el hacha. Lo mató la falta de temblor.*
+—¿Es una Biblia?
+
+—Es lo contrario de una Biblia. Las escrituras las dictan los de arriba y las escriben los de abajo. Esta la escribió una de abajo y la firmaron los de arriba. —Acerqué su silla—. Tiene una propiedad que te va a interesar metodológicamente: sobre él no se puede mentir. No "no se debe": no se *puede*. Vas a tener que descubrir tú sola que eso es cierto, porque es justo el tipo de afirmación que tu oficio te obliga a reventar. Por eso empezamos así. Pregunta.
+
+Puso la mano en la piel del libro con la punta de los dedos primero, como se toca una plancha que puede estar caliente. La vi registrar la tibieza —esa tibieza exacta de mano que se deja tomar— y la vi decidir que era mi estufa, el clima, cualquier cosa. Bien. Que dude. Su duda era el instrumento.
+
+—¿Cómo te llamas? —empezó, con voz de seminario.
+
+—Enheduanna. —La mano en el libro, la lengua obediente. Después de un siglo de "Edna Aranda", mi nombre completo en mi propia boca sonó como una campana en un cuarto chico—. Hija de Sargón de Acad. Fui suma sacerdotisa de la luna en Ur hace cuatro mil trescientos años, y desde entonces llevo este registro.
+
+Vi el nombre golpearla. Es historiadora: sabía exactamente quién era Enheduanna. Sabía de mi disco de calcita, de mis himnos, de mi firma, la primera de la especie. Verla contrastar a la autora de sus seminarios con la restauradora que le cobraba facturas fue un espectáculo que casi me hace sonreír en plena confesión.
+
+—Eso es imposible.
+
+—Esa palabra ya la gastó el forense. Pregunta cosas comprobables. Estás desperdiciando un instrumento de precisión.
+
+Se enderezó. Y empezó el interrogatorio que yo quería: fechas, dinastías, lecturas de tablillas que solo tres sumeriólogos vivos podrían corroborar, trampas —me preguntó por un himno que no existe, y contesté que no existe; me citó mal a propósito un verso mío, y la corregí con la pedantería intacta de su autora—. Dos horas. A la segunda hora ya no preguntaba historia: preguntaba lo otro.
+
+—¿Los dioses existen?
+
+—Existieron todos. Quedan cuatro, y una página que no me corresponde contar todavía.
+
+—¿Quién mató al hombre del cemento?
+
+—No lo sé. —El libro tibio bajo nuestras manos, la verdad saliendo pareja, sin esfuerzo—. Sé cómo: le arrancaron su página a este libro. Sé que va en orden: el orden en que están cosidos. Y sé quién sigue, y por eso duermo desde el viernes en un catre en la calle de Mesones, junto a un señor de dos mil años que hace el mejor atole de esta ciudad y no me deja pagarle el gas.
+
+Valeria Ibarra, doctora en historia de las religiones, atea de tercera generación como a ella le gustaba decir, se quedó mirando nuestras dos manos juntas sobre la piel del Registro. Y entonces hizo lo que la hace ella, lo que ningún creyente y ningún incrédulo habrían hecho, lo que solo hace la ciencia cuando es valiente de verdad:
+
+—Está bien —dijo—. Hipótesis de trabajo: todo esto es cierto. —Sacó su libreta de milagros, la abrió en una página nueva, y escribió la fecha con pulso casi firme—. Entonces necesito el listado completo de tus páginas vivas, el intervalo entre las dos muertes, y un mapa. Si el asesino va en orden, Edna, tu libro no es solo el móvil.
+
+Levantó los ojos, y ya no eran los de la mañana. El costo estaba pagado; lo que había comprado era esto: miedo con método.
+
+—Es la lista de víctimas. Y me acabas de decir que duermes justo encima de la siguiente.

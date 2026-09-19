@@ -1,8 +1,8 @@
-# 25. La última entrada
+# 39. La última entrada
 
 Este libro que ustedes leen lo escribí en once semanas, en las noches de todo lo que he contado, en el cuaderno de tapas azules que Amalia me regaló en 1903 y que nunca había estrenado porque no encontraba historia que lo mereciera. Lo estrené para esta. Es mi primera obra en primera persona desde los himnos de Ur, y va a ser la última, y me da una risa vieja pensar que mi carrera entera cabe entre dos confesiones: la de una sacerdotisa a su diosa, y la de una escribana a sus lectores. Cuatro mil años para cambiar de destinatario. No se me puede acusar de prisas.
 
-Anoche puse el punto final al capítulo veinticuatro. Releí de corrido, corregí lo justo —el pudor quiso cortar más; no lo dejé: este libro se debe a la ley de mi otro libro, y aquí tampoco se miente—, y dejé el cuaderno en la mesa de Valeria con una nota de dos palabras que ella va a reconocer, porque son las dos sílabas con las que se cierran las cosas grandes en esta historia, usadas por fin del derecho: *Ya está.*
+Anoche puse el punto final al capítulo treinta y ocho. Releí de corrido, corregí lo justo —el pudor quiso cortar más; no lo dejé: este libro se debe a la ley de mi otro libro, y aquí tampoco se miente—, y dejé el cuaderno en la mesa de Valeria con una nota de dos palabras que ella va a reconocer, porque son las dos sílabas con las que se cierran las cosas grandes en esta historia, usadas por fin del derecho: *Ya está.*
 
 Hoy es el último trabajo. Hoy escribo la entrada siete mil doscientos cuatro.
 

@@ -1,4 +1,4 @@
-# 17. El intento
+# 27. El intento
 
 Cerré el Registro en 1915 sin ceremonia, y ese fue quizá el error de fondo: las cosas grandes hechas sin ceremonia se quedan sin bisagras, y luego no hay por dónde agarrarlas para deshacerlas.
 

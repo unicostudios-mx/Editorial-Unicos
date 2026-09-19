@@ -1,61 +1,77 @@
-# 8. La página en blanco
+# 8. La segunda muerte
 
-Del registro. Nicea, hace mil setecientos años. Y antes.
+A Hestia la conocí el día que juró y no nos hemos separado nunca más de un siglo. Eso, en mi contabilidad, es intimidad.
 
-He inscrito siete mil doscientos tres nombres. He visto jurar a señores de la tormenta con el rayo todavía en la mano y a diosecillos de letrina que firmaron llorando de agradecimiento porque nadie, nunca, les había pedido su nombre completo. Mi libro no discrimina: registra lo que se deja registrar.
+Juró en una aldea de Grecia que todavía no sabía que iba a ser Grecia, y lo hizo sin ceremonia, a su manera: me sentó junto a su fuego, me dio de comer lentejas con laurel, y cuando terminé me dijo "ahora sí, trae tu libro", porque en su ley nadie firma nada con el estómago vacío. Era la diosa del hogar: no de la casa —la casa es de los lares y de los muros, cada quien su gremio— sino del centro caliente de la casa. Del punto exacto donde el fuego deja de ser incendio y se vuelve cocina.
 
-Hay una página que no tiene nombre. Está entre la ciento sesenta y la ciento sesenta y uno, cosida por mis manos, y lleva diecisiete siglos en blanco. Es la única página del Registro que no se puede escribir. También es la única que no se puede arrancar, y de esa segunda propiedad depende, como se verá, todo el final de esta historia. Pero no adelanto. Primero debo contar cómo se ganó su lugar una página vacía, y para eso tengo que confesar el fracaso más largo de mi carrera.
+Nunca fue grande. Fue *primera*. En su tierra, toda ofrenda empezaba con una libación para ella, hasta las de sus hermanos gordos, y jamás la vi cobrar la precedencia. Cuando el hambre llegó para todos, no le costó esconderse: los grandes tuvieron que aprender a ser chicos, pero ella siempre había sido del tamaño de una lumbre. Cruzó los siglos de fogón en fogón, de brasero en anafre, y llegó a esta ciudad en el equipaje de una familia griega de comerciantes, en 1911, como llegan los suyos: sin que nadie la trajera.
 
-—
+Los últimos cuarenta años era Doña Estia —así, con el nombre apenas desteñido; los dioses viejos ya no gastan en disfraces— portera de un edificio de la calle de Marsella, colonia Juárez. Seis pisos, dieciocho departamentos, la mitad rentados por gente sola. Ella tenía llaves de todos, con permiso y sin él, y su teología final cabía en un gesto: cuando sabía que un inquilino venía de un mal día, de un hospital, de un divorcio, subía antes que él y le dejaba la estufa encendida, una llama baja, para que la casa lo recibiera con el corazón prendido. Nadie sabía que era ella. Todos decían "qué raro, dejé apagado". Todos, sin excepción, se quedaban un momento junto a la llama antes de apagarla, y ese momento era su alimento. Comía poquito. Como siempre.
 
-Supe de Él por primera vez en Babilonia, en los años del exilio de Judá. Yo trabajaba entonces de copista en la casa de las tablillas, y los deportados de Jerusalén andaban por los canales con esa manera de cargar la derrota que me hizo fijarme: no cargaban imágenes. Todos los desterrados que he visto —y he visto a todos— cargan a sus dioses en bultos, los esconden en la masa del pan, los disfrazan de peine o de espejo. Estos cargaban rollos. Su dios cabía en un texto y por lo tanto no pesaba, y por lo tanto no se podía confiscar, y yo, escribana al fin, sentí ese respeto de gremio que no se elige.
+Debí ir a verla el jueves, antes de subir al monte. Fui el viernes.
 
-Pregunté, con mis maneras de mil años, dónde podía presentar mis respetos a su señor. Un anciano de los suyos me miró largo y me dijo la primera de las frases que coleccioné durante los siglos siguientes:
-
-—No está en ninguna parte, mujer. Por eso no lo pudieron quemar.
-
-Fui entendiendo de a poco, era mi trabajo entender: un Dios sin estatua, que prohibía la estatua. Un Dios cuyo nombre no se pronunciaba, escrito con letras que eran una advertencia más que un sonido. Un Dios que no compartía altar, no negociaba precedencias, no firmaba tratados con sus vecinos de arriba —y vaya que mi libro está lleno de tratados que sus vecinos quisieron ofrecerle—. Todo lo que yo sabía de dioses estaba hecho de forma, lugar y nombre. Aquí había Alguien que había renunciado a los tres, o que nunca los necesitó, y que en lugar de comer testimonio como todos parecía... no sé el verbo, y llevo veinticinco siglos buscándolo. *Sostenerse solo* es lo menos inexacto que tengo.
-
-Siglos después, cuando el general romano Pompeyo tomó Jerusalén, hizo lo que hacen los generales: entró a donde no debía. Apartó el velo del recinto más sagrado del Templo, el lugar donde cualquier pueblo del mundo guardaba a su dios más gordo, y lo que encontró lo dejaron escrito los propios historiadores de ustedes: nada. Un cuarto vacío. *La sede vacía y los misterios vanos*, escribió Tácito, con ese desdén romano que era su manera de persignarse. Roma entera se rio del pueblo que adoraba un cuarto vacío.
-
-Yo no me reí. Yo llevaba para entonces dos mil años inscribiendo dioses, y sabía leer un cuarto vacío mejor que cualquier general: no era que no hubiera nadie. Era que Alguien no estaba *en exhibición*. Toda mi ciencia era la ciencia del testigo, y estaba frente al primer Señor que no aceptaba testigos. Que los tenía —millones, fieles como pocos— pero no los *necesitaba*, y esa diferencia, que parece de matiz, es del tamaño de un abismo. Yo alimento con mi libro a todo el que firma: mi página es el último creyente de cada dios. ¿Qué podía ofrecerle mi página a Quien no come de eso?
-
-Lo intenté igual. Cuatro veces en cuatro siglos, con toda la humildad de protocolo que mi condena me permite. No voy a detallar los intentos; el libro me deja callar, y hay silencios que son la única reverencia disponible. Diré el resultado, que fue las cuatro veces el mismo, y que no se pareció a lo del Atón. Con el Atón no hubo interlocutor: fue como jurar ante el mediodía. Aquí hubo otra cosa. Hubo la certeza —física, en la nuca, en las plantas de los pies— de ser leída de vuelta. De que mi ofrecimiento era escuchado, entendido hasta el fondo, hasta capas de mi oficio que yo misma no conozco, y declinado. Sin voz, sin señal, sin la menor descortesía. Como declina un rey una moneda: sin tocarla.
-
-La cuarta vez, mi libro tembló. Es la única vez en cuatro mil años. No lo he contado nunca y lo escribo ahora con las dos manos en la mesa: el Registro, que ha estado abierto en batallas del cielo y funerales de panteones enteros sin mover una fibra, tembló como tiembla un aprendiz. Entonces dejé de intentar. Hay gremios, aprendí, que se saludan de lejos.
+Escríbanlo así, sin atenuantes, porque así lo llevo yo: fui el viernes.
 
 —
 
-Y sin embargo cosí la página. Explico por qué, porque es la decisión mía más discutida de este libro, y los pocos que la conocieron me la discutieron todos.
+Lo supe desde la esquina de Marsella y Dinamarca, porque el edificio tenía todas las ventanas doradas. Las dieciocho cocinas encendidas a la vez, a las siete de la tarde, con las llamas altas, y los vecinos empezando a salir a la banqueta con esa inquietud de manada que agarra la gente cuando huele gas donde no hay gas.
 
-Fue en Nicea, en el año 325 de la era de ustedes.
+La encontré en la portería, en su sillón de mimbre, junto a su parrilla de dos quemadores donde había café de olla todavía tibio. Tenía las manos en el regazo, una sobre otra, y sobre las manos, doblada en cuatro con esa pulcritud que yo ya conocía de una sábana de morgue, su página.
 
-Yo estaba ahí. En el registro de los hombres eso ni consta ni tendría por qué: una copista más entre las decenas que los obispos trajeron, una mujer mayor que preparaba tinta y afilaba cálamos en las bancas del fondo. Los concilios se parecen a las asambleas de dioses más de lo que cualquiera de las dos partes soportaría saber: la misma pelea por las precedencias, los mismos flacos sentados junto a los gordos, el mismo agotamiento de tres días convertido en fórmulas. Se discutía, en el fondo, una sola cosa: qué era exactamente el Hijo respecto del Padre, y la cristiandad entera se estaba jugando en una palabra griega, en una letra de diferencia dentro de esa palabra. Los he visto fundar y hundir imperios; nunca he visto tanto peso sobre una letra.
+La desdoblé ahí mismo. Mi letra griega del siglo octavo antes de ustedes, la fórmula del juramento, la marca de su lumbre. El papel opaco ya, suave ya, piel de tambor destensada. Cerrada la página, cerrada la señora.
 
-No me corresponde juzgar lo que ahí se decidió, y este libro tampoco lo registra: mi libro registra dioses que juran, y Aquel del que hablaban los obispos no había jurado ni iba a jurar. Pero una noche del concilio, con las lámparas bajas y los escribas dormidos sobre los borradores del credo, me quedé sola en la sala capitular con mi libro en el regazo, y por primera vez en siglos no ofrecí la inscripción.
+Me quedé en cuclillas frente al sillón, tomándole las manos frías a la mujer que me dio de comer antes de dejarme trabajar durante veintiocho siglos, y por primera vez desde 1915 no pensé como escribana. Pensé, con una simpleza que me asustó: *se me está muriendo la familia.*
 
-Ofrecí otra cosa. Dije, en mi lengua muerta, en voz baja, a la sala vacía que ya no me parecía vacía:
+Después volví a pensar como escribana, que es mi manera de seguir respirando, y registré:
 
-—No te pido que firmes. Entiendo que no firmas. Pero soy la memoria de los de arriba, y los tuyos dicen que estás arriba, y mi libro va a durar más que yo. Si algún día quieres que algo conste —lo que sea, cuando sea—, habrá dónde.
+Ninguna violencia en el cuerpo. Ningún forzamiento en la puerta. El café servido en dos pocillos, uno enfrente del otro, y el segundo pocillo *usado*. Hestia le dio café. A su asesino. Le dio café, porque jamás en veintiocho siglos dejó pasar a nadie a su fuego sin darle algo caliente, y el asesino se lo tomó.
 
-Y cosí la página en blanco esa noche, entre la ciento sesenta y la ciento sesenta y uno, con hilo encerado y mis mejores manos.
+Y las dieciocho estufas. Eso no fue de él. Eso fue de ella: la conocía. Sintió venir lo que venía —los suyos siempre saben cuándo un fuego se está por apagar, es su oficio—, y gastó lo que le quedaba en subir piso por piso, llave por llave, a dejarles a sus solos la casa con el corazón prendido una última vez. No huyó. No se escondió. Puso el café y esperó, con las manos en el regazo.
 
-No hubo señal. No esperen señal en esta historia; llevo diecisiete siglos sin ella y no me quejo. Hubo, eso sí, un descubrimiento técnico, hecho a la mañana siguiente por una escribana con sueño que quiso probar una tinta nueva en un margen: la página no recibe tinta. La gota resbala entera, sin dejar sombra, como agua en cera. Punzón, sangre, fuego de vela: la página no admite marca. Y cuando quise —por rigor profesional, con el corazón golpeando— medir si podía al menos desprenderla y coserla mejor, mis dedos no encontraron *cómo*. No hubo resistencia. Hubo falta de asa. La página en blanco no se deja escribir, no se deja arrancar, y no explica.
+Los del edificio decidieron esa noche que Doña Estia había muerto de su edad, que era una edad claramente enorme, y que lo de las estufas fue "un último detalle de la señora", y tuvieron razón en todo sin saber en cuánto. Al velorio, me dijeron después, fueron los dieciocho departamentos completos, y hubo café de olla, y nadie recordó quién lo puso. Bien. Que su último banquete fuera largo.
 
-He pensado todo lo que se puede pensar al respecto, y mi oficio me obliga a dejar constancia de las tres lecturas entre las que no he sabido decidir en mil setecientos años:
+Yo no me quedé al velorio. Estaba en la banqueta, con la página doblada en mi bolsillo contra el libro, cuando hice la pregunta que había que hacer, a la vecina del uno, una señora con bata de flores que fue la primera en salir cuando las ventanas se doraron:
 
-Que la página está vacía como estaba vacío el cuarto del Templo: no por ausencia, sino por señorío.
+—¿Vio salir a alguien de la portería, hoy en la tarde?
 
-Que la página es una cortesía: la Suya, respondiendo a la mía, un no-firmar que sin embargo aceptó tener lugar en mi libro, como acepta un rey una silla en casa ajena aunque no se siente.
+—A un señor —dijo, sin dudarlo—. Como a las seis. Muy amable. Me detuvo la puerta.
 
-O que la página es un espejo, y que su blanco no dice nada de Él y lo dice todo de nosotros, los que necesitamos que conste.
+—¿Cómo era?
 
-No elijo. En este libro no se puede mentir, y elegir sin saber es la mentira más vieja del gremio.
+Y aquí la señora de la bata hizo algo que le he visto hacer a los testigos de todos los siglos: buscó en su memoria y encontró el hueco pulido de un nombre borrado.
 
-Lo que sí elijo es registrar el hecho que importa a esta crónica, el hecho por el que este capítulo existe y por el que existo yo todavía: en un libro donde todo puede cerrarse, donde las páginas se apagan en el orden en que se cosieron, hay una, la cuarta de mis vivas, que ninguna mano —y cuando digo ninguna, el lector de esta historia sabrá muy pronto con cuánta exactitud lo digo— puede tocar.
+—Pues... normal. Grande, no. Chico, tampoco. Como... —se apretó la bata— como esos señores que van a los velorios aunque no conocieran mucho al difunto, ¿me entiende? Que llegan temprano, saludan bien, no dan lata y ayudan a acomodar las sillas. Ese aire tenía. Hasta pensé: qué raro, si aquí no se ha muerto nadie.
 
-Los obispos terminaron su credo y se fueron a pelear por él durante los siguientes mil setecientos años. La sala se desarmó en una semana. Y una copista vieja salió de Nicea con su burro y su libro, que pesaba lo mismo que a la entrada más el peso exacto de una página en blanco, que no es cero.
+—¿Le vio la cara?
 
-No es cero. Eso es todo lo que sé de Él, después de veinticinco siglos: que su silencio pesa, y que el peso es amable.
+—Sí —dijo, angustiándose de a poco—. Sí se la vi. Es que no me... no me quedó. ¿Usted cree? Con lo fisonomista que soy.
 
-Con eso me he sostenido. Ya se verá si alcanza.
+Le dije que no se apurara, que así pasa, y es verdad que así pasa: yo llevo cuatro milenios viendo cómo pasa. Las huellas de ciertos caminantes son como las de los dioses, se deshacen sin testimonio fresco. Pero los dioses de mi libro dejan cuerpo y este caminante dejaba otra cosa: dejaba *modales*. Se toma el café que le sirven. Dobla la página en cuatro y la deja sobre las manos de la difunta, como se deja un misal. Detiene la puerta. Llega temprano, saluda bien, no da lata.
+
+Alguien que va a las muertes como se va a los velorios: por respeto.
+
+Esa noche caminé desde la Juárez hasta el Centro, hasta la calle de Mesones, sin taxi ni nada, porque necesitaba la ciudad en las plantas de los pies para pensar. Dos muertes. En el orden exacto del libro: página once, Kulla; página ciento cuatro, Hestia. El que seguía en la fila de mis páginas vivas dormía en una vecindad a veinte minutos de ahí, en un catre junto al zaguán, con un veladora eterna a la que le cambiaba el vaso cada nueve días.
+
+El Lar. El último portero de Roma.
+
+Me planté frente a la vecindad de Mesones a las once de la noche y toqué el portón como se toca cuando se viene del pasado: dos golpes, pausa, uno. Adentro se oyó el arrastre de unas chanclas inmortales.
+
+—¿Quién? —dijo la voz que llevaba dos mil años preguntando exactamente eso en esa exacta entonación, porque preguntar quién es toda la teología de un umbral.
+
+—La escribana.
+
+Silencio. Luego los cerrojos, uno, dos, tres —él sí cree en los cerrojos; es su liturgia— y el portón se abrió una cuarta, y apareció esa cara arrugada de nuez vieja, esos ojos de almendra amarga que vieron entrar y salir a Roma entera por las puertas que cuidó.
+
+Me miró de arriba abajo. Miró la calle vacía detrás de mí, con oficio.
+
+—Ciento once años —dijo, igual que el otro, porque los dioses llevan mejor las cuentas de mis ausencias que las de sus propias hambres—. Y vienes de noche, con cara de traer el libro y dos páginas cerradas.
+
+—Vengo a cuidarte —dije.
+
+El último lar de Roma soltó una risa corta, seca, de portero que ya lo oyó todo.
+
+—Escribana —dijo, abriendo el portón para dejarme pasar—: yo soy el que cuida. Pásale. Hay atole.
+
+Pasé. Adentro olía a veladora y a maíz. Me sirvió el atole en jarro de peltre, me acomodó un banco junto a su catre, se persignó ante su propia veladora con una desfachatez ecuménica que no le conocía, y mientras yo me quemaba los dedos con el jarro dijo, ya sin risa, mirando el zaguán:
+
+—Dos en una semana, en tu orden. Ya sé contar, ¿eh? Fui la nómina de un imperio. —Sopló su atole—. El que sigue soy yo.

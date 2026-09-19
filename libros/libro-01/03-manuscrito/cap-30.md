@@ -1,4 +1,4 @@
-# 18. El siglo del silencio
+# 30. El siglo del silencio
 
 Del registro. 1882–1915.
 
