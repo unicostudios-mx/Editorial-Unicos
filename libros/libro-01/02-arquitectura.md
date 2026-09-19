@@ -66,6 +66,26 @@ Las muertes siguen el orden de inscripción porque **el cierre del Registro (191
 
 **26 · P — Epílogo (voz de Val).** Un año después: el libro publicado "como novela" — el lector entiende que es el que tiene en las manos. En el Tepeyac, la fila de los que creen no se acaba; en la obra de la Doctores hay un edificio nuevo con ladrillos bien puestos; en alguna parte, alguien le reza a una muerte con vestido. La página en blanco se imprimió en blanco, en todas las ediciones, y nadie en la imprenta recuerda haberlo decidido. Cierre: la duda como forma adulta de la fe.
 
+## Plan de Borrador 1 — Expansión a ~110–120k palabras (D-012)
+
+Nico pidió (2026-09-19) un libro de escala mayor, referencia GoT/Harry Potter. Decisión del estudio: **objetivo 110–120k palabras (~420–470 páginas)** en un solo volumen — la escala GoT (~300k) se sirve mejor como trilogía del universo (ver D-012). La expansión añade contenido real, nunca relleno:
+
+**Nuevos capítulos del registro (regla E, con ancla documentada):**
+- «La muerte de la Señora» — Uruk, s. I–III: el ocaso de Inanna/Ishtar, la condenadora de Edna; ancla: la última tablilla cuneiforme datada (75 d.C.). El duelo más personal de la escribana.
+- «El último oráculo» — Delfos, 362: el oráculo final al emperador Juliano ("decid al rey que el bello recinto ha caído").
+- «La isla de Isis» — Filae, s. VI: Justiniano cierra el último templo pagano en funciones.
+- «El país que votó su Ragnarök» — Islandia, año 1000: el Althing decide la conversión (Thorgeir bajo el manto); el único panteón que profetizó su propia muerte, muriendo por votación.
+- «El regreso de los muertos» — Florencia, s. XV: los olímpicos vuelven como arte (la tesis "los dioses muertos sobreviven como relato", encarnada).
+- «Los que cruzaron el mar» — s. XVIII: los orishas viajan en las bodegas de los barcos negreros y sobreviven escondidos dentro de los santos (sincretismo documentado; mismo canon de respeto que Tepeyac).
+- «El mandato del cielo» — China, 1912: cae el culto imperial; sobrevive el dios de la cocina (Zao Jun), otro chico de costumbre.
+- «Los que no cayeron» — Japón, 1946: el emperador renuncia por escrito a la divinidad (ningen sengen) y los kami no mueren: el contraejemplo del libro, colocado antes del final como nota de esperanza.
+
+**Nuevos capítulos del presente:** un día con Hestia antes de su muerte; el Lar contando Roma; Guanajuato 1907 (la promesa de Kulla); Val aprendiendo el oficio; la madre guadalupana de Val (resonancia con el cap. del Tepeyac); los funerales de los tres; el rondín nocturno con la Santa Muerte; una visita intermedia a Śakra.
+
+**Engorde dirigido de capítulos existentes:** Amalia (más presencia antes de 1915), la vela de Śakra, la asamblea de Tenochtitlan, y respiraciones de la dupla Edna–Val.
+
+**Mapa de renumeración:** el manuscrito pasa de 26 a ~42–45 capítulos; la corrida que ejecute la expansión renumera los archivos y corrige las referencias internas (p. ej., "capítulo veinticuatro" en el actual cap-25, y el conteo de semanas). Continuidad valida después de cada bloque.
+
 ## Anclas documentales por verificar (agente investigador)
 
 Enheduanna/disco de Ur/Nin-me-šara · reforma de Amarna y damnatio de Akenatón · Plutarco *De defectu oraculorum* (Pan/Thamus) · Nicea 325 · edictos teodosianos y Serapeo 391 · destrucción de Nalanda c. 1200 · cinco señales del deva (Itivuttaka 83 / corpus pali) · Sahagún sobre el Tepeyac (apéndice libro XI) · Culto de la Razón 1793 / Ser Supremo 1794 · graniceros y petición de lluvia (etnografía del alto Ajusco y volcanes) · culto contemporáneo de la Santa Muerte · 1915 "año del hambre" en la CDMX.

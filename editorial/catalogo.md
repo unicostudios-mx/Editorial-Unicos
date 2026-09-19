@@ -2,7 +2,7 @@
 
 | # | Título (provisional) | Slug | Etapa | Estado |
 |---|---|---|---|---|
-| 1 | *El registro de los últimos dioses* (título de trabajo) | `libro-01` | 6 — Entrega | **Puerta 2 abierta** (2026-09-19): Borrador 0 completo — 26/26 capítulos, ~39,500 palabras, pase editorial hecho. Nico revisa `04-entrega.md` y el manuscrito. |
+| 1 | *El registro de los últimos dioses* (título de trabajo) | `libro-01` | Borrador 1 en curso | Borrador 0 completo (26 caps, ~39.5k, entregado en Puerta 2). Nico pidió escala GoT/HP → **expansión a 110–120k** (D-012, plan en arquitectura). Dudas 1 (Tepeyac) y 3 (título) siguen abiertas. |
 
 ## Universo del Libro 1 (D-003, dirección de Nico)
 

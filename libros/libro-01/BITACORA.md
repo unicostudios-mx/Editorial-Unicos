@@ -1,5 +1,9 @@
 # Bitácora — Libro 1
 
+## 2026-09-19 (6ª sesión) — Nico responde extensión: escala GoT/HP
+- **Qué se hizo:** Nico pidió resumen y un libro "del tamaño de Game of Thrones o Harry Potter". Se le entregó el análisis de tamaños (GoT ~292k palabras/~800 pp; HP entre 77k y 257k; óptimo del género 100–130k) y el plan de expansión: ~16 capítulos nuevos (Inanna, Delfos/Juliano, Filae, Ragnarök por votación en Islandia, el Renacimiento como resurrección de los muertos, los orishas, China 1912, Japón 1946, y más presente de Hestia, el Lar, Kulla, Val y la Santa Muerte) + engorde dirigido.
+- **Qué se decidió:** D-012 — Borrador 1 a 110–120k palabras (~450 pp, escala HP4) en un tomo; la escala GoT completa se reserva para la trilogía del universo (Libro 2: «El hilo negro»; Libro 3: el libro de la Santa Muerte). Revierte D-009.
+- **Qué sigue:** rutina nocturna re-armada para ejecutar la expansión (renumeración + capítulos nuevos + engorde, con crítico/continuidad por bloque). Dudas abiertas: Tepeyac (P8) y título.
 ## 2026-09-19 (5ª sesión) — BORRADOR 0 COMPLETO Y ENTREGA (Puerta 2)
 - **Qué se hizo:** a instrucción de Nico ("escribe mientras haya tokens"), el estudio escribió los capítulos 3–26 en una sola sesión continua: Acto I (morgue, Amarna, censo/Tláloc, Pan, Hestia, Nicea), Acto II (confesión, Serapeo, deva, Nalanda, el Lar y el mensaje, Tenochtitlan/Tepeyac, comprensión, París 1793, reapertura fallida y Santa Muerte, 1915/Amalia, pacto de Māra, última página) y Acto III (vela de Śakra, última lluvia, la muralla, libros nuevos, última entrada, epílogo de Val). Pase editorial ejecutado: 11 correcciones de continuidad (D-011). Redactada la entrega `04-entrega.md`.
 - **Qué se decidió:** D-009 (extensión final ~39.5k, novela corta), D-010 (el Islam no se toca en Borrador 0; señalado a Nico), D-011 (pase editorial).
