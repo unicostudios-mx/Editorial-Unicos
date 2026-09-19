@@ -1,6 +1,6 @@
 # Estilo — reglas de escritura comunes
 
-**Estado: TOMADA** (propuesta del estudio, 2026-09-19). Las reglas propias de cada brief mandan sobre estas.
+**Estado: TOMADA** (propuesta del estudio, 2026-09-19). Las reglas propias de cada brief mandan sobre estas. Para la saga «Los cuadernos de la escribana», la **guía detallada** vive en `guia-estilo-saga.md` (v1.0 adoptada, D-013) y manda sobre este documento en lo que detalla.
 
 ## Principios
 

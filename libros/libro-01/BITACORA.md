@@ -1,5 +1,9 @@
 # Bitácora — Libro 1
 
+## 2026-09-19 (7ª sesión) — Guía de estilo de la saga adoptada
+- **Qué se hizo:** Nico comisionó a un definidor de estilo externo con el brief de saga; su propuesta fue evaluada por el estudio y adoptada como Guía de estilo v1.0 (`editorial/guia-estilo-saga.md`): principio rector, diez reglas de identidad, música de los seis narradores, mapa de cuatro temperaturas, prosa, diálogo, narración de milenios, lo sagrado en la página, antiestilo y rúbrica de 7 criterios (nueva checklist del crítico).
+- **Qué se decidió:** D-013 — adopción con dos ajustes de canon (memoria de Edna: infalible en recuerdo, falible en juicio; ejemplos de voz como dirección, no hechos) y 3 directivas de reescritura activas para el Borrador 1.
+- **Qué sigue:** el brainstorm de la saga sigue abierto (semillas de cuadernos 2–6 y temporada 2 por registrar cuando Nico diga "cierra"); la expansión del Libro 1 permanece pausada hasta el cierre y aplicará la guía desde su primera corrida.
 ## 2026-09-19 (6ª sesión) — Nico responde extensión: escala GoT/HP
 - **Qué se hizo:** Nico pidió resumen y un libro "del tamaño de Game of Thrones o Harry Potter". Se le entregó el análisis de tamaños (GoT ~292k palabras/~800 pp; HP entre 77k y 257k; óptimo del género 100–130k) y el plan de expansión: ~16 capítulos nuevos (Inanna, Delfos/Juliano, Filae, Ragnarök por votación en Islandia, el Renacimiento como resurrección de los muertos, los orishas, China 1912, Japón 1946, y más presente de Hestia, el Lar, Kulla, Val y la Santa Muerte) + engorde dirigido.
 - **Qué se decidió:** D-012 — Borrador 1 a 110–120k palabras (~450 pp, escala HP4) en un tomo; la escala GoT completa se reserva para la trilogía del universo (Libro 2: «El hilo negro»; Libro 3: el libro de la Santa Muerte). Revierte D-009.
