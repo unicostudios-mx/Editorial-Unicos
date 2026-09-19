@@ -9,6 +9,11 @@
 - **Qué se hizo:** Nico fijó el objetivo del primer libro en 75,000–95,000 palabras. Plan de Borrador 1 recalibrado: ~85k, ~38 capítulos, ~14 nuevos; Delfos-Juliano cedido al cuaderno 2 y "Los funerales" fundido con el capítulo del mensaje.
 - **Qué se decidió:** D-014 (RATIFICADA).
 - **Qué sigue:** igual que la 7ª sesión — falta el "cierra" del brainstorm para registrar la saga y reactivar la expansión.
+
+## 2026-09-19 (9ª sesión) — Nace el investigador y el banco de anclas
+- **Qué se hizo:** a propuesta de Nico se creó el séptimo agente, el **investigador** (verifica anclas de la regla E y caza episodios documentados nuevos), y su herramienta, el **banco de anclas** por cuaderno, sembrado con 14 hallazgos iniciales (el fuego de Vesta apagado por decreto, la última tablilla cuneiforme, el último jeroglífico de Esmet-Akhom en Filae, el roble de Donar, la estela de Mesha, Elefantina, el proceso de don Carlos, Chalma, Pausanias, el intento de Juliano…).
+- **Qué se decidió:** D-015 — gobernanza del investigador: propone, nunca incorpora; prohibido inventar fuentes.
+- **Qué sigue:** la corrida nocturna integrará un paso de investigador (verificación de lo escrito + 3–5 anclas nuevas por corrida). Sigue pendiente el "cierra" del brainstorm.
 ## 2026-09-19 (6ª sesión) — Nico responde extensión: escala GoT/HP
 - **Qué se hizo:** Nico pidió resumen y un libro "del tamaño de Game of Thrones o Harry Potter". Se le entregó el análisis de tamaños (GoT ~292k palabras/~800 pp; HP entre 77k y 257k; óptimo del género 100–130k) y el plan de expansión: ~16 capítulos nuevos (Inanna, Delfos/Juliano, Filae, Ragnarök por votación en Islandia, el Renacimiento como resurrección de los muertos, los orishas, China 1912, Japón 1946, y más presente de Hestia, el Lar, Kulla, Val y la Santa Muerte) + engorde dirigido.
 - **Qué se decidió:** D-012 — Borrador 1 a 110–120k palabras (~450 pp, escala HP4) en un tomo; la escala GoT completa se reserva para la trilogía del universo (Libro 2: «El hilo negro»; Libro 3: el libro de la Santa Muerte). Revierte D-009.
