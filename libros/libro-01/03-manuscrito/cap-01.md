@@ -78,6 +78,10 @@ Quedaba el talón, arrancado a tres milímetros del cosido, con la fibra reventa
 
 Me quedé mirando el hueco un tiempo que no medí, yo, que mido todo.
 
+Y quiero dejar escrito lo primero que hice con ese tiempo, porque no me deja bien parada y por eso mismo debe constar: busqué la manera de que la culpa fuera mía. Repasé mi memoria —que no falla; es parte de la condena que no falle— buscando una noche olvidada, un descuido, un sonambulismo de vieja, cualquier versión de los hechos en la que yo misma hubiera arrancado esa página y no lo supiera. La deseé. Deseé estar loca, que es lo más barato que hay en el mercado de las explicaciones, porque una escribana loca era un problema mío, y lo otro —lo que el desgarro limpio estaba diciendo a gritos— era un problema del mundo.
+
+La memoria no me concedió nada. Nunca me concede.
+
 Nadie en el mundo sabía dónde dormía este libro. Nadie más que yo, y yo estaba en el taller cosiendo un misal mientras alguien, en algún momento de los últimos ciento once años, abría mi caja sin abrirla, tomaba el Registro sin llevárselo, y le arrancaba una sola página a un libro que no se puede destruir.
 
 No se puede. Esa es la segunda ley. Yo no puedo destruirlo, y lo he intentado con fuego, con mar y con un martillo de fragua, la semana en que cerré el libro y quise cerrarlo todo.
