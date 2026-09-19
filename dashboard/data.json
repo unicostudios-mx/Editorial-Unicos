@@ -11,10 +11,10 @@
       "capitulos_total": 24,
       "palabras": 0,
       "palabras_meta": 50000,
-      "decisiones_tomadas": 4,
+      "decisiones_tomadas": 5,
       "preguntas_abiertas": 7,
       "ultima_actualizacion": "2026-09-19",
-      "nota": "Universo definido por Nico: todos los dioses fueron reales. Elige entre 3 semillas (A/B/C); si no elige antes del 2026-09-22, se avanza con el default C×B."
+      "nota": "Universo definido por Nico: todos los dioses fueron reales. Elige entre 5 semillas (A/B/C/D/E); si no elige antes del 2026-09-22, se avanza con el default D."
     }
   ]
 }

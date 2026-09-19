@@ -6,7 +6,7 @@ Si no hay respuesta al vencer, el estudio cierra la Puerta 1 con las suposicione
 
 | # | Pregunta | Suposición por defecto | Estado |
 |---|---|---|---|
-| P1 | ¿Cuál es la semilla del primer libro? | **Respondida a medias (2026-09-19):** Nico definió el universo — todos los dioses fueron reales; sus guerras y caídas llegan hasta hoy (D-003) — y pidió 3 semillas. Elige entre A «Las siete caídas», B «El último panteón» y C «La escribana de los dioses» (ver catálogo). Default si no elige: C×B (D-004). | Abierta (elección de semilla) |
+| P1 | ¿Cuál es la semilla del primer libro? | **Respondida a medias (2026-09-19):** Nico definió el universo — todos los dioses fueron reales; sus guerras y caídas llegan hasta hoy (D-003) — y pidió 3 semillas. Elige entre A «Las siete caídas», B «El último panteón», C «La escribana de los dioses», D «El registro de los últimos dioses» (C×B integrada) y E «El hilo negro» (histórica rigurosa) — ver catálogo. Default si no elige: **D** (D-005). | Abierta (elección de semilla) |
 | P2 | ¿Quién es el lector ideal, por su herida/deseo? | Alguien que perdió la fe — en una religión, una causa o una persona — y extraña el sentido que le daba; quiere volver a asombrarse sin que le vendan un dogma. *(Se ajustará a la semilla elegida.)* | Abierta |
 | P3 | ¿Cuál es la promesa/transformación? | El lector termina creyendo que atestiguar y recordar son formas de amor, y que la duda no es lo contrario de la fe sino su forma adulta. *(Se ajustará a la semilla elegida.)* | Abierta |
 | P4 | ¿Cuáles son los 3 filtros de calidad del libro? | F1: ¿Emociona antes de explicar? F2: ¿Este capítulo cambia algo irreversible? F3: ¿La escena se sostiene sin los dioses? (el drama humano funciona aunque se quite lo divino). | Abierta |

@@ -1,5 +1,10 @@
 # Bitácora — Libro 1
 
+## 2026-09-19 (3ª sesión) — Semillas D y E
+- **Qué se hizo:** a pedido de Nico se redactaron dos semillas más: D «El registro de los últimos dioses» (la combinación C×B con las caídas de A, integrada como semilla propia) y E «El hilo negro» (novela histórica rigurosa: dioses reales sin contradecir el registro documentado, 6–8 episodios de Uruk al presente).
+- **Qué se decidió:** D-005 — el default si Nico no elige pasa a ser la semilla D; E queda como candidata a segundo libro del universo.
+- **Qué sigue:** elección final de Nico entre A/B/C/D/E (vence 2026-09-22). Con su elección o el default D: cerrar `00-brief.md` y arrancar el pipeline.
+
 ## 2026-09-19 (2ª sesión) — Puerta 1: Nico define el universo
 - **Qué se hizo:** Nico descartó la semilla del estudio y trajo su concepto: todos los dioses fueron reales; sus guerras y caídas llegan hasta hoy. El estudio propuso 3 semillas sobre ese universo (A «Las siete caídas», B «El último panteón», C «La escribana de los dioses» — ver catálogo) y ajustó los defaults de P2–P7 al nuevo universo.
 - **Qué se decidió:** D-001 REVERTIDA (fonda → parking lot con epitafio); D-003 universo TOMADA; D-004 default C×B si Nico no elige.
