@@ -1,12 +1,14 @@
 # Brief de la saga «Los cuadernos de la escribana»
 
-Documento portable para calibrar estilo con escritores (humanos o AI). Fuente de verdad: este repositorio. Estado: TOMADA, 2026-09-19. La biblia completa vive en `libros/libro-01/`.
+Documento portable. Propósito: dar a un definidor de estilo externo (humano o AI) el contexto completo de la saga para que **proponga y defina su guía de estilo de escritura**. El definidor no escribirá capítulos; entregará una guía. La adopción final la decide la editorial. Fuente de verdad: este repositorio. Estado: TOMADA, 2026-09-19.
 
 ---
 
 ## 1. Qué es la saga
 
 Serie de novelas de fantasía histórica en español (México) donde **todas las religiones y dioses fueron reales**: los dioses viven de la fe humana, y la historia del mundo esconde la crónica de sus guerras, transformaciones y extinciones. El marco: **Enheduanna**, la primera autora con nombre de la historia real, fue condenada hace 4,300 años a llevar el Registro ante el que ningún dios puede mentir; su archivo, heredado a una historiadora y publicado "como ficción", es la saga misma. Cada cuaderno narra la caída (o la supervivencia) de una civilización divina, con narrador propio.
+
+**Lector ideal:** quien perdió la fe — en una religión, una causa o una persona — y extraña el sentido que le daba; lee historia y divulgación, le irrita la fantasía suelta, quiere trama que jala *y* alma que pesa. **Promesa:** atestiguar es una forma de amor; la duda es la forma adulta de la fe. **Extensión:** novelas de ~110–120k palabras (~450 páginas). **Comparables de posicionamiento:** *American Gods* × *Creación* (Gore Vidal), temperatura de *Circe* (Miller), seriedad ante lo divino de Saramago.
 
 ## 2. El universo en siete reglas
 
@@ -18,7 +20,7 @@ Serie de novelas de fantasía histórica en español (México) donde **todas las
 6. **Regla E (rigor histórico):** todo lo visible coincide con el registro documentado — fechas, personas, textos citados reales. Lo divino existe solo en los huecos que los historiadores nunca pudieron explicar. El lector debe cerrar cada capítulo pensando "esto pudo haber pasado exactamente así".
 7. Los milagros actuales son pequeños, caros y deniegables. Los dioses no son omniscientes ni omnipotentes; lo fueron casi, cuando millones creían.
 
-## 3. Los cuadernos y sus voces
+## 3. Los cuadernos y sus narradores
 
 | # | Título | Narrador | Tema |
 |---|---|---|---|
@@ -29,51 +31,43 @@ Serie de novelas de fantasía histórica en español (México) donde **todas las
 | 5 | El quinto sol | Cihuacóatl | La mudanza mesoamericana: los que no murieron |
 | 6 | El concilio / La página en blanco | Asherah | El surgimiento de Aquel que no firma |
 
-Cada libro tiene su propia música, pero todas las voces comparten el ADN de la sección 4.
+Todos los libros son primera persona de un ser antiquísimo. Cada narrador exige música propia sin romper la identidad de la serie.
 
-## 4. La voz y el estilo (el corazón de este brief)
+## 4. Tema transversal: la teología de la derrota
 
-**Registro base:** primera persona de un ser antiquísimo que lo recuerda todo. Sequedad de quien ha enterrado mucho; ternura debajo de la sequedad. Precisión de escriba: se enumera en vez de quejarse. Ironía mínima, nunca sarcasmo. Solemnidad prohibida: lo sagrado se toca con naturalidad de oficio.
+Los dioses no abandonaron a sus pueblos: se estaban muriendo con ellos y de ellos (la guerra rompe la fe → el dios se debilita → puede ayudar menos → espiral). El instrumento narrativo es la ironía dramática de doble vista: el creyente maldice al cielo vacío mientras el lector ve al dios gastar quinientos años de reservas en desviar una sola flecha. Cada libro incluye al menos un "milagro de la derrota": un milagro demasiado pequeño para verse dentro de una catástrofe. El silencio de los dioses no era indiferencia; era pobreza.
 
-**Principios de prosa:**
-- Mostrar antes que explicar; la emoción primero, la comprensión después. Si una escena necesita teología para conmover, la escena falló.
-- Lo cósmico se cuenta con lo doméstico: los dioses beben atole, riegan jardines, ponen café. El asombro nace del contraste entre la escala divina y el gesto pequeño, jamás del adjetivo grandilocuente.
-- Frases con ritmo variado; remates cortos tras periodos largos. Verbos fuertes antes que adverbios; sustantivos precisos antes que adjetivos acumulados.
-- Diálogo que trabaja doble (carácter + conflicto/información). Cada personaje distinguible sin nombre. Raya (—) para diálogos.
-- Nada de clichés de lenguaje ("un escalofrío recorrió su espalda"): prohibidos.
-- Español de México contemporáneo, natural, sin arcaísmo impostado ni neutro editorial.
+## 5. Restricciones no negociables (constriñen cualquier estilo propuesto)
 
-**Líneas de calibración (del manuscrito real — este es el sonido a igualar):**
+- **Idioma:** español de México contemporáneo; ni arcaísmo impostado ni neutro editorial. (Espejo al inglés de EE. UU. por hitos, aparte.)
+- **Canon de respeto:** el Dios sin nombre (Jehová/el Dios cristiano) jamás aparece, se describe ni se resuelve — es "la página en blanco", presente solo por sus efectos, y su silencio nunca se explica. Ninguna fe se ridiculiza ni se predica (tampoco el ateísmo); los creyentes nunca son tontos, los escépticos nunca son villanos. Lo sagrado vivo (Guadalupe/Tepeyac, religiones practicadas) se trata solo con lo documentado, con reverencia y ambigüedad deliberada. Cosmovisión budista canónica (devas mortales, cinco señales, Māra). El sacrificio mesoamericano como reciprocidad, nunca como barbarie exótica.
+- **Filtros de calidad por escena:** F1 ¿Emociona antes de explicar? · F2 ¿Cambia algo irreversible? · F3 ¿Se sostiene sin los dioses?
+- **Nuncas:** tratado de religión comparada con trama encima; sermones o autoayuda disfrazada; deus ex machina (lo divino jamás resuelve lo que los personajes deben decidir); coincidencias gratuitas; crueldad como espectáculo; clichés de lenguaje.
+
+## 6. Material de referencia: la voz del Borrador 0 (no es mandato)
+
+Existe un Borrador 0 del Libro 1 (~39,500 palabras) con una voz de trabajo: sequedad de quien ha enterrado mucho con ternura debajo; precisión de escriba (enumera en vez de quejarse); lo cósmico contado con lo doméstico (los dioses beben atole, riegan jardines, ponen café); remates cortos tras periodos largos. Muestras:
+
 > "Hay tres maneras de matar un libro: el agua, el fuego y el olvido. Contra las dos primeras existe mi oficio. Contra la tercera no existe nada, aunque me pasé cuatro mil años intentándolo."
 
 > "Se apaga con la tortilla lista. Nadie desayunó frío."
 
 > "Al dios no lo mató el hacha. Lo mató la falta de temblor."
 
-> "Los dioses chicos duran más porque caben en las costumbres."
+El definidor puede **conservar, evolucionar o desafiar** esta voz — con argumentos. No está obligado a imitarla.
 
-**Variación por narrador:** Edna = sequedad y actas. Dioniso = ebriedad lúcida, teatralidad que se sabe teatro. Tot = burocracia sagrada, humor de archivo. Odín = adivinanzas y humor de patíbulo, urgencia de coleccionista de futuro. Cihuacóatl = llanto contenido vuelto arrullo; habla desde dentro de su propia leyenda. Asherah = majestad despojada, voz de madre destronada.
+## 7. El encargo: qué debe entregar el definidor de estilo
 
-## 5. Tema transversal: la teología de la derrota
+Una **guía de estilo de la saga** que defina, con criterio y ejemplos ilustrativos propios, al menos:
 
-Los dioses no abandonaron a sus pueblos: **se estaban muriendo con ellos y de ellos** (la guerra rompe la fe → el dios se debilita → puede ayudar menos → espiral). El instrumento es la ironía dramática de doble vista: el creyente maldice al cielo vacío mientras el lector ve al dios gastar quinientos años de reservas en desviar una sola flecha. Cada libro incluye al menos un **"milagro de la derrota"**: un milagro demasiado pequeño para verse dentro de una catástrofe. El silencio de los dioses no era indiferencia; era pobreza.
+1. **Identidad de voz de la serie:** qué hace reconocible un párrafo de esta saga en cualquier libro, en una frase y en diez reglas.
+2. **Sistema de variación por narrador:** cómo suenan distinto Edna, Dioniso, Tot, Odín, Cihuacóatl y Asherah (léxico, sintaxis, humor, ritmo) sin romper la identidad común.
+3. **Tono y temperatura:** manejo de lo solemne vs. lo doméstico; dónde vive el humor; cómo se dosifica la melancolía para no volverse monotonía.
+4. **Prosa:** ritmo y longitud de frase, densidad de imagen, uso de metáfora, verbos/adjetivos, transiciones, aperturas y cierres de capítulo.
+5. **Diálogo:** función, formato, diferenciación de personajes divinos vs. mortales.
+6. **Manejo del tiempo:** cómo narrar milenios sin exposición didáctica; el trenzado pasado/presente.
+7. **Lo sagrado en la página:** técnicas concretas para los "huecos" (lo que no se afirma ni se niega) y para los milagros pequeños.
+8. **Antiestilo:** lista de vicios prohibidos específicos de este proyecto (más allá de los nuncas de la sección 5).
+9. **Criterios de evaluación:** una rúbrica breve para juzgar si un capítulo cumple la guía.
 
-## 6. Canon de respeto (inviolable)
-
-- **El Dios sin nombre (Jehová/el Dios cristiano) jamás aparece, se describe ni se resuelve.** Es "la página en blanco" del Registro: presente por sus efectos, declinando toda inscripción con un peso amable. Su silencio ante el sufrimiento nunca se explica con la mecánica del hambre: queda en el hueco, siempre.
-- Ninguna fe se ridiculiza; ninguna se predica — tampoco el ateísmo. Los creyentes nunca son tontos; los escépticos nunca son villanos.
-- Lo culturalmente sagrado vivo (Tepeyac/Guadalupe, religiones practicadas) se trata solo con lo documentado, con reverencia total y ambigüedad deliberada.
-- Cosmovisión budista canónica: los devas existen y son mortales (cinco señales); Māra es el señor de la impermanencia — antagonista serio, cortés, que nunca miente y casi nunca se equivoca.
-- El sacrificio mesoamericano se trata como reciprocidad (los dioses pagaron primero con su propio cuerpo), nunca como barbarie exótica.
-
-## 7. Filtros de calidad (toda escena debe pasar los tres)
-
-- **F1:** ¿Emociona antes de explicar?
-- **F2:** ¿Este capítulo cambia algo irreversible?
-- **F3:** ¿La escena se sostiene sin los dioses? (El drama humano — culpa, duelo, amor, cansancio — debe funcionar aunque se quite lo divino.)
-
-**Lo que la saga NUNCA será:** tratado de religión comparada con trama encima; burla o proselitismo; deus ex machina (lo divino jamás resuelve lo que los personajes deben decidir); crueldad como espectáculo.
-
-## 8. Instrucción para el escritor (humano o AI)
-
-Escribe capítulos de 1,900–2,600 palabras. Antes de escribir, verifica las anclas históricas del capítulo (regla E). Después de escribir, autoevalúa contra F1–F3 y el canon de respeto. Si el resultado suena épico-solemne, está mal: bájalo a la estufa, al jarro de peltre, al golpecito del albañil sobre el tabique. El lector debe llorar por un dios al que vio regar un jardín.
+**Formato de entrega:** documento en markdown, máximo ~2,500 palabras, en español. Donde proponga reglas que contradigan la sección 5, debe señalarlo explícitamente (la sección 5 gana, pero queremos ver el argumento).
