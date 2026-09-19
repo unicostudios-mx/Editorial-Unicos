@@ -8,4 +8,4 @@ Ninguna idea se borra. Las muertas llevan epitafio.
 
 ## Muertas (con epitafio)
 
-*(vacío)*
+- **† *La fonda de los recuerdos*** (semilla original propuesta por el estudio, D-001). Recetas de una abuela muerta que devuelven un recuerdo olvidado a quien las come. **Epitafio:** murió el mismo día que nació — Nico llegó a la Puerta 1 con su propio universo (D-003). No murió por mala: candidata natural a libro futuro del catálogo.
