@@ -4,17 +4,17 @@
   "libros": [
     {
       "slug": "libro-01",
-      "titulo": "Libro de los dioses (título de trabajo)",
-      "etapa": 1,
-      "etapa_nombre": "Brief — Puerta 1 enviada",
-      "capitulos_escritos": 0,
-      "capitulos_total": 24,
-      "palabras": 0,
-      "palabras_meta": 50000,
-      "decisiones_tomadas": 5,
-      "preguntas_abiertas": 7,
+      "titulo": "El registro de los últimos dioses (título de trabajo)",
+      "etapa": 4,
+      "etapa_nombre": "Borrador 0 en curso",
+      "capitulos_escritos": 2,
+      "capitulos_total": 26,
+      "palabras": 4300,
+      "palabras_meta": 60000,
+      "decisiones_tomadas": 8,
+      "preguntas_abiertas": 1,
       "ultima_actualizacion": "2026-09-19",
-      "nota": "Universo definido por Nico: todos los dioses fueron reales. Elige entre 5 semillas (A/B/C/D/E); si no elige antes del 2026-09-22, se avanza con el default D."
+      "nota": "Puerta 1 cerrada (semilla D×E ratificada por Nico). Brief, biblia mínima y arquitectura completas; el estudio escribe capítulos hasta el Borrador 0."
     }
   ]
 }

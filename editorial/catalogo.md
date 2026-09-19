@@ -2,7 +2,7 @@
 
 | # | Título (provisional) | Slug | Etapa | Estado |
 |---|---|---|---|---|
-| 1 | *Libro de los dioses* (título de trabajo) | `libro-01` | 1 — Brief | **Puerta 1 en curso**: Nico definió el universo (D-003) y elige entre 3 semillas. Si no elige antes del 2026-09-22, se avanza con el default C×B (D-004). |
+| 1 | *El registro de los últimos dioses* (título de trabajo) | `libro-01` | 4 — Borrador 0 en curso | **Puerta 1 cerrada** (2026-09-19, D-006 ratificada por Nico: mezcla D×E + Jehová/Dios cristiano + cosmovisión budista). Brief, biblia mínima y arquitectura completas; capítulos 2/26 escritos. |
 
 ## Universo del Libro 1 (D-003, dirección de Nico)
 

@@ -1,5 +1,9 @@
 # Bitácora — Libro 1
 
+## 2026-09-19 (4ª sesión) — Puerta 1 CERRADA; arranca el Borrador 0
+- **Qué se hizo:** Nico eligió la mezcla D×E con Jehová/el Dios cristiano y la cosmovisión budista. Se cerró `00-brief.md`; se construyó la biblia mínima (`reglas-del-mundo.md`, `personajes.md`); se escribió `02-arquitectura.md` completa (26 capítulos, final decidido: Edna termina el Registro atestiguando con amor, lo entrega a Val para publicarse como ficción, y muere mortal; la página en blanco queda en blanco). Se escribieron los capítulos 1 («El dios en el cemento») y 2 («La condena»), ~4,300 palabras.
+- **Qué se decidió:** D-006 RATIFICADA (semilla), D-007 (60k/26 caps; protagonista Enheduanna; antagonista Māra; final), D-008 (el Lar séptimo inscrito; Santa Muerte fuera del Registro). Pregunta abierta P8 (revisión especial del capítulo del Tepeyac) con default en uso.
+- **Qué sigue:** capítulos 3 en adelante en corridas siguientes (rutina nocturna programada); crítico y continuidad revisan por bloques de 3–4 capítulos. Próximo hito: Acto I completo (caps. 1–8).
 ## 2026-09-19 (3ª sesión) — Semillas D y E
 - **Qué se hizo:** a pedido de Nico se redactaron dos semillas más: D «El registro de los últimos dioses» (la combinación C×B con las caídas de A, integrada como semilla propia) y E «El hilo negro» (novela histórica rigurosa: dioses reales sin contradecir el registro documentado, 6–8 episodios de Uruk al presente).
 - **Qué se decidió:** D-005 — el default si Nico no elige pasa a ser la semilla D; E queda como candidata a segundo libro del universo.

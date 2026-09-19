@@ -163,4 +163,5 @@ Agentes opcionales por libro (solo si el brief lo pide): investigador, auditor d
 
 ## 10. Estado del proyecto
 
-- **2026-09-19** — Fundación. Constitución, estructura, agentes, dashboard y workflow nocturno creados. Primer libro en etapa 0→1: Puerta 1 enviada a Nico con propuesta por defecto. Si no hay respuesta en 72 horas, el estudio cierra la Puerta 1 con la propuesta y avanza a Borrador 0 sin más autorizaciones.
+- **2026-09-19** — Fundación. Constitución, estructura, agentes, dashboard y workflow nocturno creados.
+- **2026-09-19** — **Puerta 1 del Libro 1 cerrada** (D-006 ratificada por Nico): «El registro de los últimos dioses», mezcla D×E con Jehová/el Dios cristiano y cosmovisión budista. Brief, biblia mínima y arquitectura completas; Borrador 0 en curso. El estudio avanza sin más autorizaciones hasta la Puerta 2.
