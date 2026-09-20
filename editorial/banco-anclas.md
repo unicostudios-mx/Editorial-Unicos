@@ -28,6 +28,10 @@ Mantenido por el **investigador**. Anclas = episodios documentados que sirven a 
 **Qué consta:** respuesta transmitida: "Decid al rey: el bello recinto ha caído...". **Fuente:** atribuida vía Filostorgio/Cedreno. **Estado:** PLAUSIBLE (transmisión tardía; presentarla como lo que es).
 **El hueco:** el oráculo usando su última voz para dictar su propia acta de defunción.
 
+### El tratado de los blemios (s. V) ✍ (cap. 15)
+**Qué consta:** tras la paz con el imperio (registrada por Prisco, c. 452), los blemios y nóbadas conservaron acceso al culto de Isis en Filae, incluido el préstamo periódico de la estatua río arriba; Justiniano ordenó el cierre del templo (c. 535–537, ejecutado por Narsés según Procopio). **Fuente:** Prisco de Panio; Procopio. **Estado:** VERIFICADA.
+**El hueco:** la única diosa que murió con contrato colectivo; el enderezón de la sacerdotisa en la pasarela (milagro de la derrota del cap. 15).
+
 ## Cuaderno 3 — El libro de los muertos
 
 ### El último jeroglífico de la historia (24 de agosto de 394 d.C.)
