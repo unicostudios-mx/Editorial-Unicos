@@ -54,6 +54,11 @@
 - **Qué se hizo:** revisión integral de caps. 7, 8, 10 y 11 (los cuatro pasan la rúbrica sin cambios; Nicea intocable por diseño). Dos engordes mayores: **cap. 23** — el milagro de la derrota de Tenochtitlan: la niebla de cien brazas comprada por alguien del agua para que cruzara una canoa de niños ("los milagros de la derrota no se miden por el tamaño; se miden por el precio"); **cap. 30** — el cuaderno azul: Amalia lo cosió en 1903 "para cuando quiera contarme algo largo", Edna tardó 123 años en estrenarlo, y es el cuaderno en que está escrito este libro.
 - **Estado:** 59,757 palabras · revisados 9/26 · **avance global ~58%**.
 - **Qué sigue:** revisión de caps. 13, 16, 19, 20 + engorde de respiraciones Edna–Val.
+
+## 2026-09-20 (corrida 7 del Borrador 1 — disparo horario)
+- **Qué se hizo:** revisión integral de caps. 13, 16, 19 y 20 (los cuatro pasan la rúbrica de 7 sin cambios: la gran hambruna, Serapis, el mensaje del Lar y los funerales fusionados sostienen temperatura y cierre). Un engorde de respiración: **cap. 31** — tras el pacto rechazado con Māra, Val llega con tacos de canasta comprados "por instinto"; cena en silencio, el cajón mental de "martes", y el plan de quedarse: "el taller va a necesitar dos bancos buenos, ¿no?" / "—Cojea desde 1943. Mañana lo arreglamos."
+- **Estado:** 60,071 palabras · revisados 13/26 · **avance global ~62%**.
+- **Qué sigue:** revisión de caps. 23, 24, 26, 27 + engordes dirigidos hacia el piso de 75k (candidatos: vela de Śakra días 1–4, censo de la mudanza, París 1793).
 ## 2026-09-19 (6ª sesión) — Nico responde extensión: escala GoT/HP
 - **Qué se hizo:** Nico pidió resumen y un libro "del tamaño de Game of Thrones o Harry Potter". Se le entregó el análisis de tamaños (GoT ~292k palabras/~800 pp; HP entre 77k y 257k; óptimo del género 100–130k) y el plan de expansión: ~16 capítulos nuevos (Inanna, Delfos/Juliano, Filae, Ragnarök por votación en Islandia, el Renacimiento como resurrección de los muertos, los orishas, China 1912, Japón 1946, y más presente de Hestia, el Lar, Kulla, Val y la Santa Muerte) + engorde dirigido.
 - **Qué se decidió:** D-012 — Borrador 1 a 110–120k palabras (~450 pp, escala HP4) en un tomo; la escala GoT completa se reserva para la trilogía del universo (Libro 2: «El hilo negro»; Libro 3: el libro de la Santa Muerte). Revierte D-009.

@@ -61,3 +61,21 @@ Māra retiró la mano del Registro con el cuidado con que se retira una flor de 
 Y se fue calle abajo, sin prisa, el único ser del universo que nunca ha necesitado tenerla, dejándome en la mano derecha —la de escribir— un frío que no era suyo.
 
 Era mío. Los diagnósticos de Māra siempre son de uno. Es lo que lo hace serio.
+
+—
+
+Valeria llegó veinte minutos después, con una bolsa de tacos de canasta que había comprado "por instinto" en la esquina, y me encontró sentada en el banco de los clientes, que no es mi banco, con las manos en las rodillas.
+
+No preguntó qué había pasado. Puso los tacos en la mesa, apartó el Registro con el hueso de la muñeca, como le enseñé, sirvió los dos cafés, y comimos sin hablar, ella en su banco y yo en el de los clientes, con el taller oliendo a papel viejo y a guisado de papa, que es una combinación que ningún incienso de mis cuatro milenios ha mejorado.
+
+—¿Sabes qué es lo más raro de todas estas semanas? —dijo al final, limpiándose los dedos con una servilleta—. Que ya nada me parece raro. Hoy en la mañana catalogué la firma de un dios del año 3000 antes de Cristo, en la tarde mi mamá me mandó mole por tupper, y ahorita vengo a cenar tacos contigo después de que rechazaste un pacto con la impermanencia del universo. Y mi cabeza ya lo archiva todo en el mismo cajón: martes.
+
+—Bienvenida al gremio —le dije—. Así se siente durar.
+
+Se quedó esa noche también, en el sillón, con las llaves del taller ya en su llavero — no recuerdo cuándo se las di; recuerdo que no me costó, y a mí me cuesta todo—. Y antes de apagar la lámpara buena me llegó, desde el sillón, su voz de método con la última pregunta del día:
+
+—Edna. Cuando esto acabe... el taller va a necesitar dos bancos buenos, ¿no? El de los clientes cojea.
+
+Apagué la lámpara para que no me viera la cara. Hay preguntas que son planes de quedarse, y a las escribanas nos conmueven en proporción directa a lo poco que las esperábamos.
+
+—Cojea desde 1943 —dije en la oscuridad—. Mañana lo arreglamos.
