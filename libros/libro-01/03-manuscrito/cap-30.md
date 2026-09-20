@@ -60,4 +60,4 @@ Eso fue el cierre. Ciento once años después, un señor amable con prisa lo lla
 
 Los libros no se cierran porque uno esté cansado de leerlos.
 
-Se cierran cuando se terminaron. Y el mío, en 1915, tenía todavía siete páginas vivas y una en blanco, y su escribana, que de duelos lo sabía ya todo, no sabía todavía la única cosa que de verdad enseñan: que soltar antes de tiempo y no soltar nunca son el mismo error, agarrado con distinta mano.
+Se cierran cuando se terminaron. Y el mío, en 1915, tenía todavía siete páginas vivas, una de ellas en blanco, y su escribana, que de duelos lo sabía ya todo, no sabía todavía la única cosa que de verdad enseñan: que soltar antes de tiempo y no soltar nunca son el mismo error, agarrado con distinta mano.

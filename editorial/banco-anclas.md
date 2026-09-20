@@ -14,6 +14,14 @@ Mantenido por el **investigador**. Anclas = episodios documentados que sirven a 
 **Qué consta:** el último texto cuneiforme fechado que se conserva es un almanaque astronómico de Babilonia/Uruk, ~75 d.C. **Fuente:** corpus asiriológico (tablilla W22340). **Estado:** PLAUSIBLE (número de tablilla por confirmar).
 **El hueco:** la escritura que Enheduanna aprendió, muriendo también; destinada al capítulo de la muerte de Inanna. ✍ (planificada)
 
+### El tratado de las idolatrías de Ruiz de Alarcón (1629) ✍ (cap. 23)
+**Qué consta:** Hernando Ruiz de Alarcón, beneficiado de Atenango, compiló el *Tratado de las supersticiones y costumbres gentílicas* con los conjuros en náhuatl (nahualtocaitl) que recogió en las tierras calientes: invocaciones donde el tabaco, el agua y el maíz responden por nombres floridos y títulos de señores. **Fuente:** Ruiz de Alarcón, *Tratado…* (1629). **Estado:** VERIFICADA.
+**El hueco:** el cazador de idolatrías levantando, sin saberlo, el directorio de la mudanza: los nombres en clave con que los de arriba siguieron cobrando.
+
+### La fuente de la Regeneración (10 de agosto de 1793) ✍ (cap. 26)
+**Qué consta:** para la Fiesta de la Unidad, la Convención erigió sobre los escombros de la Bastilla una fuente provisional de yeso con una figura de la Naturaleza a la manera egipcia (tipo Isis, sedente entre leones), de cuyos pechos manaba agua; Hérault de Séchelles llenó una copa y bebió proclamando las aguas de la regeneración. **Fuente:** actas y grabados de la Fête de l'Unité (Convención, 1793). **Estado:** VERIFICADA.
+**El hueco:** los que despedían al personal del cielo estrenaron su mundo sin dioses con el molde de una diosa muerta — pago de la ley sexta (la página de Isis se entibia).
+
 ## Cuaderno 2 — El nuevo Dioniso
 
 ### Pausanias, el turista del crepúsculo (s. II d.C.)

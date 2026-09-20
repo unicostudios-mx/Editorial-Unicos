@@ -18,7 +18,7 @@ Puse las manos sobre la piel del libro. Tibia, como siempre, como una mano que s
 
 Y el libro se abrió.
 
-No como se abre un objeto: como se abre un ojo que fingía dormir. Lo sentí recorrer sus propias páginas por dentro, una corriente bajo la piel de la encuadernación, siete mil doscientos tres nombres pasando lista en un idioma anterior a los idiomas, y las tres páginas vivas que quedaban —el deva, el fuego viejo, el señor del agua— se entibiaron bajo mi palma con un calor distinto al del resto, tres brasas en una ceniza enorme, y por un momento, un momento entero, la escribana más vieja del mundo creyó que había funcionado.
+No como se abre un objeto: como se abre un ojo que fingía dormir. Lo sentí recorrer sus propias páginas por dentro, una corriente bajo la piel de la encuadernación, siete mil doscientos tres nombres pasando lista en un idioma anterior a los idiomas, y de las páginas vivas que quedaban, las tres con nombre —el deva, el fuego viejo, el señor del agua— se entibiaron bajo mi palma con un calor distinto al del resto, tres brasas en una ceniza enorme, y por un momento, un momento entero, la escribana más vieja del mundo creyó que había funcionado.
 
 Entonces llegó el dolor. Y no era mío.
 
