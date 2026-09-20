@@ -175,6 +175,11 @@
 - **Qué se hizo:** traducidos los caps. 21, 22 y 23 — la mitad del espejo cruzada. «The Return of the Dead» (Florencia, el Lucrecio, la ley sexta: "mythology is not the cemetery of the gods: it is the country they emigrate to"), «Val's Mother» (los dos rezos de doña Socorro y la instrucción del zaguán) y «The Night of the Gods» (Tenochtitlan, la niebla de cien brazas, don Carlos, y el Tepeyac con su hueco intacto — "the Tepeyac's looks"; la anciana descalza cierra en inglés con la misma compasión). El cap. 24 se atascó y quedó **[TK]** (cuarto de la lista: 14, 17, 20, 24).
 - **Estado:** 🌐 20/40 capítulos EN — mitad del espejo.
 - **Qué sigue:** caps. 25–28 en la próxima corrida; los [TK] al final.
+
+## 2026-09-20 (corrida EN-7 — disparo horario)
+- **Qué se hizo:** traducidos los caps. 25 y 26: «The Ones Who Crossed the Sea» (con las manos lavadas y la línea de la madre de las aguas: "Eternity is touched on Sundays") y «The Manufactured Goddess» (el viejo del vado, la fuente de Isis, y la ley: "Administered faith does not feed. What people are ordered to feel has no weight."). El cap. 27 se atascó cerca del final y quedó **[TK]** (quinto de la lista: 14, 17, 20, 24, 27).
+- **Estado:** 🌐 22/40 capítulos EN.
+- **Qué sigue:** caps. 28–31 en la próxima corrida; los [TK] al final.
 ## 2026-09-19 (6ª sesión) — Nico responde extensión: escala GoT/HP
 - **Qué se hizo:** Nico pidió resumen y un libro "del tamaño de Game of Thrones o Harry Potter". Se le entregó el análisis de tamaños (GoT ~292k palabras/~800 pp; HP entre 77k y 257k; óptimo del género 100–130k) y el plan de expansión: ~16 capítulos nuevos (Inanna, Delfos/Juliano, Filae, Ragnarök por votación en Islandia, el Renacimiento como resurrección de los muertos, los orishas, China 1912, Japón 1946, y más presente de Hestia, el Lar, Kulla, Val y la Santa Muerte) + engorde dirigido.
 - **Qué se decidió:** D-012 — Borrador 1 a 110–120k palabras (~450 pp, escala HP4) en un tomo; la escala GoT completa se reserva para la trilogía del universo (Libro 2: «El hilo negro»; Libro 3: el libro de la Santa Muerte). Revierte D-009.
