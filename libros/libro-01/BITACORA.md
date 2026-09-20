@@ -165,6 +165,11 @@
 - **Qué se hizo:** traducidos los caps. 15 y 16: «The Island of Isis» (con el tratado de los blemios, la industria de Saqqara y el enderezón de la pasarela — "those two sentences are worth the same") y «The Deva» (don Sergio, las cinco señales y la revelación del nombre de Māra). El cap. 17 se atascó a media traducción y quedó **[TK]** como el 14 (regla de avance §4): la fila no se detiene.
 - **Estado:** 🌐 15/40 capítulos EN (dos [TK] por reintentar: 14 y 17).
 - **Qué sigue:** caps. 18–20 en la próxima corrida; los [TK] se reintentan al final del espejo.
+
+## 2026-09-20 (corrida EN-5 — disparo horario)
+- **Qué se hizo:** traducidos los caps. 18 y 19: «The Workshop» (el zurcido de papel, Crepitus y Robigo — "paper is not stretched, it is persuaded"; "think about that the next time someone tells you that praying is asking") y «Nalanda» (el espejo ardiendo, el juramento de Śakra — "I am on record. I ask nothing more" — y la primera aparición de Māra: "I don't keep a book"). El cap. 20 se atascó a media traducción y quedó **[TK]** como el 14 y el 17.
+- **Estado:** 🌐 17/40 capítulos EN (tres [TK]: 14, 17, 20).
+- **Qué sigue:** caps. 21–24 en la próxima corrida; los [TK] al final.
 ## 2026-09-19 (6ª sesión) — Nico responde extensión: escala GoT/HP
 - **Qué se hizo:** Nico pidió resumen y un libro "del tamaño de Game of Thrones o Harry Potter". Se le entregó el análisis de tamaños (GoT ~292k palabras/~800 pp; HP entre 77k y 257k; óptimo del género 100–130k) y el plan de expansión: ~16 capítulos nuevos (Inanna, Delfos/Juliano, Filae, Ragnarök por votación en Islandia, el Renacimiento como resurrección de los muertos, los orishas, China 1912, Japón 1946, y más presente de Hestia, el Lar, Kulla, Val y la Santa Muerte) + engorde dirigido.
 - **Qué se decidió:** D-012 — Borrador 1 a 110–120k palabras (~450 pp, escala HP4) en un tomo; la escala GoT completa se reserva para la trilogía del universo (Libro 2: «El hilo negro»; Libro 3: el libro de la Santa Muerte). Revierte D-009.
