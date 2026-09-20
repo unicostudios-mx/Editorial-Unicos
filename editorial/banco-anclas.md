@@ -74,6 +74,17 @@ Mantenido por el **investigador**. Anclas = episodios documentados que sirven a 
 **Qué consta:** santuario del Señor de Chalma establecido sobre cueva de culto prehispánico (Oxtotéotl); peregrinación masiva continua hasta hoy. **Fuente:** crónicas agustinas; etnografía. **Estado:** VERIFICADA.
 **El hueco:** sincretismo con dirección postal; mismo manejo reverente que el Tepeyac. **Nota de manejo:** culto vivo — canon de respeto pleno.
 
+### Los cabildos de nación y la Virgen de Regla ✍ (cap. 25)
+**Qué consta:** las cofradías coloniales "de nación" agrupaban legalmente a africanos esclavizados y libres por origen, bajo advocaciones católicas; en ellas se gestó la supervivencia sincrética de los orishas (Regla de Ocha); la ermita de la Virgen de Regla, patrona de la bahía de La Habana, es sede del sincretismo con Yemayá. **Fuente:** historiografía colonial cubana; etnografía de la Regla de Ocha. **Estado:** VERIFICADA. **Nota de manejo:** religión viva — canon de respeto pleno; el cap. 25 se escribió "con permiso" y sin inscripción; el libro completo (temporada 2) exige guardianes de contenido.
+
+### La abdicación de 1912 y el fogón que siguió en funciones ✍ (cap. 28)
+**Qué consta:** Puyi abdicó en febrero de 1912; los sacrificios de Estado del Templo del Cielo terminaron con el imperio (con el intento fallido de Yuan Shikai de revivirlos); las campañas maoístas contra "lo viejo" cerraron templos a escala nacional; el culto popular (incluido Zao Jun, el dios de la cocina que sube informe cada año nuevo) revivió masivamente después. El barrio chino de la calle de Dolores (CDMX) existe desde principios del s. XX. **Fuente:** historiografía de la China republicana y de la RPC; crónica urbana de CDMX. **Estado:** VERIFICADA.
+**El hueco:** la oficina celestial en silencio; el funcionario que sigue subiendo informes.
+
+### El rescripto de humanidad (1 de enero de 1946) ✍ (cap. 36)
+**Qué consta:** el emperador Shōwa publicó el rescripto donde rechaza su divinidad; la directiva del SCAP (dic. 1945) desmanteló el sintoísmo de Estado; la práctica de santuarios y altares domésticos (kamidana) continuó con normalidad. La comunidad japonesa de México fue concentrada forzosamente en CDMX/Guadalajara durante la guerra. **Fuente:** rescripto imperial de 1946; directiva Shinto del SCAP; historiografía de la migración japonesa a México. **Estado:** VERIFICADA.
+**El hueco:** el panteón que no cayó porque nunca vivió en la oficina que cerraron.
+
 ## Cuaderno 6 — El concilio
 
 ### La estela de Mesha (s. IX a.C.)
