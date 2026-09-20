@@ -64,6 +64,10 @@ Mantenido por el **investigador**. Anclas = episodios documentados que sirven a 
 **Qué consta:** al borde de la guerra civil religiosa, el Althing encargó la decisión al recitador de la ley Thorgeir Ljósvetningagoði — sacerdote pagano —, quien deliberó un día y una noche bajo su manto y legisló la conversión sin un solo muerto, con práctica pagana privada tolerada al inicio. **Fuente:** Íslendingabók de Ari Þorgilsson. **Estado:** VERIFICADA.
 **El hueco:** qué pasó bajo el manto. En el cap. 17 del Libro 1 se trata como crónica comprimida; el Cuaderno 4 lo vive por dentro.
 
+### El Lucrecio de Poggio (1417) ✍ (cap. 21)
+**Qué consta:** Poggio Bracciolini desenterró el *De rerum natura* de Lucrecio en un monasterio alemán en 1417; el poema epicúreo que niega la intervención divina circuló copiado por la Italia humanista — y abre con el himno a Venus ("Aeneadum genetrix"). **Fuente:** epistolario de Poggio; tradición textual lucreciana. **Estado:** VERIFICADA.
+**El hueco:** hasta para decir que el cielo está vacío hay que cantarle primero a alguien; el primer aviso de la ley sexta, desoído.
+
 ### El nacimiento de Venus (c. 1485) ✍ (cap. 21)
 **Qué consta:** Botticelli pintó a Venus para el círculo mediceo en una Florencia que redescubría los manuscritos clásicos (caza humanista de códices, neoplatonismo de Ficino); los dioses volvieron como arte sin recibir culto. **Fuente:** historiografía del Renacimiento florentino. **Estado:** VERIFICADA.
 **El hueco:** la "ley sexta" del universo — las páginas de los muertos se entibian cuando se les cuenta; fundamento de "publícalo como ficción".

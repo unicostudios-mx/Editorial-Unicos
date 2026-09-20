@@ -46,6 +46,14 @@ Miró a su Virgen un segundo, de reojo, como se mira a una socia.
 
 —
 
+Nos fuimos con la tarde caída. Doña Socorro no deja ir a nadie con las manos vacías —en eso es colega de todos los porteros y fogones de mi libro, aunque no lo sabrá nunca—, así que salí con un topper de mole, un bulto de tortillas envuelto en servilleta de cuadros, y la instrucción de devolver el topper personalmente, "para que tenga pretexto de venir, porque a mi hija sus amigas le duran poco: las trabaja mucho". En el zaguán, mientras Valeria iba por el coche, me retuvo un momento con la mano en el brazo, y me revisó la cara con los ojos de filo, sin ningún disimulo, como se revisa un guiso.
+
+—Ya carga menos —dictaminó—. Que conste que no fue el mole, ¿eh? El mole compone el cuerpo. Lo suyo se le compuso en la plática. —Me dio dos palmadas en el brazo, de las que dan las señoras que han enterrado y cocinado en cantidades parecidas—. Usted oye bien, hija. Se ve luego luego: oye con todo el cuerpo, como los que han velado mucho. Nada más le encargo una cosa: las que oyen así de bien siempre se olvidan de que también les toca hablar. No se espere hasta el final para contar lo suyo, porque luego el caldo no alcanza.
+
+Y me cerró el zaguán con una sonrisa de despedida de todos los días, sin saber —o sabiendo; con las señoras de esta ciudad nunca he podido estar segura, y llevo cuatro milenios en el oficio de estar segura— que acababa de darle a la escribana de los dioses, en dos minutos y con un topper en la mano, la instrucción que este cuaderno entero está obedeciendo.
+
+—
+
 Valeria manejó de regreso callada por el Eje Central, y yo la dejé, porque su silencio estaba trabajando y los silencios que trabajan no se interrumpen. Fue hasta Niño Perdido que habló:
 
 —Tú sabes la mecánica. —Los ojos en el tráfico—. Tú sabes *exactamente* por qué los de arriba no defienden a nadie: me lo explicaste con leyes y con costura. La fe rota, el brazo roto, la espiral. Toda la ingeniería del abandono. —Tragó—. Y mi mamá no sabe nada de eso, y le lleva cincuenta años de ventaja a tu archivo. ¿Cómo?
