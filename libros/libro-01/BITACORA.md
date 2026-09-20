@@ -160,6 +160,11 @@
 - **Qué se hizo:** traducidos los caps. 11–13: «The Blank Page» (Nicea, con las tres lecturas del blanco y "the weight is kind"), «The Doorman of Rome» (el Lar y la teología de la vecindad) y «The End of the Templos» → «The End of the Temples» (Serapeo + Pausanias + Eleusis + la Pártenos, el capítulo más largo del libro). El cap. 14 quedó marcado **[TK]** conforme a la regla de avance de la constitución (§4: si un capítulo se atasca, versión provisional y se sigue); se retoma en corrida posterior.
 - **Estado:** 🌐 13/40 capítulos EN.
 - **Qué sigue:** caps. 15–17 en la próxima corrida; el 14 se reintenta después.
+
+## 2026-09-20 (corrida EN-4 — disparo horario)
+- **Qué se hizo:** traducidos los caps. 15 y 16: «The Island of Isis» (con el tratado de los blemios, la industria de Saqqara y el enderezón de la pasarela — "those two sentences are worth the same") y «The Deva» (don Sergio, las cinco señales y la revelación del nombre de Māra). El cap. 17 se atascó a media traducción y quedó **[TK]** como el 14 (regla de avance §4): la fila no se detiene.
+- **Estado:** 🌐 15/40 capítulos EN (dos [TK] por reintentar: 14 y 17).
+- **Qué sigue:** caps. 18–20 en la próxima corrida; los [TK] se reintentan al final del espejo.
 ## 2026-09-19 (6ª sesión) — Nico responde extensión: escala GoT/HP
 - **Qué se hizo:** Nico pidió resumen y un libro "del tamaño de Game of Thrones o Harry Potter". Se le entregó el análisis de tamaños (GoT ~292k palabras/~800 pp; HP entre 77k y 257k; óptimo del género 100–130k) y el plan de expansión: ~16 capítulos nuevos (Inanna, Delfos/Juliano, Filae, Ragnarök por votación en Islandia, el Renacimiento como resurrección de los muertos, los orishas, China 1912, Japón 1946, y más presente de Hestia, el Lar, Kulla, Val y la Santa Muerte) + engorde dirigido.
 - **Qué se decidió:** D-012 — Borrador 1 a 110–120k palabras (~450 pp, escala HP4) en un tomo; la escala GoT completa se reserva para la trilogía del universo (Libro 2: «El hilo negro»; Libro 3: el libro de la Santa Muerte). Revierte D-009.
