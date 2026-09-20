@@ -18,7 +18,7 @@ Sobre la mesa, destapado, abierto, estaba el Registro. Abierto exactamente donde
 
 —Porque la fila no avanza. —Y por primera vez en ochocientos años oí, debajo de la voz descansada, el borde de algo que en cualquier otro ser se habría llamado frustración—. Conoces mis reglas mejor que nadie; te las dije con hechos desde el cemento: yo no elijo. Nunca he elegido. El orden lo hizo tu costura; yo solo camino la fila. Ese es mi único título sobre tus muertos, escribana: que no fui yo quien los puso en fila. Si me la salto, si estiro la mano por encima de esa página hacia la última entrada... —abrió las manos, mostrando las palmas limpias— entonces soy un asesino con preferencias, y todo lo que soy desde antes de tu libro se vuelve mentira. La impermanencia no tiene favoritos. Es lo único decente que se puede decir de mí, y no voy a perderlo por una hoja.
 
-—¿Y la hoja no se deja.
+—¿Y la hoja no se deja?
 
 —La hoja no se deja. —Lo dijo mirándola, y en sus ojos de cielo despejado pasó una nube que tardé en clasificar, porque nunca la había visto en él: memoria—. Lo intenté una vez. Hace tiempo. No te voy a decir cuándo ni cómo, porque el resultado te va a dar una idea falsa de que hubo lucha. No hubo lucha. Hubo... —y el señor de todos los finales, el que discutió con el Despierto años enteros, escogió las palabras como un hombre que camina sobre hielo— hubo una descortesía mía, y una paciencia que no me cupo en la mano. Es todo lo que voy a decir. Tú la has sentido: tú la cosiste.
 

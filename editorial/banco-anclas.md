@@ -70,7 +70,7 @@ Mantenido por el **investigador**. Anclas = episodios documentados que sirven a 
 
 ## Cuaderno 5 — El quinto sol
 
-### El proceso de don Carlos Ometochtzin (1539)
+### El proceso de don Carlos Ometochtzin (1539) ✍ (cap. 23 del Libro 1; escena capital del Cuaderno 5)
 **Qué consta:** noble texcocano procesado y ejecutado por la Inquisición por "idolatría"; el expediente se conserva y tras el escándalo la Inquisición dejó de procesar indígenas por fe. **Fuente:** proceso inquisitorial publicado (AGN). **Estado:** VERIFICADA.
 **El hueco:** el precio humano de la clandestinidad divina; y el silencio institucional posterior como refugio involuntario.
 
