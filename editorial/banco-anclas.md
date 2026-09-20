@@ -52,6 +52,14 @@ Mantenido por el **investigador**. Anclas = episodios documentados que sirven a 
 **Qué consta:** Adán de Bremen describe el gran templo con imágenes de Thor, Wotan y Frey, y sacrificios cada nueve años. **Fuente:** Adán de Bremen, *Gesta Hammaburgensis*. **Estado:** VERIFICADA (con cautela: Adán escribe de oídas).
 **El hueco:** el último gran santuario documentado del norte — descrito por un cronista del dios rival.
 
+### La conversión votada de Islandia (año 1000) ✍ (cap. 17; escena capital del Cuaderno 4)
+**Qué consta:** al borde de la guerra civil religiosa, el Althing encargó la decisión al recitador de la ley Thorgeir Ljósvetningagoði — sacerdote pagano —, quien deliberó un día y una noche bajo su manto y legisló la conversión sin un solo muerto, con práctica pagana privada tolerada al inicio. **Fuente:** Íslendingabók de Ari Þorgilsson. **Estado:** VERIFICADA.
+**El hueco:** qué pasó bajo el manto. En el cap. 17 del Libro 1 se trata como crónica comprimida; el Cuaderno 4 lo vive por dentro.
+
+### El nacimiento de Venus (c. 1485) ✍ (cap. 21)
+**Qué consta:** Botticelli pintó a Venus para el círculo mediceo en una Florencia que redescubría los manuscritos clásicos (caza humanista de códices, neoplatonismo de Ficino); los dioses volvieron como arte sin recibir culto. **Fuente:** historiografía del Renacimiento florentino. **Estado:** VERIFICADA.
+**El hueco:** la "ley sexta" del universo — las páginas de los muertos se entibian cuando se les cuenta; fundamento de "publícalo como ficción".
+
 ## Cuaderno 5 — El quinto sol
 
 ### El proceso de don Carlos Ometochtzin (1539)
