@@ -30,6 +30,12 @@ Me asomé. Página cuatro mil doscientos y tantos, letra griega de provincia, fi
 
 —Todo el mundo, doctora. Todo el mundo, todos los días, con una devoción brevísima y sincerísima. —Me encogí de hombros—. No era un gran dios. Era un dios *necesario*. Duró más que Apolo, si quieres saberlo. Apolo tenía himnos; Crepitus tenía urgencias. En mi archivo las urgencias rinden mejor.
 
+Envalentonada, siguió catalogando raros, y dio con otro que merece su renglón: una página romana, de firma tiesa, campesina.
+
+—¿Robigo? —leyó.
+
+—El óxido del trigo. La roya. —Asentí—. Un dios cuyo oficio entero era *no venir*. Nadie le pidió nunca nada, en siglos: le pedían pura ausencia. Los romanos, que eran los mejores abogados del cielo, le hacían fiesta cada primavera en su día exacto, con procesión hasta su arboleda, para que se quedara en su casa. —Me encogí de hombros—. Firmó mi libro con una condición que no me ha puesto nadie más: que apuntara que su trabajo se notaba cuando no se notaba. Duró lo que duró el trigo de temporal en su tierra, y se apagó sin queja, como se apaga una plaga que ya no encuentra campo. Su página es de las que más respeto: hay dioses de dar, doctora, y hubo por lo menos uno de abstenerse. El cielo también tuvo funcionarios de guardar distancia, y los mortales les pagaban puntualmente el sueldo de la distancia. Piénsalo la próxima vez que alguien te diga que rezar es pedir.
+
 Valeria se rio como no se había reído desde el velorio del Lar, con la cabeza echada atrás, y el taller entero se destensó un grado, y yo aproveché la risa para mirarla a gusto, que es una cosa que las escribanas hacemos poco: mirar a los vivos mientras están bien, sin tomar notas, nada más porque están bien.
 
 Fue ella la que puso la pausa. Dejó el guante, se sirvió del café de la olla, y preguntó, con el tono cuidadoso que usa para las preguntas que ya trae rumiadas:

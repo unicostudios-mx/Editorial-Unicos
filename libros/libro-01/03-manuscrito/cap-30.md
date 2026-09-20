@@ -28,6 +28,20 @@ Nunca escribí en él. Doce años lo tuve en el cajón de mi mesa, perfecto, esp
 
 Los que llevan la cuenta de este libro ya saben en qué cuaderno está escrito lo que están leyendo. Sí: en ese. Tardé ciento veintitrés años en estrenarle el espacio que me hizo, y lo estrené para contarle algo largo a todo el mundo menos a ella. Que la aritmética de esa frase la cargue este archivo, porque yo ya no puedo sola.
 
+Un solo día de aquellos diecisiete años sí voy a contar, porque Valeria, editora de este cuaderno, dice que necesita más de Amalia, y porque es el día que mejor explica el siglo entero. La noche de mayo de 1910 en que la ciudad subió a las azoteas a ver pasar el cometa. Está en sus periódicos de la época: el Halley venía con cauda de veneno, decían los alarmistas, y hubo quien vendió pastillas contra el fin del mundo, y quien tapió ventanas, y quien se confesó dos veces por si acaso. Nosotras lo vimos desde la azotea del taller, entre las macetas de Amalia, con pan dulce y una veladora que ella encendió "por no dejar".
+
+—¿Y eso es de arriba, Edna? —me preguntó, muy seria, con la cara levantada hacia la cauda que cruzaba el cielo de la ciudad entera—. Tú que sabes de libros viejos. ¿Es alguien?
+
+Puse la mano en mi bolsa, sobre el Registro —todavía lo cargaba a todas partes en ese año; le quedaban cinco a esa costumbre— y no había nada: ni tibieza nueva, ni firma, ni hambre. Una piedra con vapor, puntual como los trenes, cruzando un cielo que doscientos años antes se habría llenado de procesiones y que ahora se llenaba de telescopios y de pastillas de charlatán.
+
+—No es nadie —le dije—. Es una piedra que vuelve cada setenta y tantos años. Ya la había visto pasar. —Y era verdad, y me salió sola la cuenta en voz alta—: Cincuenta y tantas veces.
+
+Amalia me miró un rato largo, con la veladora entre las dos, y no preguntó lo que esa cuenta significaba, porque su no-preguntar era su manera de sostenerme la puerta. Luego miró otra vez el cometa y dijo la frase que me quedé masticando el resto del siglo:
+
+—Pobre. Tanto viaje para que ya nadie se hinque. —Le dio un trago a su canela—. Aunque mejor, ¿no? Que lo miren sin miedo. A las cosas del cielo ha de cansarles tanto susto. Ha de ser descanso que nada más te encuentren bonito.
+
+La ley sexta, entera, dicha por una encuadernadora en una azotea. Yo la había descubierto en 1485, con un libro tibio en el portal de una iglesia y meses de tomar temperaturas; Amalia la entendió en 1910, en una frase, sin haber leído nada. Así era ella. Yo llevaba el censo de los de arriba; ella entendía a los de arriba por gremio de abajo, como entendía los libros sin griego y sin latín: por el lomo, por la costura, por el modo de estar rotos.
+
 Diré lo que hace falta para entender el cierre, nada más: que trabajamos juntas diecisiete años, su banco junto al mío, su engrudo y mi hilo; que ella nunca supo quién era yo y lo supo mejor que nadie —"usted tiene manos de haber enterrado mucho", me dijo una noche, sin preguntar nada, y me puso la mano encima de la mano, y yo dejé que ese gesto durara más de lo prudente y menos de lo justo—; que con ella aprendí el único idioma que me faltaba, que es el presente; y que los diecisiete años que pasé a su lado son, en una vida de cuatro milenios, el capítulo que releo.
 
 Y que la ciudad me la mató de hambre.
