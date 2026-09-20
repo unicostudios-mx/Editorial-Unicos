@@ -166,3 +166,5 @@ Agentes opcionales por libro (solo si el brief lo pide): investigador, auditor d
 - **2026-09-19** — Fundación. Constitución, estructura, agentes, dashboard y workflow nocturno creados.
 - **2026-09-19** — **Puerta 1 del Libro 1 cerrada** (D-006 ratificada por Nico): «El registro de los últimos dioses», mezcla D×E con Jehová/el Dios cristiano y cosmovisión budista. Brief, biblia mínima y arquitectura completas.
 - **2026-09-19** — **Borrador 0 completo y Puerta 2 abierta**: 26 capítulos, ~39,500 palabras, pase editorial hecho. Entrega en `libros/libro-01/04-entrega.md`; Nico revisa.
+- **2026-09-19/20** — Saga «Los cuadernos de la escribana» diseñada y cerrada (D-016); guía de estilo v1.0 adoptada (D-013); agente investigador y banco de anclas creados (D-015).
+- **2026-09-20** — **Borrador 1 completo y Puerta 2 (segunda) abierta** (D-018/D-019): 40 capítulos, 66,224 palabras, revisión integral 26/26, pase editorial final hecho, ~27 anclas en el banco. Nico decide P9 (extensión vs. D-014), P8 (Tepeyac) y título. Entrega en `libros/libro-01/04-entrega.md`.

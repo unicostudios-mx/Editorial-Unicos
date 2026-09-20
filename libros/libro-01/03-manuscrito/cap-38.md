@@ -42,7 +42,7 @@ El tercer trabajo fue la entrega, y fue el más difícil, porque no era de manos
 
 A Valeria le puse el Registro en los brazos un miércoles por la tarde, con el sol de abril entrando naranja por la cortina a medio bajar, y le dicté sin libro de por medio los términos que llevaba una semana puliendo:
 
-—Es tuyo desde hoy, no desde después: quiero verte cargarlo mientras pueda corregirte la postura. Con él van mis cuadernos de trabajo, los cuatro mil trescientos años en limpio que hemos hecho estos meses, y el taller entero, que ya está en tu nombre; le debo al gremio dejarlo con alguien que sabe que los libros no se resucitan, se acompañan a durar.
+—Es tuyo desde hoy, no desde después: quiero verte cargarlo mientras pueda corregirte la postura. Con él van mis cuadernos de trabajo, los cuatro mil trescientos años en limpio que hemos hecho estos meses, y el taller entero, que ya está en tu nombre; le debo al gremio dejarlo con alguien que sabe que los libros no se resucitan, se acompañan a durar. Vas a encontrar los dos bancos parejos, por cierto: el de los clientes ya no cojea. Lo arreglamos juntas, como se prometió, y en este gremio las promesas chicas se cumplen primero, porque son las que sostienen a las grandes.
 
 "Y va la instrucción, Valeria. La única. Escúchala completa antes de pelear conmigo, que te conozco: *publícalo como ficción*.
 

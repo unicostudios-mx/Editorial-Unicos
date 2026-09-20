@@ -1,7 +1,8 @@
-# Entrega — Puerta 2
+# Entrega — Puerta 2 (Borrador 1)
 
-**«El registro de los últimos dioses»** · Borrador 0 completo · 2026-09-19
-26 capítulos · ~39,500 palabras · manuscrito en `03-manuscrito/cap-01.md` a `cap-26.md`
+**«El registro de los últimos dioses»** (título de trabajo) · Borrador 1 completo · 2026-09-20
+40 capítulos · **66,224 palabras** (~260 páginas) · manuscrito en `03-manuscrito/cap-01.md` a `cap-40.md`
+Pase editorial final ejecutado (D-018) · Revisión integral 26/26 (D-017) · Guía de estilo v1.0 aplicada (D-013)
 
 ---
 
@@ -9,48 +10,44 @@
 
 Enheduanna —la primera autora con nombre de la historia, condenada hace 4,300 años por los dioses en guerra a llevar el Registro ante el que nadie puede mentir— vive hoy como "Edna Aranda", restauradora de libros en el Centro de la CDMX. Cerró el Registro en 1915, cansada y en duelo, sin saber que cerrarlo apagaba el testimonio que sostenía a los últimos dioses vivos, página por página, en el orden en que ella los cosió.
 
-Cuando el dios sumerio del ladrillo aparece muerto en el colado de una obra con su página arrancada, Edna descubre que alguien —Māra, el señor búdico de la impermanencia, que se presenta como misericordia con prisa— está acelerando esa agonía a mano. Con la ayuda de Val Ibarra, historiadora atea de las religiones, Edna recorre sus propias crónicas (Ur, Amarna, la muerte de Pan, Nicea y la página en blanco del Dios que no se deja inscribir, el Serapeo, Nalanda, Tenochtitlan y el Tepeyac, la diosa fabricada de 1793, el año del hambre de 1915) hasta entender que la culpable de fondo es ella — y que la fila del asesino se atasca en la única página que ninguna mano puede tocar.
+Cuando el dios sumerio del ladrillo aparece muerto en el colado de una obra con su página arrancada, Edna descubre que alguien —Māra, el señor búdico de la impermanencia, que se presenta como misericordia con prisa— está acelerando esa agonía a mano. Con la ayuda de Val Ibarra, historiadora atea de las religiones, Edna recorre sus propias crónicas (Ur, Amarna, la muerte de Pan, la muerte de Inanna, Nicea y la página en blanco del Dios que no se deja inscribir, el Serapeo y Eleusis, Filae, Nalanda, la votación de Islandia, Florencia y la ley sexta, Tenochtitlan y el Tepeyac, los orishas de Regla, la diosa fabricada de 1793, Amalia y el año del hambre de 1915, el fogón de la calle de Dolores, los kami que no cayeron) hasta entender que la culpable de fondo es ella — y que la fila del asesino se atasca en la única página que ninguna mano puede tocar.
 
-Rechazando tanto reabrir el libro (agonía congelada) como el pacto de Māra (eutanasia a cambio de confesión), Edna elige terminar el Registro atestiguando cada muerte con amor: la vela del último deva, el apagarse del fuego viejo, la última lluvia de Tláloc. No inscribe a la Santa Muerte —le regala un libro nuevo y vacío, con puerta de salida—, entrega el Registro a Val con la instrucción de publicarlo como ficción, escribe la entrada final —la suya— y muere mortal bajo la primera lluvia de la temporada. El epílogo de Val revela que la novela publicada es el propio Registro: la página en blanco se imprime en blanco en todas las ediciones.
+Rechazando tanto reabrir el libro (agonía congelada) como el pacto de Māra (eutanasia a cambio de confesión), Edna elige terminar el Registro atestiguando cada muerte con amor: la vela ensayada del último deva, el apagarse del fuego viejo en un comal de San Cosme, la última lluvia de Tláloc repartida sobre su gente. No inscribe a la Santa Muerte —le regala un libro nuevo y vacío, con puerta de salida—, entrega el Registro a Val con la instrucción de publicarlo como ficción, escribe la entrada final —la suya— con la pluma de caña del deva, en el cuaderno azul de Amalia, y muere mortal bajo la primera lluvia de la temporada, a media palabra. El epílogo de Val revela que la novela publicada es el propio Registro: la página en blanco se imprime en blanco en todas las ediciones, y nadie de la editorial la objetó jamás.
+
+## Qué cambió del Borrador 0 al Borrador 1
+
+- **De 26 a 40 capítulos, de ~39.5k a ~66.2k palabras.** Catorce capítulos nuevos: Hestia/19-S (6), Inanna (9), el Lar de Roma (12), Guanajuato 1907/Amalia (14), Filae/Isis (15), Islandia (17), El taller (18), Florencia/ley sexta (21), la madre de Val (22), los orishas (25), Zao Jun (28), el rondín de la Santa Muerte (29), El ensayo (32), los kami (36).
+- **Revisión integral de los 26 originales** con la rúbrica de 7 y las tres directivas de la guía (menos cierres lapidarios, Edna falible en presente, temperaturas).
+- **12 engordes con ancla histórica VERIFICADA** (banco en `editorial/banco-anclas.md`, ~27 anclas, las usadas marcadas ✍) y ~15 correcciones de dato/continuidad.
+- **Tema transversal de la saga integrado:** la teología de la derrota, con sus "milagros de la derrota" (el enderezón de Filae, la niebla de Tenochtitlan) y la pregunta de Grecia respondida desde abajo (doña Socorro: los dos rezos).
 
 ## Promesa cumplida
 
 Atestiguar es una forma de amor; cerrar bien es despedirse bien; la duda es la forma adulta de la fe. La trama entera está construida para que el lector llegue a esas tres frases habiéndolas *sentido* antes de poder enunciarlas.
 
-## Estructura
+## Verificación de filtros (pase final, D-018)
 
-Trenzado: 16 capítulos de presente (CDMX 2026, la intriga) y 10 del registro (las caídas históricas, regla E: nada visible contradice el registro documentado). Cada capítulo del pasado entrega una pieza que el presente usa en el capítulo siguiente. Final decidido antes de escribir el capítulo 1 y ejecutado sin desviaciones.
+- **F1 (emociona antes de explicar):** verificado en los 40; los conceptos entran siempre después de la escena que los encarna.
+- **F2 (cambio irreversible por capítulo):** verificado; ningún capítulo es decorativo.
+- **F3 (se sostiene sin los dioses):** el drama es culpa, duelo, amistad y responsabilidad.
+- **Regla E:** toda escena histórica visible coincide con el registro documentado; lo divino vive en los huecos. Ninguna fuente inventada (D-015).
+- **Canon de respeto intacto:** página en blanco jamás resuelta; Tepeyac reverente y ambiguo (P8 sigue abierta para tu lectura); Islam ausente por diseño (D-010); orishas "con permiso" y sin inscripción; memoria de Edna infalible en datos, falible en juicio (D-013).
 
-## Decisiones clave (detalle completo en `decisiones.md`)
+## Dudas abiertas para Nico (las tres puertas de esta entrega)
 
-- **D-006 (RATIFICADA por Nico):** semilla D×E con Jehová/Dios cristiano y cosmovisión budista.
-- **El Dios cristiano = la página en blanco:** inviolable; la novela nunca declara si vive o murió. Es a la vez el canon de respeto y el mecanismo central del thriller (donde el asesino se atasca).
-- **Māra como antagonista:** no puede morir de hambre de fe ni ser refutado en los hechos; se le vence por deslinde, no por fuerza. Sus reglas (no elige víctimas, sigue el orden) son su prisión.
-- **Enheduanna protagonista** (persona histórica; su destierro documentado aloja la condena) y **Val Ibarra** como heredera/testigo — el epílogo es suyo.
-- **Extensión final ~39,500 palabras** (revisa el objetivo de 60k de D-007): la historia cerró su arco completo en 26 capítulos; inflarla violaría la línea editorial ("extensiones honestas"). Queda margen deliberado para engordar en reescritura si Nico lo pide (ver Dudas).
-
-## Verificación de filtros (pase editorial)
-
-- **F1 (emociona antes de explicar):** los conceptos (leyes del Registro, mecánica de la fe) entran siempre después de una muerte o una escena que los encarna.
-- **F2 (cambio irreversible por capítulo):** verificado capítulo a capítulo en la escaleta; ninguno es decorativo.
-- **F3 (se sostiene sin los dioses):** el drama es culpa, duelo, amistad y responsabilidad; quitando lo divino queda una mujer que cerró una puerta y aprende a despedirse.
-- **Regla E:** anclas documentadas en cada capítulo del registro (lista en `02-arquitectura.md`); correcciones de continuidad aplicadas (fechas, conteos de páginas, cronología interna).
-
-## Dudas abiertas para Nico
-
-1. **P8 — El capítulo 14 (Tepeyac):** escrito con reverencia total y ambigüedad deliberada (solo Sahagún documentado; el hueco jamás se afirma ni se niega). Pide tu lectura personal por su peso cultural.
-2. **Extensión:** ~~¿novela corta o crecer?~~ **Cerrada por Nico (2026-09-19, D-014 RATIFICADA): objetivo 75,000–95,000 palabras.** El estudio apunta a ~85k / ~38 capítulos. Plan de expansión en `02-arquitectura.md`; la escala épica mayor vive en la saga («Los cuadernos de la escribana»), no en el tomo 1.
-3. **Título:** «El registro de los últimos dioses» es título de trabajo. Alternativas anotadas en el parking lot.
+1. **P9 — Extensión (la decisión grande):** D-014 (RATIFICADA) fija 75–95k. El Borrador 1 quedó en **66,224** y el veredicto del estudio es que el libro está **terminado**: los 40 capítulos pasaron el pase final, varios son cortos por diseño, y las anclas restantes del banco no tienen casa natural en este tomo. Opciones: **(a)** ajustar D-014 al tamaño natural (~66k, ~260 pp — rango válido para debut literario); **(b)** mantener el piso, en cuyo caso el estudio diseña una expansión estructural (2–3 capítulos de registro nuevos, p. ej. el Altar de la Victoria/Símaco, los maniotas, la última olimpiada) y te la presenta antes de escribirla, porque toca la arquitectura.
+2. **P8 — El capítulo 23 (Tepeyac):** pide tu lectura personal por su peso cultural.
+3. **Título:** «El registro de los últimos dioses» es título de trabajo. Alternativas en el parking lot.
 
 ## Riesgos
 
-- **Sensibilidad religiosa:** el libro toca cristianismo, budismo, judaísmo (Templo/página en blanco) y guadalupanismo con un canon de respeto explícito (brief). **El Islam no se toca en ningún capítulo** — decisión deliberada de prudencia editorial en el Borrador 0; si Nico quiere incluirlo, se diseña con el mismo canon y revisión específica.
-- **Personas históricas:** todas muertas hace siglos y tratadas dentro del registro documentado (regla E). Riesgo legal nulo; riesgo de anacronismo mitigado con la lista de anclas (pendiente de verificación fina por el agente investigador si se avanza a publicación).
-- **Comparables:** la cercanía con *American Gods* es de premisa, no de ejecución (voz íntima femenina, rigor histórico, México como centro); conviene subrayarlo en cualquier texto de contraportada.
+- **Sensibilidad religiosa:** cristianismo (página en blanco), budismo (canónico), judaísmo (Templo), guadalupanismo (hueco reverente), orishas (con permiso; el libro completo de la temporada 2 exigirá guardianes de contenido humanos), sintoísmo y culto popular chino (tratados con dignidad). El Islam no se toca (D-010).
+- **Personas históricas:** todas muertas hace siglos, dentro del registro documentado (regla E).
+- **Comparables:** la cercanía con *American Gods* es de premisa, no de ejecución (voz íntima femenina, rigor histórico, México como centro).
 
-## Qué sigue (si Nico aprueba)
+## Qué sigue (según tu respuesta)
 
-1. Respuestas a las 3 dudas → reescritura dirigida (Borrador 1).
-2. Verificación documental fina de las anclas (investigador).
-3. Espejo en inglés (`/en/`) al cerrar el hito, por el archivista.
-4. Decisión de ruta de publicación (fuera del alcance del estudio: freno de emergencia).
+1. **P9(a):** cierre del hito → espejo en inglés (`/en/`) por el archivista → siguiente etapa del catálogo (Cuaderno 2, «El nuevo Dioniso»).
+2. **P9(b):** diseño de expansión estructural → tu visto bueno → corridas de escritura hasta el rango.
+3. En ambos casos: tu lectura del cap. 23 (P8) y decisión de título.
+4. Ruta de publicación: fuera del alcance del estudio (freno de emergencia §3.4).

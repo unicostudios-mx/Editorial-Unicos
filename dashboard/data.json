@@ -5,16 +5,16 @@
     {
       "slug": "libro-01",
       "titulo": "El registro de los últimos dioses (título de trabajo)",
-      "etapa": 5,
-      "etapa_nombre": "Borrador 1 — expansión a escala HP4",
+      "etapa": 6,
+      "etapa_nombre": "Puerta 2 — Borrador 1 completo, Nico revisa",
       "capitulos_escritos": 40,
       "capitulos_total": 40,
-      "palabras": 66184,
+      "palabras": 66224,
       "palabras_meta": 85000,
-      "decisiones_tomadas": 14,
-      "preguntas_abiertas": 2,
+      "decisiones_tomadas": 19,
+      "preguntas_abiertas": 3,
       "ultima_actualizacion": "2026-09-20",
-      "nota": "Borrador 1: 40/40 capítulos, revisión 26/26. Corrida 16: Eleusis y la excepción de la ley sexta (cap. 13); la coda de Uppsala (cap. 17). Los 40 capítulos evaluados uno a uno; P9 abierta sobre el piso de 75k. Avance global ~80%."
+      "nota": "BORRADOR 1 COMPLETO Y PUERTA 2 ABIERTA: 40 capítulos, 66,224 palabras, pase editorial final hecho (D-018). Nico decide P9 (extensión vs. D-014), P8 (Tepeyac) y título. Avance global ~85% (el resto depende de sus respuestas)."
     }
   ]
 }
