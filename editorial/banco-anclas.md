@@ -24,7 +24,7 @@ Mantenido por el **investigador**. Anclas = episodios documentados que sirven a 
 
 ## Cuaderno 2 — El nuevo Dioniso
 
-### Pausanias, el turista del crepúsculo (s. II d.C.)
+### Pausanias, el turista del crepúsculo (s. II d.C.) ✍ (cap. 13 del Libro 1)
 **Qué consta:** Pausanias escribió la *Descripción de Grecia*, guía de viaje de templos y cultos, muchos ya en decadencia; registra santuarios abandonados y oráculos callados. **Fuente:** Pausanias, *Descripción de Grecia*. **Estado:** VERIFICADA.
 **El hueco:** el primer turismo de ruinas — con los dioses todavía adentro, viendo pasar a los visitantes.
 
@@ -52,7 +52,7 @@ Mantenido por el **investigador**. Anclas = episodios documentados que sirven a 
 
 ## Cuaderno 4 — El invierno de los dioses
 
-### El roble de Donar talado (723 d.C.)
+### El roble de Donar talado (723 d.C.) ✍ (cap. 17 del Libro 1)
 **Qué consta:** Bonifacio taló el roble sagrado de Donar/Thor en Geismar ante paganos que esperaban el castigo del dios; no ocurrió nada y muchos se convirtieron. **Fuente:** *Vita Bonifatii* de Willibald. **Estado:** VERIFICADA.
 **El hueco:** la rima nórdica exacta de "no lo mató el hacha; lo mató la falta de temblor".
 
