@@ -18,7 +18,17 @@ Se llamaba Amalia Reyes. Era encuadernadora del taller de un impresor de la call
 
 Cuatro mil años, y me desarmó una frase de encuadernadora.
 
-No voy a contar aquí lo que fuimos, porque hay páginas que no le pertenecen ni a este libro, y porque el pudor es lo último que le queda a una escribana cuando ya lo registró todo. Diré lo que hace falta para entender el cierre, nada más: que trabajamos juntas diecisiete años, su banco junto al mío, su engrudo y mi hilo; que ella nunca supo quién era yo y lo supo mejor que nadie —"usted tiene manos de haber enterrado mucho", me dijo una noche, sin preguntar nada, y me puso la mano encima de la mano, y yo dejé que ese gesto durara más de lo prudente y menos de lo justo—; que con ella aprendí el único idioma que me faltaba, que es el presente; y que los diecisiete años que pasé a su lado son, en una vida de cuatro milenios, el capítulo que releo.
+No voy a contar aquí lo que fuimos, porque hay páginas que no le pertenecen ni a este libro, y porque el pudor es lo último que le queda a una escribana cuando ya lo registró todo. Pero hay una cosa de aquellos años que este libro necesita saber, porque este libro está escrito *sobre* ella:
+
+En la Navidad de 1903, Amalia me regaló un cuaderno. Lo había hecho ella, con sus manos de encuadernadora: papel bueno de sus reservas, costura a la francesa, tapas forradas en un azul que eligió "porque usted siempre anda de colores de archivo, y el archivo también merece cielo". Me lo dio envuelto en papel de china y me dijo, con su burla seria: "Es para cuando quiera contarme algo largo. No sé qué. Usted sabrá. Yo nada más le hice el espacio."
+
+Me lo estuvo haciendo un mes, a escondidas, en el banco de junto al mío.
+
+Nunca escribí en él. Doce años lo tuve en el cajón de mi mesa, perfecto, esperando, y cada tanto ella lo veía ahí al buscar un punzón y no decía nada, y ese no-decir-nada suyo era la pregunta más paciente que me han hecho en cuatro milenios. El espacio estuvo hecho, con sus tapas de cielo. La que no estuvo hecha fui yo.
+
+Los que llevan la cuenta de este libro ya saben en qué cuaderno está escrito lo que están leyendo. Sí: en ese. Tardé ciento veintitrés años en estrenarle el espacio que me hizo, y lo estrené para contarle algo largo a todo el mundo menos a ella. Que la aritmética de esa frase la cargue este archivo, porque yo ya no puedo sola.
+
+Diré lo que hace falta para entender el cierre, nada más: que trabajamos juntas diecisiete años, su banco junto al mío, su engrudo y mi hilo; que ella nunca supo quién era yo y lo supo mejor que nadie —"usted tiene manos de haber enterrado mucho", me dijo una noche, sin preguntar nada, y me puso la mano encima de la mano, y yo dejé que ese gesto durara más de lo prudente y menos de lo justo—; que con ella aprendí el único idioma que me faltaba, que es el presente; y que los diecisiete años que pasé a su lado son, en una vida de cuatro milenios, el capítulo que releo.
 
 Y que la ciudad me la mató de hambre.
 
