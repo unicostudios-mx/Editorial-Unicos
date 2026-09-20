@@ -87,6 +87,8 @@ titlepage = simple_page(TITLE, f"""
 </div>""")
 blankpage = simple_page(" ", '<div class="blankpage">&#160;</div>')
 
+COVER = Path(__file__).resolve().parent / "portada" / "portada.png"
+
 manifest, spine, navlist, files = [], [], [], []
 
 def add(fname, title_for_nav, content, in_nav=True, props=""):
@@ -97,6 +99,16 @@ def add(fname, title_for_nav, content, in_nav=True, props=""):
     spine.append(f'<itemref idref="{mid}"/>')
     if in_nav:
         navlist.append(f'<li><a href="{fname}">{html.escape(title_for_nav)}</a></li>')
+
+if COVER.exists():
+    coverpage = f"""<?xml version="1.0" encoding="utf-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="{LANG}">
+<head><title>{html.escape(TITLE)}</title><style>body{{margin:0;padding:0;}} img{{width:100%;height:auto;}}</style></head>
+<body epub:type="cover"><img src="cover.png" alt="{html.escape(TITLE)}"/></body></html>"""
+    files.append(("OEBPS/cover.xhtml", coverpage))
+    manifest.append('<item id="coverpage" href="cover.xhtml" media-type="application/xhtml+xml"/>')
+    manifest.append('<item id="coverimg" href="cover.png" media-type="image/png" properties="cover-image"/>')
+    spine.append('<itemref idref="coverpage"/>')
 
 add("titlepage.xhtml", "Portada", titlepage)
 for i, title, body in chapters:
@@ -147,5 +159,7 @@ with zipfile.ZipFile(OUT, "w") as z:
     z.writestr("OEBPS/style.css", CSS, compress_type=zipfile.ZIP_DEFLATED)
     for path, content in files:
         z.writestr(path, content, compress_type=zipfile.ZIP_DEFLATED)
+    if COVER.exists():
+        z.write(COVER, "OEBPS/cover.png", compress_type=zipfile.ZIP_DEFLATED)
 
 print(f"OK: {OUT} ({OUT.stat().st_size/1024:.0f} KB), {len(chapters)} capítulos")
