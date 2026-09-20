@@ -34,6 +34,24 @@ Que no dejara entrar incienso al cuartito: "el incienso es para los altares, y y
 
 Y que el último renglón, el de después, lo decidiera yo. —Eso también lo dijo al pirul—: El acta es tuya desde donde yo ya no dicto. Ahí empieza tu oficio de verdad, el que ningún dios te puede ensayar. Confío en tu último renglón, Enheduanna. Llevo ochocientos años leyéndote la cara: escribes mejor cuando nadie te encarga.
 
+Después me dictó el programa. Así lo llamó, y sacó de la bolsa de la camisa un papelito doblado en cuatro, escrito con el lápiz de marcar plantas, porque el rey de los Treinta y Tres, que gobernó un cielo con un pensamiento, hizo el itinerario de su muerte con letra de jardinero en el reverso de una lista del vivero.
+
+—El primer día te voy a hablar de mis palacios. No me lo festejes ni me lo compadezcas: es inventario, y los inventarios se reciben con cara de inventario. El segundo día te toca a ti: te voy a preguntar tu vida entera, con método, y me la vas a contestar, porque es mi vela y en mi vela se conversa lo que yo diga. —Levantó una mano antes de que yo abriera la boca—. Cuatro mil años oyendo y apuntando, escribana. Alguien tiene que interrogarte a ti antes de que se acabe el mundo, y va a ser un rey, y va a ser en mi mejor semana. Es mi capricho grande. Concédemelo.
+
+—¿Y el tercer día?
+
+—El tercero no te lo anuncio. —Dobló el papelito otra vez, con cuidado de archivo—. Hay capítulos que si se ensayan ya no se dicen. El cuarto voy a dormir; no lo desperdicies: escribe el cuarto. Nadie ha escrito el sueño de un deva y a ti te van a salir bien los renglones sin testigo. El quinto pido la ventana. —Aquí se le fue la vista al jardín, y tardó, y yo no apunté nada porque hay pausas que no son de tinta—. El quinto es para el jardín. Tengo pendientes ahí. Asuntos de nombres.
+
+—¿Y el sexto?
+
+—El sexto no se ensaya —dijo, con la primera aspereza de la tarde, que no era conmigo—. El sexto día ya voy a estar ocupado.
+
+Se quedó callado un momento, y entonces vi lo que ninguna ceremonia de las diez mil había necesitado nunca: al rey buscar las palabras. Las encontró donde las encuentran los porteros y las porteras de este libro, en lo chico:
+
+—Lo único que no me sale del programa es una cosa —dijo—. Los colibríes vienen al toronjil todas las mañanas, a la misma hora, con esa puntualidad de tener el corazón a mil. Y la casa es buena, pero regar riegan cuando se acuerdan. ¿Quién les va a avisar? —Me miró, y por primera vez en ochocientos años el señor del rayo me hizo una petición que no sabía hacer—. No hay trámite para eso, ¿verdad? Ya revisé. En ningún cielo lo hay. Es lo único que este puesto no me deja delegar ni llevar: el pendiente de los vivos chicos. Ahora entiendo a tu Hestia con sus lentejas. Que le conste, donde sea que ahora le consten las cosas: al final la entendí.
+
+Le dije que yo me encargaba del toronjil. Es la única mentira que le he dicho a un dios con la mano en mi libro cerca —no era mentira todavía; era una promesa sin cómo, que es distinto, y además la he cumplido: pregúntenle a la casa quién va los martes a regar—. Asintió, conforme, como quien tacha el último pendiente de la lista del vivero.
+
 —
 
 Al final del ensayo, cuando ya me iba, me detuvo con un gesto y señaló el pirul.
