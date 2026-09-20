@@ -190,6 +190,11 @@
 - **Qué se hizo:** cuatro capítulos más — el corazón del Acto III entero en inglés. «The Rehearsal» (el programa con letra de jardinero, los colibríes del toronjil), «The Last Page» (la entrada 7,204 y "I have never received a higher promotion"), «The Vigil» (los seis días, "he did not die alone", y el "That is why you last" de Māra) y «The Last Rain» (los tres renglones de Huehuetéotl — "Nobody's breakfast was cold" — y Tláloc repartiéndose en su lluvia: "he went on ahead").
 - **Estado:** 🌐 30/40 capítulos EN.
 - **Qué sigue:** caps. 36–40 en la próxima corrida (con eso el tramo lineal queda completo); después, los cinco [TK].
+
+## 2026-09-20 (corrida EN-10 — disparo horario)
+- **Qué se hizo:** cinco capítulos — el final del libro entero en inglés. «The Ones Who Did Not Fall» (el arroz de la guerra y "the gates have no doors"), «The Wall» (los tres pisos del no y "learn to greet from a distance, colleague"), «The New Books» (los injertos, el libro de la Santa Muerte con su exit door, y "doubt is..." no — "publish it as fiction"), «The Last Entry» (la entrada 7,204 en presente, el "Ya está" del derecho, y el final a media palabra: "Forgive me for taking four thousand years to") y «Record of the Witness» (el epílogo de Val: "doubt with your hands busy. It is the adult form of faith.").
+- **Estado:** 🌐 35/40 — **tramo lineal completo**. Solo quedan los cinco [TK] (14, 17, 20, 24, 27).
+- **Qué sigue:** reintento de los [TK] en las próximas corridas; al 40/40, EPUB inglés con el mismo molde y Puerta 1 del Cuaderno 2.
 ## 2026-09-19 (6ª sesión) — Nico responde extensión: escala GoT/HP
 - **Qué se hizo:** Nico pidió resumen y un libro "del tamaño de Game of Thrones o Harry Potter". Se le entregó el análisis de tamaños (GoT ~292k palabras/~800 pp; HP entre 77k y 257k; óptimo del género 100–130k) y el plan de expansión: ~16 capítulos nuevos (Inanna, Delfos/Juliano, Filae, Ragnarök por votación en Islandia, el Renacimiento como resurrección de los muertos, los orishas, China 1912, Japón 1946, y más presente de Hestia, el Lar, Kulla, Val y la Santa Muerte) + engorde dirigido.
 - **Qué se decidió:** D-012 — Borrador 1 a 110–120k palabras (~450 pp, escala HP4) en un tomo; la escala GoT completa se reserva para la trilogía del universo (Libro 2: «El hilo negro»; Libro 3: el libro de la Santa Muerte). Revierte D-009.
