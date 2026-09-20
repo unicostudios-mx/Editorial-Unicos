@@ -13,7 +13,7 @@ OUT = Path(__file__).resolve().parent / "la-escribana-de-los-dioses.epub"
 TITLE = "La escribana de los dioses"
 SERIES = "Los cuadernos de la escribana"
 SERIES_POS = "1"
-AUTHOR = "Unico Studios"          # byline pendiente de decisión de Nico
+AUTHOR = "Albertoni"              # seudónimo de Nico (D-024, RATIFICADA)
 LANG = "es-MX"
 BOOK_ID = "urn:uuid:" + str(uuid.uuid5(uuid.NAMESPACE_URL, "unicostudios.mx/la-escribana-de-los-dioses"))
 
