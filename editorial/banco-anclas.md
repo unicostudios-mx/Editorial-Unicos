@@ -28,7 +28,7 @@ Mantenido por el **investigador**. Anclas = episodios documentados que sirven a 
 **Qué consta:** Pausanias escribió la *Descripción de Grecia*, guía de viaje de templos y cultos, muchos ya en decadencia; registra santuarios abandonados y oráculos callados. **Fuente:** Pausanias, *Descripción de Grecia*. **Estado:** VERIFICADA.
 **El hueco:** el primer turismo de ruinas — con los dioses todavía adentro, viendo pasar a los visitantes.
 
-### La Atenea Pártenos desaparecida
+### La Atenea Pártenos desaparecida ✍ (cap. 13 del Libro 1)
 **Qué consta:** la estatua criselefantina de Fidias fue llevada a Constantinopla (s. V) y desaparece del registro sin acta de destrucción. **Fuente:** tradición bizantina; último registro en el Lauseion/foro. **Estado:** PLAUSIBLE.
 **El hueco:** un cuerpo divino que la historia simplemente *deja de mencionar*: la muerte sin acta, el terror de Edna.
 
@@ -46,7 +46,7 @@ Mantenido por el **investigador**. Anclas = episodios documentados que sirven a 
 **Qué consta:** el grafito de Esmet-Akhom en Filae es la última inscripción jeroglífica datada, obra de un sacerdote de Isis. **Fuente:** grafito de Filae, epigrafía egipcia. **Estado:** VERIFICADA.
 **El hueco:** Tot, dios de la escritura, viendo morir su alfabeto — con firma y fecha. Escena capital del cuaderno.
 
-### La industria de las momias de animales
+### La industria de las momias de animales ✍ (cap. 15 del Libro 1)
 **Qué consta:** millones de momias votivas (ibis, halcones, gatos) producidas en serie en el periodo tardío; catacumbas enteras. **Fuente:** arqueología de Saqqara/Tuna el-Gebel. **Estado:** VERIFICADA.
 **El hueco:** la fe vuelta manufactura: ¿alimenta igual el testimonio industrializado? (rima con "la fe administrada no alimenta").
 
