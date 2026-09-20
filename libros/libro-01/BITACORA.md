@@ -180,6 +180,11 @@
 - **Qué se hizo:** traducidos los caps. 25 y 26: «The Ones Who Crossed the Sea» (con las manos lavadas y la línea de la madre de las aguas: "Eternity is touched on Sundays") y «The Manufactured Goddess» (el viejo del vado, la fuente de Isis, y la ley: "Administered faith does not feed. What people are ordered to feel has no weight."). El cap. 27 se atascó cerca del final y quedó **[TK]** (quinto de la lista: 14, 17, 20, 24, 27).
 - **Estado:** 🌐 22/40 capítulos EN.
 - **Qué sigue:** caps. 28–31 en la próxima corrida; los [TK] al final.
+
+## 2026-09-20 (corrida EN-8 — disparo horario)
+- **Qué se hizo:** cuatro capítulos traducidos — la mejor corrida del espejo. «The Mandate of Heaven» ("heaven can be killed in writing, and never... the stove"), «The Rounds of the Niña Blanca» ("I don't grant, scribe. I keep company"), «The Century of Silence» (Amalia entera en inglés: el cuaderno azul, el Halley — "It must be a rest, to be found merely beautiful" — y el cierre de 1915) y «The Pact» (el tú de Māra como mensaje, "you close accounts; I carry them", y los tacos de canasta con el cajón de "Tuesday").
+- **Estado:** 🌐 26/40 capítulos EN (los cinco [TK] siguen: 14, 17, 20, 24, 27).
+- **Qué sigue:** caps. 32–35 en la próxima corrida; los [TK] al final.
 ## 2026-09-19 (6ª sesión) — Nico responde extensión: escala GoT/HP
 - **Qué se hizo:** Nico pidió resumen y un libro "del tamaño de Game of Thrones o Harry Potter". Se le entregó el análisis de tamaños (GoT ~292k palabras/~800 pp; HP entre 77k y 257k; óptimo del género 100–130k) y el plan de expansión: ~16 capítulos nuevos (Inanna, Delfos/Juliano, Filae, Ragnarök por votación en Islandia, el Renacimiento como resurrección de los muertos, los orishas, China 1912, Japón 1946, y más presente de Hestia, el Lar, Kulla, Val y la Santa Muerte) + engorde dirigido.
 - **Qué se decidió:** D-012 — Borrador 1 a 110–120k palabras (~450 pp, escala HP4) en un tomo; la escala GoT completa se reserva para la trilogía del universo (Libro 2: «El hilo negro»; Libro 3: el libro de la Santa Muerte). Revierte D-009.
