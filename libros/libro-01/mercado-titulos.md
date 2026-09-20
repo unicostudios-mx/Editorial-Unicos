@@ -1,5 +1,7 @@
 # Estudio de título — Libro 1 · v2 (agente mercado, 2026-09-20)
 
+> **RESUELTO (D-023, RATIFICADA):** Nico eligió la opción 1 — **«La escribana de los dioses»** / *The Scribe of the Gods*, con cintillo «LOS CUADERNOS DE LA ESCRIBANA · CUADERNO I». El estudio queda como archivo del proceso.
+
 **Encargo de Nico:** 10 opciones justificadas + verificación de títulos ya publicados + dictamen sobre arquitectura de nombres de la saga.
 **Verificación:** búsqueda web sobre catálogos vivos (Amazon/Goodreads/Casa del Libro). Estados: **LIBRE** (sin coincidencia exacta) · **ECO** (títulos cercanos, no bloqueantes) · **COLISIÓN** (existe; se descarta o se pelea) · **S/V** (sin verificar aún).
 

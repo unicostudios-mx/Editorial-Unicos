@@ -1,6 +1,6 @@
 # Entrega — Puerta 2 (Borrador 1)
 
-**«El registro de los últimos dioses»** (título de trabajo) · Borrador 1 completo · 2026-09-20
+**«La escribana de los dioses»** (título ratificado, D-023; antes «El registro de los últimos dioses») · Borrador 1 completo · 2026-09-20
 40 capítulos · **66,224 palabras** (~260 páginas) · manuscrito en `03-manuscrito/cap-01.md` a `cap-40.md`
 Pase editorial final ejecutado (D-018) · Revisión integral 26/26 (D-017) · Guía de estilo v1.0 aplicada (D-013)
 
@@ -37,7 +37,7 @@ Atestiguar es una forma de amor; cerrar bien es despedirse bien; la duda es la f
 
 1. **P9 — Extensión (la decisión grande):** D-014 (RATIFICADA) fija 75–95k. El Borrador 1 quedó en **66,224** y el veredicto del estudio es que el libro está **terminado**: los 40 capítulos pasaron el pase final, varios son cortos por diseño, y las anclas restantes del banco no tienen casa natural en este tomo. Opciones: **(a)** ajustar D-014 al tamaño natural (~66k, ~260 pp — rango válido para debut literario); **(b)** mantener el piso, en cuyo caso el estudio diseña una expansión estructural (2–3 capítulos de registro nuevos, p. ej. el Altar de la Victoria/Símaco, los maniotas, la última olimpiada) y te la presenta antes de escribirla, porque toca la arquitectura.
 2. **P8 — El capítulo 23 (Tepeyac):** pide tu lectura personal por su peso cultural.
-3. **Título:** «El registro de los últimos dioses» es título de trabajo. Alternativas en el parking lot.
+3. **Título:** ~~pendiente~~ **Cerrada (2026-09-20, D-023): «La escribana de los dioses»**, elegido por Nico del estudio de mercado (`mercado-titulos.md`). Con esto la Puerta 2 queda totalmente cerrada.
 
 ## Riesgos
 

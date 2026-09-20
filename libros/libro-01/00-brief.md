@@ -1,4 +1,4 @@
-# Brief — «El registro de los últimos dioses» (título de trabajo)
+# Brief — «La escribana de los dioses» (título ratificado D-023; título de trabajo original: «El registro de los últimos dioses»)
 
 **Puerta 1 cerrada: 2026-09-19.** Semilla elegida por Nico: mezcla de D (escribana inmortal + intriga de deicidios + caídas históricas como capítulos-recuerdo) y E (rigor histórico: nada visible contradice el registro documentado), incluyendo a Jehová/el Dios cristiano y la cosmovisión budista (devas, asuras, Māra). Decisión D-006, RATIFICADA.
 

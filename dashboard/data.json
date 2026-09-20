@@ -4,17 +4,17 @@
   "libros": [
     {
       "slug": "libro-01",
-      "titulo": "El registro de los últimos dioses (título de trabajo)",
+      "titulo": "La escribana de los dioses",
       "etapa": 6,
       "etapa_nombre": "Hito cerrado (D-020) — espejo EN en curso",
       "capitulos_escritos": 40,
       "capitulos_total": 40,
       "palabras": 66224,
       "palabras_meta": 85000,
-      "decisiones_tomadas": 21,
-      "preguntas_abiertas": 1,
+      "decisiones_tomadas": 23,
+      "preguntas_abiertas": 0,
       "ultima_actualizacion": "2026-09-20",
-      "nota": "Nico aceptó el tamaño natural (D-020, RATIFICADA; revierte D-014): el Libro 1 queda en 66,224 palabras / 40 capítulos. Espejo en inglés en curso: 10/40 capítulos. P8 (Tepeyac) cerrada: aprobado como está (D-021). Abierta solo el título."
+      "nota": "Nico aceptó el tamaño natural (D-020, RATIFICADA; revierte D-014): el Libro 1 queda en 66,224 palabras / 40 capítulos. TÍTULO RATIFICADO (D-023): «La escribana de los dioses» / The Scribe of the Gods, cintillo LOS CUADERNOS DE LA ESCRIBANA · CUADERNO I. Libro 1 totalmente aprobado; espejo EN en curso: 10/40."
     }
   ]
 }
