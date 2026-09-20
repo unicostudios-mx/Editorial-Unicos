@@ -28,6 +28,10 @@ Mantenido por el **investigador**. Anclas = episodios documentados que sirven a 
 **Qué consta:** Pausanias escribió la *Descripción de Grecia*, guía de viaje de templos y cultos, muchos ya en decadencia; registra santuarios abandonados y oráculos callados. **Fuente:** Pausanias, *Descripción de Grecia*. **Estado:** VERIFICADA.
 **El hueco:** el primer turismo de ruinas — con los dioses todavía adentro, viendo pasar a los visitantes.
 
+### La destrucción de Eleusis (396 d.C.) ✍ (cap. 13 del Libro 1)
+**Qué consta:** los godos de Alarico arrasaron el santuario de Eleusis en 396; Eunapio (Vidas de los sofistas) registra a los "hombres de negro" (monjes) acompañando la invasión y la profecía del último hierofante legítimo: vería con sus ojos la ruina de los templos y el fin de los misterios, que jamás escribieron su contenido en ~18 siglos. **Fuente:** Eunapio, *Vitae sophistarum*. **Estado:** VERIFICADA.
+**El hueco:** la excepción de la ley sexta — lo que nunca se contó no tiene segunda vida; la única muerte completa es el silencio absoluto.
+
 ### La Atenea Pártenos desaparecida ✍ (cap. 13 del Libro 1)
 **Qué consta:** la estatua criselefantina de Fidias fue llevada a Constantinopla (s. V) y desaparece del registro sin acta de destrucción. **Fuente:** tradición bizantina; último registro en el Lauseion/foro. **Estado:** PLAUSIBLE.
 **El hueco:** un cuerpo divino que la historia simplemente *deja de mencionar*: la muerte sin acta, el terror de Edna.
@@ -56,7 +60,7 @@ Mantenido por el **investigador**. Anclas = episodios documentados que sirven a 
 **Qué consta:** Bonifacio taló el roble sagrado de Donar/Thor en Geismar ante paganos que esperaban el castigo del dios; no ocurrió nada y muchos se convirtieron. **Fuente:** *Vita Bonifatii* de Willibald. **Estado:** VERIFICADA.
 **El hueco:** la rima nórdica exacta de "no lo mató el hacha; lo mató la falta de temblor".
 
-### El templo de Uppsala (c. 1070)
+### El templo de Uppsala (c. 1070) ✍ (cap. 17 del Libro 1)
 **Qué consta:** Adán de Bremen describe el gran templo con imágenes de Thor, Wotan y Frey, y sacrificios cada nueve años. **Fuente:** Adán de Bremen, *Gesta Hammaburgensis*. **Estado:** VERIFICADA (con cautela: Adán escribe de oídas).
 **El hueco:** el último gran santuario documentado del norte — descrito por un cronista del dios rival.
 
