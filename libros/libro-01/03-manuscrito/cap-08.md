@@ -50,7 +50,7 @@ Le dije que no se apurara, que así pasa, y es verdad que así pasa: yo llevo cu
 
 Alguien que va a las muertes como se va a los velorios: por respeto.
 
-Esa noche caminé desde la Juárez hasta el Centro, hasta la calle de Mesones, sin taxi ni nada, porque necesitaba la ciudad en las plantas de los pies para pensar. Dos muertes. En el orden exacto del libro: página once, Kulla; página ciento cuatro, Hestia. El que seguía en la fila de mis páginas vivas dormía en una vecindad a veinte minutos de ahí, en un catre junto al zaguán, con un veladora eterna a la que le cambiaba el vaso cada nueve días.
+Esa noche caminé desde la Juárez hasta el Centro, hasta la calle de Mesones, sin taxi ni nada, porque necesitaba la ciudad en las plantas de los pies para pensar. Dos muertes. En el orden exacto del libro: página once, Kulla; página ciento cuatro, Hestia. El que seguía en la fila de mis páginas vivas dormía en una vecindad a veinte minutos de ahí, en un catre junto al zaguán, con una veladora eterna a la que le cambiaba el vaso cada nueve días.
 
 El Lar. El último portero de Roma.
 

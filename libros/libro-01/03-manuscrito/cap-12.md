@@ -46,7 +46,7 @@ Me reí. Consta en este cuaderno: a las cinco de la mañana del martes, en una p
 
 Y luego hice la pregunta que no debía, porque la madrugada da valor para las preguntas cobardes, y este cuaderno ya sabe que las colecciono:
 
-—¿No me odias? —le dije—. Yo cerré el libro que te volvió constante. Llevas cien años apagándote por una puerta que cerré yo, y me recibes con atole y me arropas con tu mejor cobija. Los Prisco te duraron once generaciones. Yo te fallé en una.
+—¿No me odias? —le dije—. Yo cerré el libro que te volvió constante. Llevas cien años apagándote por una puerta que cerré yo, y me recibes con atole y me arropas con tu mejor cobija. Los Prisco te duraron treinta generaciones. Yo te fallé en una.
 
 El último lar de Roma apagó la lumbre, tapó la olla, y se sentó enfrente de mí en su silla de portero, la de mirar la entrada, la silla en la que días después iba a morirse sin soltar el turno.
 
