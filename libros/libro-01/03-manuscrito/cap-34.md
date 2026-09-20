@@ -30,6 +30,18 @@ El cuarto día durmió casi entero, y yo escribí en presente el sueño de un de
 
 El quinto día pidió que lo sentaran junto a la ventana, de cara al jardín, y pasó la tarde despidiéndose de los colibríes por su nombre. Tenían nombre. Todos. Los había nombrado en secreto durante años, en pali, "porque el jardinero pone las etiquetas, escribana, es el privilegio del puesto".
 
+Y la noche del quinto día, cuando el recitado de abajo ya se había apagado y la casa dormía, me pidió lo que no me esperaba.
+
+—Tú andas escribiendo un libro tuyo —dijo, con los ojos cerrados—. No el Registro. El otro. El de tapas azules que traes en la bolsa y tocas cuando crees que nadie ve. Los moribundos vemos todo, escribana; es nuestra última prestación. —Abrió un ojo, el teatro justo—. Léeme algo de ahí. Del ladrillo, si ya lo tienes. Me caía bien el del ladrillo. Nivelaba parejo.
+
+Así que la noche del quinto día, en el cuartito junto a la cocina, le leí a un rey moribundo el primer capítulo de este libro — el del dios en el cemento, el del talón arrancado, el de la ciudad oliendo a polvo que espera —. Me temblaba la voz al principio, y no la compuse, porque él mismo me había enseñado, dos capítulos atrás en su cuenta y seis días atrás en la mía, que el temblor también es acta.
+
+Cuando terminé se quedó tan quieto que lo creí dormido. No estaba dormido. Estaba dictaminando, que en los reyes es otra postura.
+
+—Está bien escrito —dijo al fin, con la solemnidad exacta de sus mejores edictos—. Le sobran dos frases bonitas y le falta decir que tenías miedo, pero eso te lo va a corregir la doctora, que para eso la entrenaste. —Pausa larga, de las que ya costaban—. Léeselo a todos, Enheduanna. Cuando terminemos aquí tú y yo. A los vivos y a los que vengan. Nosotros nos morimos mejor desde que tú anotas; a lo mejor ellos viven mejor por lo mismo. —Y ya casi desde el sueño, con la última ironía que le quedaba—: Y ponme guapo en mi capítulo. Tuve treinta mil elefantes. Que conste.
+
+Consta, señor. Y el jardín, y las tazas recogidas, y las etiquetas del privilegio del puesto. Todo consta. Para eso me condenaron; para esto me quedé.
+
 Y el sexto día, al caer la tarde, cuando el rumor de abajo cambió de sutta sin que nadie les avisara —los mortales saben; el cuerpo del mundo sabe—, el rey de los Treinta y Tres abrió los ojos, me buscó, encontró mi mano ya puesta en su página, la pluma cargada, el renglón empezado, y dijo:
 
 —¿Estás escribiendo?

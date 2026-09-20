@@ -50,7 +50,7 @@ El rey murió. Los reyes hacen eso; es su mayor argumento teológico. Y el imper
 
 Y Amón engordó de nuevo. Sobrevivió mil años más, hasta que el hambre general se lo llevó con todos. Pero jamás volvió a firmar como un banco. Un dios que ha sentido el cincel no vuelve a dormir sin lámpara. Me lo dijo él mismo, siglos después, en su última vejez, cuando ya era del tamaño de un sacerdote flaco y nos tuteábamos:
 
-—¿Sabes qué fue lo peor, escribana? No el hambre. El hambre es de todos. Lo peor fue saber que se *puede*. Ese muchacho nos enseñó a todos los reyes que vinieron después, aunque no supieran su nombre, que se puede. Todo lo demás que has visto y vas a ver —los concilios, los edictos, las hogueras de libros ajenos— es gente descubriendo otra vez que se puede.
+—¿Sabes qué fue lo peor, escribana? No el hambre. El hambre es de todos. Lo peor fue saber que se *puede*. Ese muchacho nos enseñó a todos los reyes que vinieron después, aunque no supieran su nombre, que se puede. Todo lo que has visto desde entonces, y todo lo que te falte por ver —los decretos que vengan, las hogueras que vengan—, va a ser gente descubriendo otra vez que se puede.
 
 ¿Y el Atón? El calor sin rostro se apagó de la ciudad blanca cuando se apagaron sus himnos, tan silenciosamente como había estado. Si murió, no dejó cuerpo. Si no murió, no dejó señas. Su página no existe en mi libro: no hubo a quién abrírsela.
 
