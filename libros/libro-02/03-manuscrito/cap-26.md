@@ -66,7 +66,7 @@ Esa tarde encontré a Eumelo haciendo una cara.
 
 Estaba en un patio de vecindad, en el barrio de los griegos pobres, cerca del puerto de poniente, el que llaman del Buen Regreso. Un patio cuadrado con un pozo en medio, ropa tendida, una higuera, cuatro puertas de cuartos de alquiler. Estaba sentado en el suelo a la sombra de la higuera, con el molde entre las piernas.
 
-La máscara vieja, la de su padre, se le había rajado. No sé cuándo; tal vez en el baúl, con el calor, tal vez esos días en que los soldados entraban a las casas a ver qué había. Tenía una grieta de la frente a la barbilla, por en medio de la sonrisa. Estaba a su lado, en una tela, como un muerto que todavía no se lleva nadie.
+La máscara de Samos, la que rehízo hacía dos años y que desde entonces no se había puesto tibia ni una noche, se le había rajado. No sé cuándo; tal vez en el baúl, con el calor, tal vez esos días en que los soldados entraban a las casas a ver qué había. Tenía una grieta de la frente a la barbilla, por en medio de la sonrisa. Estaba a su lado, en una tela, como un muerto que todavía no se lleva nadie.
 
 Y él estaba haciendo otra.
 
@@ -114,7 +114,7 @@ No entré en Eumelo. Nunca entro en el actor. Entré en la máscara: en el hueco
 
 Quepo entero. Eso fue lo distinto.
 
-Durante diez años no había cabido en ninguna máscara. Lo sabía desde Éfeso y no lo quería saber: estaba tan lleno del Nuevo Dioniso, tan ancho de cuello, tan pesado de aclamaciones, que entraba en las máscaras como entra un gordo en el traje de su juventud, a medias, reventando las costuras. Esa noche entré completo. Flaco. Sin nombre prestado. Con mi cara, la de la puerta de la ciudad, la que me toqué con las dos manos.
+Durante diez años no había cabido en ninguna máscara. Lo sabía desde Éfeso y no lo quería saber: estaba tan lleno del Nuevo Dioniso, tan ancho de cuello, tan pesado de aclamaciones, que entraba en las máscaras como entra un gordo en el traje de su juventud, a medias, reventando las costuras. Los actores lo sabían sin saberlo: «hoy no se puso tibia», decían en los camerinos, función tras función. Esa noche entré completo. Flaco. Sin nombre prestado. Con mi cara, la de la puerta de la ciudad, la que me toqué con las dos manos.
 
 Y desde adentro de la máscara vi lo que veía la máscara.
 
@@ -141,6 +141,8 @@ La función acabó tarde. Ágave salió con la cabeza de su hijo en las manos �
 No aplaudieron mucho. Eran pocos. El soldado romano se puso el casco, dijo algo en latín que nadie entendió, dejó una moneda en el brocal del pozo y se fue a su esquina. La vieja egipcia le besó la mano a Eumelo. Los vecinos se metieron a sus cuartos.
 
 Eumelo se quitó la máscara detrás de la manta. La sostuvo un rato en las manos. Luego le puso dos dedos en la frente, como su padre, como el primer Eumelo.
+
+—Buenas noches, patrón —le dijo. En la familia se decía buenos días; era de noche.
 
 Estaba tibia todavía. Lo sé porque yo seguía ahí.
 

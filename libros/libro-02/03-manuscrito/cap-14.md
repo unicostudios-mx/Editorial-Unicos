@@ -18,7 +18,7 @@ Me dio un pedazo de pan. Era el último del segundo día. Se lo acepté.
 
 —El de Queronea. El que citas.
 
-El que cito. El que me cita a mí, más bien. Les cuento, porque llevan catorce capítulos oyéndome nombrarlo como se nombra a un pariente con el que uno está peleado. Fue sacerdote de esta casa durante muchos años, ya viejo, cuando Roma era tranquila y tenía emperadores que leían griego. Vivía en su pueblo, a medio día de aquí, y subía a Delfos para las fiestas y los oráculos; tenía casa, hijos, una mujer a la que le escribió una carta muy hermosa cuando se les murió la niña. Escribía de todo. De por qué la Pitia ya no hablaba en verso. De por qué los oráculos se estaban apagando. De la E de madera que alguien colgó en la puerta de este templo y que nadie sabía qué quería decir. Y escribió vidas: un griego, un romano; un griego, un romano; de dos en dos, como los animales del cuento de los judíos, para que se vieran el uno en el otro.
+El que cito. El que me cita a mí, más bien. Les cuento, porque llevan catorce capítulos oyéndome nombrarlo como se nombra a un pariente con el que uno está peleado. Fue sacerdote de esta casa durante muchos años, ya viejo, cuando Roma era tranquila y tenía emperadores que leían griego. Vivía en su pueblo, a medio día de aquí, y subía a Delfos para las fiestas y los oráculos; tenía casa, hijos, una mujer a la que le escribió una carta muy hermosa cuando se les murió la niña. Escribía de todo. De por qué la Pitia ya no hablaba en verso. De por qué los oráculos se estaban apagando. De la E de madera que alguien colgó en la puerta de este templo y que nadie sabía qué quería decir. Y escribió vidas: un griego, un romano; un griego, un romano; de dos en dos, como se uncen los bueyes, para que se vieran el uno en el otro.
 
 —Escribió la vida de Antonio —dijo ella.
 
@@ -34,7 +34,7 @@ El que cito. El que me cita a mí, más bien. Les cuento, porque llevan catorce 
 
 —¿Cómo te puso?
 
-—De secundario. —Me limpié el pan de la barba—. Salgo dos veces. Una al principio, en Éfeso, cuando le gritan mis apodos a otro. Y otra al final, una sola noche, en una página, cuando me voy. Mi biógrafo dice que se oyó por la ciudad un cortejo de los míos, que salía, y que pareció que el dios abandonaba a Antonio. «El dios al que Antonio más se había asemejado y al que imitaba», dice. Imitaba. Así lo dice. Como se dice de un muchacho que imita a su padre. El dios es el padre; el hombre es el muchacho. Y el libro, escribana, el libro es del muchacho.
+—De secundario. —Me limpié el pan de la barba—. Salgo dos veces. Una al principio, en Éfeso, cuando le gritan mis apodos a otro. Y otra al final, una sola noche, en una página, cuando me voy. Mi biógrafo dice que se oyó por la ciudad un cortejo de los míos, que salía, y que pareció que el dios abandonaba a Antonio. «El dios al que Antonio más se empeñaba en parecerse y con quien más se emparentaba», dice. Parecerse. Así lo dice. Como se dice de un muchacho que se quiere parecer a su padre. El dios es el padre; el hombre es el muchacho. Y el libro, escribana, el libro es del muchacho.
 
 Ella no dijo nada. Escribió. Yo me quedé viendo el escenario de abajo, el de piedra, pequeño desde aquí, con la luna encima.
 
@@ -44,7 +44,7 @@ Ella no dijo nada. Escribió. Yo me quedé viendo el escenario de abajo, el de p
 
 —Y tenía razón.
 
-Lo dije y la mano no se me trabó. Eso me sorprendió, y me sorprendió que me sorprendiera: llevaba trescientos años sabiéndolo y no lo había dicho nunca en voz alta.
+Lo dije y la mano no se me trabó. Eso me sorprendió, y me sorprendió que me sorprendiera: llevaba dos siglos y medio sabiéndolo y no lo había dicho nunca en voz alta.
 
 —Tenía razón —repetí—. Era el libro de Antonio. Yo era un rumor en ese libro. Un rumor que llega y un rumor que se va. Y lo peor, escribana, lo que no le perdono, es que lo escribió bien. Lo escribió como hay que escribir una tragedia: dejando que el dios salga poco y en el lugar exacto. Si me hubiera puesto en cada página, el libro no serviría. Me dejó para la noche de la salida. Eso es oficio. Mi sacerdote tenía oficio.
 
@@ -68,15 +68,19 @@ No se salió.
 
 Ahí está otra vez. La frase chiquita con voz de recibo.
 
-Intenté contestar lo que había contestado durante tres siglos a quien quisiera oírlo, que no era nadie: que apostaste por él porque él era yo, porque vivía como mi cortejo, porque era lo más parecido a mí que había producido Roma, porque los romanos me habían quitado el culto y él me lo devolvía en forma de fiesta. Lo tenía listo. Lo tenía bonito. Abrí la boca para decirlo.
+Intenté contestar lo que había contestado durante cuatro siglos a quien quisiera oírlo, que no era nadie: que aposté por él porque él era yo, porque vivía como mi cortejo, porque era lo más parecido a mí que había producido Roma, porque los romanos me habían quitado el culto y él me lo devolvía en forma de fiesta. Lo tenía listo. Lo tenía bonito. Abrí la boca para decirlo.
 
-Y se me trabó.
+Y se me trabó, igual que la otra noche con lo de Roma. Uno no aprende. Me salió «porque él era» y luego la lengua se me pegó al paladar como si me hubiera metido a la boca un trago de vino de tres días, de ese que ya es vinagre y todavía no lo sabe. Escupí a un lado de la grada. Ella no levantó la vista; esperó con la caña en el aire, como se espera a un testigo al que le está pasando algo que el notario ya ha visto muchas veces.
 
-No toda la frase. La mitad. Me salió «porque él era» y luego la lengua se me pegó al paladar como si me hubiera metido a la boca un trago de vino de tres días, de ese que ya es vinagre y todavía no lo sabe. Escupí a un lado de la grada. Ella no levantó la vista; esperó con la caña en el aire, como se espera a un testigo al que le está pasando algo que el notario ya ha visto muchas veces.
+Lo bonito no era mentira, fíjense. Era verdad que él vivía como mi cortejo. Era la mitad de la verdad con el peinado arreglado, y la otra mitad era la que no quería que quedara escrita junto a la primera.
 
-Lo bonito no era verdad. No del todo. Era la mitad de la verdad con el peinado arreglado.
+—La mitad ya la sabes —le dije—. Ya te la dicté. La asentaste con fecha.
 
-Me quedé un rato quieto. El odre estaba en mis rodillas, vacío salvo por el fondo. Lo apreté como se aprieta la mano de alguien.
+—El hambre.
+
+—El hambre. —Me quedé un rato quieto. El odre estaba en mis rodillas, sin nada más que el fondo. Lo apreté como se aprieta la mano de alguien—. Esa la tienes. Es la otra la que no me sale.
+
+Esperó.
 
 —Porque tenía hambre, escribana —dije. Y no se trabó—. Y porque él era mejor actor que yo.
 
@@ -84,7 +88,7 @@ Ella lo escribió. Oí la caña. Fue un ruido muy corto para lo que pesaba.
 
 No dijo nada. Me dio otro pedazo de pan, uno que yo no sabía que le quedaba, que traía guardado en algún pliegue del manto, y se acomodó el libro en las rodillas, abierto por la misma página, esperando.
 
-Abajo, el escenario seguía vacío bajo la luna. Lo vi como lo había visto mi sacerdote tantas veces, supongo, en los inviernos en que subía a cantarme: un círculo de tierra apisonada, una pared de piedra, un lugar donde no hay nada hasta que alguien sale y dice algo.
+Abajo, el escenario seguía sin nadie bajo la luna. Lo vi como lo había visto mi sacerdote tantas veces, supongo, en los inviernos en que subía a cantarme: un círculo de tierra apisonada, una pared de piedra, un lugar donde no hay nada hasta que alguien sale y dice algo.
 
 —Ahora viene Éfeso —le dije.
 

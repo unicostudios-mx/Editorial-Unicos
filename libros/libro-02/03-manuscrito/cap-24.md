@@ -48,7 +48,7 @@ Les voy a decir qué saqué, porque no fue magia: fue inventario. Un dios es lo 
 
 Saqué la flauta del istmo, la de los artistas el día de los cuervos, y la voz oscura de Eumelo de Teos cantando el párodo en un camerino de tablas.
 
-Saqué el canto de las cinco mujeres del campo brutio, el rito legal, el chiquito, el de cinco, y la risa de la más vieja cuando oyó arrancar el mosto en su tinaja.
+Saqué el canto de los cinco del campo brutio, tres mujeres y dos hombres, el rito legal, el chiquito, y la risa de la más vieja cuando oyó arrancar el mosto en su tinaja.
 
 Saqué a las tíades del Parnaso, las que bajaron riéndose con las ropas tiesas de hielo.
 
@@ -104,7 +104,7 @@ Fue el único que vino. Se los digo porque el sacerdote no lo sabe: hubo un mort
 
 La puerta de afuera era una puerta grande, de piedra, con dos torres. Del otro lado, en la oscuridad, a no mucha distancia, estaban las fogatas del campamento de César. Se veían como se ven desde la grada las lámparas del otro lado del escenario.
 
-Ahí el ruido fue más fuerte. Lo hice más fuerte. Junté todo, todas las fiestas, todas las voces, las cinco mujeres, las tíades, Esopo entero, la flauta con la nota de más, y lo hice sonar en la puerta tan alto como suena un teatro lleno cuando se pone de pie. Para que lo oyeran en el palacio. Para que lo oyeran en el campamento. Para que nadie, nunca, pudiera decir después que el Nuevo Dioniso había muerto en Alejandría. Que dijeran lo que dijeron: que el dios se fue.
+Ahí el ruido fue más fuerte. Lo hice más fuerte. Junté todo, todas las fiestas, todas las voces, los cinco, las tíades, Esopo entero, la flauta con la nota de más, y lo hice sonar en la puerta tan alto como suena un teatro lleno cuando se pone de pie. Para que lo oyeran en el palacio. Para que lo oyeran en el campamento. Para que nadie, nunca, pudiera decir después que el Nuevo Dioniso había muerto en Alejandría. Que dijeran lo que dijeron: que el dios se fue.
 
 Y salí.
 
@@ -112,7 +112,7 @@ Crucé la puerta y el ruido salió conmigo, y del otro lado lo fui soltando. Pri
 
 Y quedó la noche. Las fogatas lejos. Los grillos.
 
-Me quedé parado afuera de la puerta. Tenía frío. Tenía mi cara. La toqué con las dos manos, como se toca uno la cara después de una fiebre, y era la mía, la de antes, la flaca, la que tenía cuando llegué al istmo hace ciento sesenta y seis años, con unas arrugas más. No la había sentido así desde Éfeso.
+Me quedé parado afuera de la puerta. Tenía frío. Tenía mi cara. La toqué con las dos manos, como se toca uno la cara después de una fiebre, y era la mía, la de antes, la flaca, la que tenía cuando llegué al istmo hace ciento sesenta y seis años, con unas arrugas más. No la había sentido así desde Éfeso. Se te va a quedar esta cara, me dijo la reina una vez. No se me quedó.
 
 Del otro lado de la puerta, adentro, estaba Eumelo. Lo oí respirar. Se había quedado en el umbral, sin cruzar, porque un hombre sensato no sale de una ciudad sitiada hacia el campamento enemigo por seguir una música. Se quedó ahí, con las manos colgando, mirando la oscuridad por donde se había ido el ruido. Después de un rato dijo, en voz baja, sin dirigirse a nadie:
 

@@ -12,7 +12,7 @@ Antonio había sacado su flota del estrecho y la había tendido en línea frente
 
 Eso es atrás. En el teatro le dicen bastidores. Es el lugar donde uno ve la función de espaldas: las cuerdas, los nervios, el actor que se persigna antes de salir. Me senté en la popa de la nave de la reina, entre dos rollos de cabo, y no me moví en todo el día.
 
-Me había quedado flaco. Lo de Atenas, la estatua que dejé caer al teatro, me había costado más de lo que calculé; tenía las manos quietas por primera vez en años, quietas de cansancio, no de paz. Ya no había nombre que me engordara. Lo había soltado. Y un dios que suelta un nombre se queda como queda un actor al que le quitan el vestuario a media temporada: en camisa, con frío, sin saber muy bien qué hacer con los brazos.
+Me había quedado flaco. Lo de Atenas, la estatua que cayó al teatro —que yo tiré o que me tiró con ella; todavía no lo sé—, me había costado más de lo que calculé. Me temblaban las manos. Y la cara, cuando me la veía reflejada en el agua del golfo, seguía siendo casi la de él: el cuello ancho, la barba de soldado. Se me iba a quedar esa cara, me había dicho la reina. Ya no había nombre que me engordara. Lo había soltado. Y un dios que suelta un nombre se queda como queda un actor al que le quitan el vestuario a media temporada: en camisa, con frío, sin saber muy bien qué hacer con los brazos.
 
 —
 
@@ -36,7 +36,7 @@ Yo no hice nada.
 
 Se los digo así, en tres palabras, porque las otras veces que no hice nada fue porque no podía. Esta vez podía. Un dios siempre puede algo pequeño. La brisa, por ejemplo. Una brisa es una cosa muy pequeña; se mueve con poco; cualquiera de mis tíos lo sabía hacer de chico. O un humo que se va para un lado y no para el otro. O una cuerda que se rompe en la nave de un almirante de César en el momento justo. Cosas que después se explican con la suerte. Yo conozco el oficio. Lo he practicado en escenarios más difíciles.
 
-Me quedé sentado entre los cabos con las manos sobre las rodillas. Y no fue virtud. Quiero que conste: no fue virtud ni sabiduría. Fue que en Atenas, cuando me dejé caer al teatro, había entendido algo que todavía no sabía decir, y lo único que sabía de ese algo era que si movía un dedo ese día, el dedo iba a ser de Antonio.
+Me quedé sentado entre los cabos con las manos sobre las rodillas, apretadas, para que no temblaran. Y no fue virtud. Quiero que conste: no fue virtud ni sabiduría. Fue que en Atenas, cuando caí al teatro, había entendido algo que todavía no sabía decir, y lo único que sabía de ese algo era que si movía un dedo ese día, el dedo iba a ser de Antonio.
 
 —
 

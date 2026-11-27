@@ -94,7 +94,9 @@ Ella lo sabía. No me lo pregunten cómo; es la única mortal que conocí que no
 
 Las dos mujeres dormían en el suelo, al pie de su catre. Había una lámpara. Olía a algo que no era la reina, un perfume pesado, de resina y de flor de loto, que venía de la pared del fondo, la que daba al templo. No dije nada de ese perfume. Ella tampoco. Era de otra. A veces, en las casas, uno sabe que hay alguien más en el cuarto de al lado y no se levanta a ver.
 
-—Llegas a buen tiempo —dijo ella—. Para variar.
+—Llegas a buen tiempo, Eúnomo de Cirene —dijo ella—. Para variar.
+
+Así me presenté cuando tenía catorce años y su padre tocaba la flauta en el palacio. No se le había olvidado. Nunca se lo creyó.
 
 Estaba sentada en el catre, con las rodillas abrazadas, en camisa. Tenía treinta y nueve años. Le habían salido canas de un lado. No se las había teñido.
 

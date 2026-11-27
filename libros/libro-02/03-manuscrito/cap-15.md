@@ -10,7 +10,7 @@ El hombre había ganado su guerra el otoño anterior, en Filipos, contra los que
 
 Llegué dos días antes que él. Me metí, como siempre, por los camerinos.
 
-Los Artistas de Dioniso tenían alquilado medio patio detrás del teatro, ese teatro enorme de Éfeso que se recarga en el cerro como un señor gordo en su silla, y ahí, entre cestos de pieles de cervato y pilas de tirsos recién cortados que todavía goteaban resina, encontré a Eumelo. El segundo Eumelo, el que había recuperado el nombre del bisabuelo de su bisabuelo y el camino de regreso a Oriente. Treinta y tantos años, la nariz rota de cuando hacía de mimo por Italia con la tropa de la mima, los ojos de quien ha dormido en muchas carretas. Estaba sentado sobre un cesto, cosiendo una cola de sátiro a unos calzones, y renegaba.
+Los Artistas de Dioniso tenían alquilado medio patio detrás del teatro, ese teatro enorme de Éfeso que se recarga en el cerro como un señor gordo en su silla, y ahí, entre cestos de pieles de cervato y pilas de tirsos recién cortados que todavía goteaban resina, encontré a Eumelo. El segundo Eumelo, el que había recuperado el nombre del bisabuelo de su abuelo y el camino de regreso a Oriente. Treinta y tantos años, la nariz rota de cuando hacía de mimo por Italia con la tropa de la mima, los ojos de quien ha dormido en muchas carretas. Estaba sentado sobre un cesto, cosiendo una cola de sátiro a unos calzones, y renegaba.
 
 —Cola de caballo —le decía a un muchacho—. Cola de caballo, no de perro. ¿Cuándo has visto tú un sátiro con cola de perro?
 
