@@ -1,6 +1,6 @@
 # 22. Accio, desde los bastidores
 
-Golfo de Ambracia, 2 de septiembre del año 31 antes de esa cuenta.
+Golfo de Ambracia, 2 de septiembre del año 31 antes de la cuenta.
 
 Las velas estaban dobladas en cubierta desde la madrugada. Eso fue lo primero que vi, y lo digo primero porque es lo único de ese día que entiendo mejor que mi sacerdote.
 

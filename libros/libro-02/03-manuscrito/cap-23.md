@@ -1,10 +1,10 @@
 # 23. Los que morirán juntos
 
-Alejandría, invierno del año 31 al 30 antes de esa cuenta.
+Alejandría, invierno del año 31 al 30 antes de la cuenta.
 
 Aquí se acabó el vino.
 
-Lo digo porque ella ya lo anotó. Le di vuelta al odre sobre la boca y no salió nada, ni el hilito de siempre, ni el olor. Edna me lo quitó de las manos, lo dobló en cuatro como se dobla una carta que ya se contestó y lo puso debajo de su banco. No dijo nada. Me pasó pan. Sigo.
+Lo digo porque ella ya lo anotó. Le di vuelta al odre sobre la boca y no salió nada, ni el hilito de siempre, ni el olor. La escribana me lo quitó de las manos, lo dobló en cuatro como se dobla una carta que ya se contestó y lo puso debajo de su banco. No dijo nada. Me pasó pan. Sigo.
 
 —
 
@@ -40,7 +40,7 @@ Volvió al palacio. Y Alejandría, que estaba esperando a ver qué hacía, hizo 
 
 Varios días de fiesta. Inscribieron al hijo de la reina y de César, a Cesarión, entre los efebos, como se inscribe a los muchachos cuando se hacen hombres. Al hijo mayor de Antonio, a Antilo, el de Fulvia, le dieron la toga de hombre. Dos muchachos de unos dieciséis años recibiendo el traje de adultos en una ciudad que iba a caer en unos meses. Hubo banquetes, regalos, música en las calles. La reina repartía. Antonio repartía. Era la última vez que repartían.
 
-Y una noche, en uno de esos banquetes, deshicieron la cofradía de los Inimitables, la del invierno feliz de once años antes, y fundaron otra. Le pusieron un nombre que en griego es una sola palabra larga y en el idioma de ustedes son cuatro: los Que Morirán Juntos.
+Y una noche, en uno de esos banquetes, deshicieron la cofradía de los Inimitables, la del invierno feliz de diez años antes, y fundaron otra. Le pusieron un nombre que en griego es una sola palabra larga y en el idioma de ustedes son cuatro: los Que Morirán Juntos.
 
 No era menos lujosa que la primera. Eso lo dice mi sacerdote con un poco de escándalo y un poco de envidia. Se inscribieron los amigos, los que quedaban. Y se pasaban las noches en banquetes, uno tras otro, en las casas de cada uno, por turno, como se turnan los que sostienen un velorio largo.
 
@@ -52,7 +52,7 @@ Ya no tenía otra. Ya no era el Nuevo Dioniso, ni el viejo para ellos. Era un fl
 
 Eumelo había llegado a Alejandría con lo que quedaba de su compañía. Venía de Priene, de la casa que le dio Antonio cuando regaló la ciudad a los Artistas; la dejó cerrada con llave y se trajo el baúl. Después le dijo a un colega, en la cocina, mientras se untaba blanco en la cara, que había venido porque donde estaba Antonio había paga. Y era verdad. Pero también era verdad, y eso no lo dijo, que donde estaba Antonio estaba lo que la familia llevaba más de ciento sesenta años siguiendo sin saber su nombre. En el fondo del baúl, envuelto en lana y luego en cuero, traía el molde, que en Priene vivía en un nicho de la pared; y encima, la máscara que rehízo en Samos, descolgada del clavo donde colgaba sobre el nicho.
 
-Se los recuerdo, por si se les olvidó en el camino: un molde de barro cocido, del tamaño de una cara grande, con la forma de la sonrisa del Forastero. Del dios disfrazado de *Bacantes*. Del que soy yo. Seis generaciones lo habían cargado. Lo habían escondido en trapos cuando los vendieron como esclavos en Corinto, lo habían guardado en un cuarto de Roma bajo la cama, lo habían cargado por los caminos de Italia en la carreta de los mimos. Cada generación había rehecho la máscara sobre él, lino y yeso y pintura, porque las máscaras se rompen y el molde no.
+Se los recuerdo, por si se les olvidó en el camino: un molde de barro cocido, del tamaño de una cara grande, con la forma de la sonrisa del Forastero. Del dios disfrazado de *Bacantes*. Del que soy yo. Seis generaciones lo habían cargado. Lo habían escondido en trapos cuando los vendieron como esclavos en Corinto, lo habían guardado en un cuarto de Roma en una repisa junto a la sal, lo habían mandado por mar a Grecia envuelto en un manto viejo. Cada generación había rehecho la máscara sobre él, lino y yeso y pintura, porque las máscaras se rompen y el molde no.
 
 Eumelo tenía cuarenta y tantos. Le salían canas en la barba. Tenía las manos del primer Eumelo, el de Teos, grandes y tranquilas, y la misma manía: antes de salir a escena tocaba la máscara con dos dedos en la frente, como quien toca la cabeza de un perro para ver si tiene fiebre.
 
@@ -94,7 +94,7 @@ No sentí alivio. Sentí lo que siente uno cuando un amigo se quita del dedo el 
 
 —
 
-Me fui a la cocina. Eumelo estaba sentado en el suelo, con el plato en las rodillas, el baúl a un lado. Se estaba quitando el blanco de la cara con un trapo mojado. No me vio, claro. Pero cuando pasé junto a él, sin saber por qué, estiró la mano y puso dos dedos sobre la tapa del baúl, el saludo de la familia, el de "buenos días, patrón", sin decirlo. Así. Como quien toca la cabeza de un perro.
+Me fui a la cocina. Eumelo estaba sentado en el suelo, con el plato en las rodillas, el baúl a un lado. Se estaba quitando el blanco de la cara con un trapo mojado. No me vio, claro. Pero cuando pasé junto a él, sin saber por qué, estiró la mano y puso dos dedos sobre la tapa del baúl, el saludo de la familia, el de "buenos días, patrón", sin decirlo. Así.
 
 —Está tibio —le dijo a nadie, extrañado. Desde Éfeso, en esa compañía, se decía antes de cada función que hoy tampoco se había puesto tibia.
 

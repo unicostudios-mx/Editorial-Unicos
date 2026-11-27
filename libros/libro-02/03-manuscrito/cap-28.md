@@ -18,7 +18,7 @@ Eso era lo que faltaba.
 
 —
 
-—Ya —le dije a Edna.
+—Ya —le dije a la escribana.
 
 Y quité la mano del Registro.
 
@@ -76,15 +76,15 @@ Le enseñé el molde.
 
 Salimos del templo. Había dejado de nevar en la noche y el santuario estaba blanco y limpio, como no está nunca de día. Subimos por detrás, entre las piedras de los tesoros que ya no guardan nada, hacia el teatro. Ella iba adelante con el libro contra el pecho. Yo atrás, despacio. Las piernas no me fallaban; me fallaba otra cosa, más arriba, en el pecho, donde un dios guarda el aire que gasta.
 
-Arriba, el teatro tenía nieve en todas las gradas, pareja, sin una sola pisada, como un público vestido de blanco que llegó temprano y se sentó a esperar. Me detuve a verlo. Ahí me sentaba yo los inviernos, en la grada alta, a ver el valle; desde ahí la vi subir a ella la primera noche, con las sandalias empapadas. Edna se detuvo también, unos pasos adelante, y no me apuró. Pensé que nunca lo había visto así, sin nadie, sin función, y que no me daba tristeza. Me dio otra cosa. Me dio lo que da un escenario antes de que salga el primer actor: ganas. Hace mucho que no me daban ganas sin hambre. Son distintas. Las ganas sin hambre se pueden esperar.
+Arriba, el teatro tenía nieve en todas las gradas, pareja, sin una sola pisada, como un público vestido de blanco que llegó temprano y se sentó a esperar. Me detuve a verlo. Ahí me sentaba yo los inviernos, en la grada alta, a ver el valle; desde ahí la vi subir a ella la primera noche, con las sandalias empapadas. Ella se detuvo también, unos pasos adelante, y no me apuró. Pensé que nunca lo había visto así, sin nadie, sin función, y que no me daba tristeza. Me dio otra cosa. Me dio lo que da un escenario antes de que salga el primer actor: ganas. Hace mucho que no me daban ganas sin hambre. Son distintas. Las ganas sin hambre se pueden esperar.
 
 El cuarto bajo sigue ahí. Ya no tiene puerta. Adentro hay casi cuatro siglos de cosas pobres encima de cosas pobres, polvo, excremento de ratón, un nido de golondrina vacío en una viga. Las lámparas de barro están todas ahí, apiladas. El zapato de niño ya no; alguien se lo llevó o se deshizo. En la repisa del fondo, debajo de un pedazo de cuero que ya no es cuero sino una costra parda, está el molde.
 
-Lo destapé. Edna sopló el polvo.
+Lo destapé. La escribana sopló el polvo.
 
 Es más chico de lo que lo recuerdo. Todo lo que uno recuerda de joven es más grande. Barro cocido, color de ladrillo claro, con una grieta vieja en la orilla de la oreja izquierda que ya traía cuando lo conocí en el istmo. Y en medio, hundida, al revés —porque un molde es la cara al revés, lo que sobresale está hundido y lo que se hunde sobresale—, la sonrisa. La del Forastero. La mía, si quieren, aunque nadie la copió de mí; la copiaron de otra máscara que alguien copió de otra, y así hacia atrás hasta un primer artesano de Atenas que nunca me vio y me entendió de más.
 
-Edna lo miró mucho rato. No lo tocó.
+Ella lo miró mucho rato. No lo tocó.
 
 —¿Está tibio? —preguntó.
 

@@ -1,6 +1,6 @@
 # 25. Las dos muertes
 
-Alejandría, del 1 al 12 de agosto del año 30 antes de esa cuenta.
+Alejandría, del 1 al 12 de agosto del año 30 antes de la cuenta.
 
 Al amanecer, Antonio subió a sus soldados de a pie a las colinas que hay delante de la ciudad y se quedó mirando salir a su flota.
 
@@ -72,7 +72,7 @@ Y murió.
 
 Tenía cincuenta y seis años, dice mi sacerdote, o cincuenta y tres, que no está seguro…
 
-—Cincuenta y tres —dice Edna, sin levantar la vista.
+—Cincuenta y tres —dice la escribana, sin levantar la vista.
 
 Cincuenta y tres. Ella lo tiene.
 

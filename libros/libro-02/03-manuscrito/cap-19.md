@@ -62,7 +62,7 @@ Me la puse en la palma de la mano y me quedé viéndola.
 
 Era yo. Eso es lo que quiero que entiendan. No era él con mi corona: era yo. La cara que traía en la moneda era la cara que yo traía ya en la mía. Si a mí me hubieran acuñado ese año, si alguien en alguna ciudad se hubiera acordado de hacer una moneda con la cara de Dioniso, la de verdad, la del dios, le habría salido esa. La de él. Porque esa era la cara que la gente me rezaba. Y yo, que tengo la cara que me rezan, la tenía puesta.
 
-Me fui a una taberna del puerto, una de esas de marineros donde el vino es de Mareotis y sabe a agua de pantano. Pedí vino. Pagué con la moneda. El tabernero la mordió para ver que era buena, la miró, me miró a mí, y se rió.
+Me fui a una taberna del puerto, una de esas de marineros donde el vino es de Mareótide y sabe a agua de pantano. Pedí vino. Pagué con la moneda. El tabernero la mordió para ver que era buena, la miró, me miró a mí, y se rió.
 
 —Es usted igualito —dijo.
 

@@ -1,6 +1,6 @@
 # 24. La procesión
 
-Alejandría, noche del 31 de julio al 1 de agosto del año 30 antes de esa cuenta.
+Alejandría, noche del 31 de julio al 1 de agosto del año 30 antes de la cuenta.
 
 El último día bueno de Antonio fue el penúltimo.
 
@@ -48,7 +48,7 @@ Les voy a decir qué saqué, porque no fue magia: fue inventario. Un dios es lo 
 
 Saqué la flauta del istmo, la de los artistas el día de los cuervos, y la voz oscura de Eumelo de Teos cantando el párodo en un camerino de tablas.
 
-Saqué el canto de los cinco del campo brutio, tres mujeres y dos hombres, el rito legal, el chiquito, y la risa de la más vieja cuando oyó arrancar el mosto en su tinaja.
+Saqué el canto de los cinco del campo brutio, tres mujeres y dos hombres, el rito legal, el chiquito, y los dos dedos de la más vieja en la frente cuando oyó arrancar el mosto en su tinaja.
 
 Saqué a las tíades del Parnaso, las que bajaron riéndose con las ropas tiesas de hielo.
 
@@ -122,7 +122,7 @@ No era cierto. Pero él no tenía cómo saberlo, y yo ya no tenía con qué dec�
 
 —
 
-Los que interpretan señales dijeron después que el dios al que Antonio más se había parecido y al que más se había apegado lo estaba abandonando. Así lo escribió mi sacerdote. Así lo leyó toda la gente que lo leyó durante cuatrocientos años.
+Los que interpretan señales dijeron después que el dios al que Antonio más se había parecido y al que más se había apegado lo estaba abandonando. Así lo escribió mi sacerdote. Así lo leyó toda la gente que lo leyó durante dos siglos y medio.
 
 No lo corrijo. No estoy en posición. Desde afuera era eso, y lo que se ve desde afuera también es verdad: es la verdad de la grada. Lo único que añado, con la mano aquí, es lo que se ve desde el bastidor.
 

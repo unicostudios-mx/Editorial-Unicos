@@ -2,7 +2,7 @@
 
 Atenas, el año 31, antes del verano.
 
-Pedí vino antes de empezar este. No hay. La escribana me lo dijo con la misma voz con que dice las fechas: no hay. Me dio pan. Lo tengo en la mano izquierda, la que no está sobre el libro, y no me lo he comido.
+Pedí vino antes de empezar este. No me lo dio. La escribana me lo dijo con la misma voz con que dice las fechas: lo que queda en el odre no es para este. Me dio pan. Lo tengo en la mano izquierda, la que no está sobre el libro, y no me lo he comido.
 
 Llegué a Atenas por mar, solo, en un barco que llevaba aceite. No le dije nada a Eumelo. Lo dejé en Priene, en su casa nueva, ensayando con un coro de muchachos que el gremio le había mandado para que les enseñara a caminar como sátiros, y me fui una madrugada sin despedirme, que es como me voy siempre y como no me gusta que se vayan de mí. Él estaba en el patio, junto al pozo, con los muchachos en fila, diciéndoles que la rodilla se dobla así, no así, que un sátiro no es un borracho, que un sátiro sabe exactamente dónde pone cada pie. Lo oí desde la calle. Fue lo último que le oí ese año.
 

@@ -64,7 +64,7 @@ Y luego vino lo de Priene.
 
 Cuando se acabaron las fiestas de Samos, él les regaló a los Artistas de Dioniso una ciudad. Así. Una ciudad entera, Priene, en la costa de enfrente, del otro lado del estrecho, para que vivieran ahí. Mi sacerdote lo pone en una línea, entre otras cosas, como quien anota un gasto: que después de esto les dio a los artistas de Dioniso Priene como residencia, y se fue a Atenas a seguir con las fiestas. Una línea.
 
-Para los de la compañía no fue una línea. Fue la primera vez en siglo y medio que la familia tuvo una casa que nadie les podía quitar por ser griegos, ni por ser esclavos, ni por ser libertos, ni por ser cómicos. Una casa del gremio, en una ciudad del gremio.
+Para los de la compañía no fue una línea. Fue la primera vez en más de un siglo que la familia tuvo una casa que nadie les podía quitar por ser griegos, ni por ser esclavos, ni por ser libertos, ni por ser cómicos. Una casa del gremio, en una ciudad del gremio.
 
 Priene es chiquita, escribana. Está colgada de una montaña, en terrazas, con las calles derechas como las líneas de tu libro, que suben y bajan con escalones. Tiene un teatro que se ve el valle del río y el mar a lo lejos. Le dieron a Eumelo una casa en una de las calles altas: dos cuartos, un patio con un pozo, un olivo enano en una esquina. Nada. Lo que tienen los pobres decentes. Él entró, la recorrió dos veces, se paró en el patio y se puso a llorar.
 

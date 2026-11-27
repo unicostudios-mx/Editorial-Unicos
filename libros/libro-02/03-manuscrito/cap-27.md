@@ -4,7 +4,7 @@ Delfos, invierno del año 362 al 363 de la cuenta que todavía no usan.
 
 Se oyeron mulas en el camino de abajo cuando yo iba en el patio de Alejandría.
 
-Edna levantó la cara del libro. Yo me callé. Por la puerta del templo, que nadie cierra ya porque no hay qué robar, entraba la luz de antorchas que subían por la vía sagrada, haciendo zigzag entre los tesoros vacíos de las ciudades, como suben las procesiones. Solo que no cantaban. Se oía el resuello de las mulas y a un hombre que maldecía el hielo en latín.
+La escribana levantó la cara del libro. Yo me callé. Por la puerta del templo, que nadie cierra ya porque no hay qué robar, entraba la luz de antorchas que subían por la vía sagrada, haciendo zigzag entre los tesoros vacíos de las ciudades, como suben las procesiones. Solo que no cantaban. Se oía el resuello de las mulas y a un hombre que maldecía el hielo en latín.
 
 —Ahí está tu médico —le dije.
 
@@ -14,7 +14,7 @@ Edna levantó la cara del libro. Yo me callé. Por la puerta del templo, que nad
 
 Quité la mano del Registro. Lo digo para que conste: la quité. Lo que voy a contar ahora lo cuento horas después, con la mano otra vez encima, sentado en el mismo lugar, junto a mi tumba, y con la garganta como la tengo. Ustedes no me oyen la garganta. Ella sí. Se la describo para que sepan: hablo como habla un hombre que gritó toda la noche en un estadio. Aire, más que voz.
 
-Ya no hay vino. Desde el Timonio no hay. Queda un pedazo de pan en la tela de Edna, el último, y ella lo está guardando para algo que no me ha dicho.
+Ya no hay vino. Desde el Timonio no hay. Queda un pedazo de pan en la tela de la escribana, el último, y ella lo está guardando para algo que no me ha dicho.
 
 —
 
@@ -28,7 +28,7 @@ Les explico la cabra. Antes de consultar al dios, aquí, se le echaba agua fría
 
 Esa historia me la sé de memoria. La pensé toda mientras le echaban el agua a la cabra de Oribasio en el patio, a la luz de las antorchas, con el Parnaso blanco encima.
 
-La cabra tembló. Claro que tembló. Era diciembre, de noche, en una montaña, y le estaban echando agua de la fuente Castalia en el lomo. En invierno todas las cabras tiemblan. Los dos sacerdotes se miraron. El sordo dijo que era buena señal. Oribasio, que era médico, le puso la mano a la cabra en el pecho como se la pone a un enfermo, y no dijo nada. Yo no hice nada con la cabra. Lo juro aquí: la cabra fue la cabra.
+La cabra tembló. Claro que tembló. Era invierno, de noche, en una montaña, y le estaban echando agua de la fuente Castalia en el lomo. En invierno todas las cabras tiemblan. Los dos sacerdotes se miraron. El sordo dijo que era buena señal. Oribasio, que era médico, le puso la mano a la cabra en el pecho como se la pone a un enfermo, y no dijo nada. Yo no hice nada con la cabra. Lo juro aquí: la cabra fue la cabra.
 
 —
 
@@ -36,7 +36,7 @@ La Pitia era una vieja de Delfos. Sesenta años, quizá más. Viuda. Vivía abaj
 
 Se bañó en la Castalia. Se puso la ropa. Entró.
 
-Y yo entré detrás de ella, al cuarto de adentro, donde está el trípode sobre la grieta, donde está el ónfalo, donde está mi tumba. Edna se quedó en la puerta, con el libro abierto. Oribasio y los sacerdotes se quedaron en la sala de afuera, del otro lado de la cortina, que es donde se quedan los que preguntan.
+Y yo entré detrás de ella, al cuarto de adentro, donde está el trípode sobre la grieta, donde está el ónfalo, donde está mi tumba. La escribana se quedó en la puerta, con el libro abierto. Oribasio y los sacerdotes se quedaron en la sala de afuera, del otro lado de la cortina, que es donde se quedan los que preguntan.
 
 La vieja se sentó en el trípode. Masticó una hoja de laurel —de un laurel seco, de una rama que ella misma había traído del pueblo, porque el laurel del santuario se murió hace años—. Se agarró con las dos manos de las orillas del caldero. Cerró los ojos. Esperó.
 
@@ -80,7 +80,7 @@ No salió en mi metro. Yo canto en ditirambo, en vueltas, en brincos; nunca me h
 
 Eso fue todo. Tres renglones.
 
-Mi hermano se hizo famoso por los oráculos de dos caras. Al rey de Lidia le dijo que si cruzaba el río destruiría un gran imperio, y el rey cruzó, y el imperio que destruyó fue el suyo. Así hablaba él cuando tenía voz: con frases que se pueden leer al derecho y al revés, para que el dios nunca se equivoque. Estos tres no. Estos no se pueden leer al revés por ningún lado. Era para esto que la guardaba. No le alcanzó; le alcanzó a la mía.
+Mi hermano se hizo famoso por los oráculos de dos caras. Al rey de Lidia, ya se los conté, le dijo que si cruzaba el río destruiría un gran imperio, y el rey cruzó, y el imperio que destruyó fue el suyo. Así hablaba él cuando tenía voz: con frases que se pueden leer al derecho y al revés, para que el dios nunca se equivoque. Estos tres no. Estos no se pueden leer al revés por ningún lado. Era para esto que la guardaba. No le alcanzó; le alcanzó a la mía.
 
 —
 
@@ -108,7 +108,7 @@ Oribasio entró sin pedir permiso, que en un lugar sagrado no se hace, pero era 
 
 No le dijo nada a nadie. Le dio las monedas a los sacerdotes, todas. Bajó al patio. Subió a su mula. Se fue esa misma noche, con las antorchas, por el camino del hielo, con prisa de médico que lleva un mal diagnóstico y prefiere darlo él antes que lo dé otro.
 
-La cabra se quedó. Edna dice que se la llevó el sacerdote sordo.
+La cabra se quedó. La escribana dice que se la llevó el sacerdote sordo.
 
 —
 
@@ -120,7 +120,7 @@ Que lo digan. Puede ser. No los voy a contradecir, y aquí, además, no puedo. N
 
 Lo único que sé es lo que pasó esta noche. Que una vieja con los nudillos hinchados abrió la boca. Que salió la verdad, con la cara de mi hermano y la voz mía. Y que el que tenga que decidir si eso pasó, que lo decida. Es lo mejor que le puede pasar a una verdad así: que nadie esté obligado a creerla.
 
-—Lo tengo —dijo Edna.
+—Lo tengo —dijo la escribana.
 
 Desde la puerta. Con el libro abierto en el brazo, la caña en la otra mano, la cara seria. Estuvo ahí todo el tiempo. Es la testigo. Es lo que vino a hacer.
 

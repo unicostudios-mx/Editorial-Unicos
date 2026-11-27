@@ -72,7 +72,7 @@ Esa noche fui al Aventino.
 
 Filón estaba en la cocina, solo. Su mujer había muerto el invierno anterior, de fiebres; su hijo estaba en Grecia, con los gremios, haciendo lo que la mima le había dicho que iba a hacer. Tenía el torso desnudo, con un manto viejo de lana sobre los hombros, porque había echado el bueno a la pira y no tenía otro de ese color. No comía. Tenía delante, en la mesa, el molde de barro, desenvuelto, y lo miraba.
 
-La cara sonriente. El Forastero. La mía. Hecha en Teos por un hombre que había visto el istmo el día de los cuervos, cargada entre trapos por un muchacho vendido en Corinto, puesta en una repisa del Aventino durante cien años junto a la sal, sin que nadie de la familia se la pusiera nunca en Roma, porque *en Roma, la máscara sí; el tirso, no*, y esa máscara, en el fondo, siempre fue un tirso.
+La cara sonriente. El Forastero. La mía. Guardada en Teos por un hombre que había visto el istmo el día de los cuervos, cargada entre trapos por un muchacho vendido en Corinto, puesta en una repisa del Aventino durante cien años junto a la sal, sin que nadie de la familia se la pusiera nunca en Roma, porque *en Roma, la máscara sí; el tirso, no*, y esa máscara, en el fondo, siempre fue un tirso.
 
 Filón agarró un pedazo de papiro y escribió despacio. No sé qué escribió; no leo por encima del hombro a los que escriben a sus hijos. Lo dobló. Envolvió el molde en el manto viejo, el de lana, el que traía puesto, y se quedó con el torso al aire en la cocina fría.
 

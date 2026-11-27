@@ -1,6 +1,6 @@
 # 26. La función
 
-Alejandría, agosto del año 30 antes de esa cuenta.
+Alejandría, agosto del año 30 antes de la cuenta.
 
 César fue a ver a Alejandro.
 
@@ -70,11 +70,11 @@ La máscara de Samos, la que rehízo hacía dos años y que desde entonces no se
 
 Y él estaba haciendo otra.
 
-Les cuento cómo se hace, porque nadie lo cuenta y es lo más bonito que sé. Primero se le unta al molde una capa de grasa, para que no se pegue. Luego se mojan tiras de lino en yeso aguado, tiras del ancho de dos dedos, y se van poniendo sobre el molde una por una, cruzadas, alisándolas con el pulgar para que entren en todos los huecos: en la comisura de la sonrisa, en el hueco de los ojos, en el surco de la nariz. Tres capas. Cuatro, si la máscara va a durar. Se deja secar al sol. Luego se despega con un cuchillo delgado, despacio, por las orillas, como se despega una costra. Y queda en la mano una cara blanca, hueca, liviana, que tiene la forma que tenía el barro y no se parece a nada todavía.
+Ya les conté en el istmo cómo se hace; se los vuelvo a contar despacio, porque es lo más bonito que sé. Primero se le unta al molde una capa de grasa, para que no se pegue. Luego se mojan tiras de lino en yeso aguado, tiras del ancho de dos dedos, y se van poniendo sobre el molde una por una, cruzadas, alisándolas con el pulgar para que entren en todos los huecos: en la comisura de la sonrisa, en el hueco de los ojos, en el surco de la nariz. Tres capas. Cuatro, si la máscara va a durar. Se deja secar al sol. Luego se despega con un cuchillo delgado, despacio, por las orillas, como se despega una costra. Y queda en la mano una cara blanca, hueca, liviana, que tiene la forma que tenía el barro y no se parece a nada todavía.
 
 Después se pinta.
 
-Eumelo pintó toda la tarde. El pelo largo, negro, en rizos. Las mejillas, un poco rosadas, como de muchacho que acaba de beber. Los labios. Y la sonrisa: esa sonrisa que el molde ya traía, que el primer Eumelo copió de quién sabe qué máscara de Atenas hace casi dos siglos, y que cada generación había vuelto a pintar sin saber bien qué estaba pintando. Una sonrisa de alguien que sabe algo que tú no. O de alguien que se está aguantando la risa de sí mismo. O las dos.
+Eumelo pintó toda la tarde. El pelo largo, negro, en rizos. Las mejillas, un poco rosadas, como de muchacho que acaba de beber. Los labios. Y la sonrisa: esa sonrisa que el molde ya traía, que un bisabuelo del primer Eumelo sacó, dicen, de quién sabe qué máscara de Atenas hace casi cuatro siglos, y que cada generación había vuelto a pintar sin saber bien qué estaba pintando. Una sonrisa de alguien que sabe algo que tú no. O de alguien que se está aguantando la risa de sí mismo. O las dos.
 
 Yo me senté junto al pozo a verlo pintar. Hacía calor. Una niña del patio se acercó a ver y él la dejó mojar el pincel.
 
@@ -96,7 +96,7 @@ No había teatro. No había grada. Pusieron lámparas en el brocal del pozo y en
 
 El público era el que había. Los vecinos. Unos niños. Un pescador con su mujer. Dos marineros de Rodas que pasaban por la calle y oyeron la flauta. Una vieja egipcia que no entendía griego y se sentó adelante de todos. Y un soldado romano, joven, de guardia en la esquina, que se acercó a ver qué era el ruido, se quedó parado en la entrada del patio con la mano en el cinto, y luego se sentó en un banco y se quitó el casco.
 
-Nadie importante. Nadie que fuera a escribir nada. Cuatro días antes había muerto la última reina de Egipto, y en el palacio había un muchacho romano haciendo el inventario del tesoro, y en ese patio unos griegos pobres iban a hacer una tragedia de hace cuatrocientos años para unos niños y un soldado.
+Nadie importante. Nadie que fuera a escribir nada. Cuatro días antes había muerto la última reina de Egipto, y en el palacio había un muchacho romano haciendo el inventario del tesoro, y en ese patio unos griegos pobres iban a hacer una tragedia de hace casi cuatrocientos años para unos niños y un soldado.
 
 El flautista empezó. La tonada de entrada. Con la nota de más al final.
 
@@ -130,7 +130,7 @@ No tengo edificio. Nunca tuve. Lo que tuve fue esto, y lo cambié diez años por
 
 —
 
-—Lo tengo —dice Edna.
+—Lo tengo —dice la escribana.
 
 Lo escribió. La veo escribirlo con la misma letra que usa para los precios del trigo en un año de sequía. No lo subraya. Ella no subraya nunca. Está bien. Es mío. No es una regla de nadie; es lo que me pasó a mí en un patio de Alejandría, con una niña y un soldado.
 

@@ -78,7 +78,7 @@ Se detuvo. No me dijo nada. Se acomodó el collar de cuentas. Luego dijo, sin mi
 
 Le gustó la respuesta. Lo noté en la boca, que no se movió. Siguió caminando.
 
-Eso es todo, escribana. Seis palabras ella, cuatro yo. No pongas más.
+Eso es todo, escribana. Cinco palabras ella, cuatro yo. No pongas más.
 
 Al día siguiente el Flautista empezó a cobrar los diez mil talentos, y los romanos se instalaron en la ciudad para ayudarle a cobrarlos. El de la caballería se fue con Gabinio de vuelta a Siria a las pocas semanas. Yo lo seguí con los ojos hasta el puerto y luego, sin decidirlo, con el resto del cuerpo, hasta que lo perdí entre los soldados que subían a los barcos.
 

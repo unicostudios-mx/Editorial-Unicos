@@ -2,7 +2,7 @@
 
 Éfeso, primavera del año 41 antes de la cuenta.
 
-Lo primero que me llegó de Éfeso fue la hiedra. No el olor, que la hiedra casi no huele: el ruido. Llevaban tres días bajándola de los cerros en carretas, en burros, en la espalda de los niños, y una ciudad que arranca la hiedra de todos sus cerros hace un ruido de tela que se rasga, muy suave, muy largo, que se oye desde el mar. Yo venía flaco. Se los digo para que me entiendan lo demás: venía con las manos temblando como teclas sueltas, con la boca seca de un siglo, y esa primavera oí rasgarse los cerros de Asia y supe, antes de entrar por el puerto, que alguien iba a darme de comer.
+Lo primero que me llegó de Éfeso fue la hiedra. No el olor, que la hiedra casi no huele: el ruido. Llevaban tres días bajándola de los cerros en carretas, en burros, en la espalda de los niños, y una ciudad que arranca la hiedra de todos sus cerros hace un ruido de tela que se rasga, muy suave, muy largo, que se oye desde el mar. Yo venía flaco. Se los digo para que me entiendan lo demás: venía con las manos temblando como teclas sueltas, con la boca seca de medio siglo, y esa primavera oí rasgarse los cerros de Asia y supe, antes de entrar por el puerto, que alguien iba a darme de comer.
 
 No a mí. Ya lo saben. Pero yo tenía hambre, y el hambre no lee la dirección del paquete.
 
@@ -38,7 +38,7 @@ Lo llamaban *Caridotes*, el Dador de alegría. Lo llamaban *Meiliquio*, el Dulce
 
 Les voy a contar cómo es eso y luego no se lo vuelvo a contar, porque da vergüenza. Es como estar sentado en una fonda, muerto de hambre, y que al de la mesa de junto le sirvan un banquete. Y el banquete es tan grande que se derrama. Y lo que se derrama, el caldo, el pan remojado, la grasa, va escurriendo por la orilla de la mesa ajena hacia la tuya, y tú pones las manos. No te lo sirvieron. Lo sabes. Te lo comes con las manos.
 
-Me lo comí con las manos. Me lo comí con la cara metida. Sentí cómo se me llenaban los dedos por dentro, cómo se me calentaban las palmas, cómo se me iba quitando el temblor de las manos, que llevaba cien años, en lo que duró una calle. Me paré en mitad de las bacantes falsas con los brazos abiertos y me reí, y una mujer muy elegante con una serpiente de cuero me vio reírme así, flaco y sin corona, y se apartó de mí como del loco que yo parecía. Hacía cien años, escribana. Cien. Desde Mitrídates no me había comido así un grito, y aquel me lo comí con miedo, y este no. Este era de alegría.
+Me lo comí con las manos. Me lo comí con la cara metida. Sentí cómo se me llenaban los dedos por dentro, cómo se me calentaban las palmas, cómo se me iba quitando el temblor de las manos, que llevaba medio siglo, en lo que duró una calle. Me paré en mitad de las bacantes falsas con los brazos abiertos y me reí, y una mujer muy elegante con una serpiente de cuero me vio reírme así, flaco y sin corona, y se apartó de mí como del loco que yo parecía. Hacía medio siglo, escribana. Medio siglo. Desde Mitrídates no me había comido así un grito, y aquel me lo comí con miedo, y este no. Este era de alegría.
 
 No toda.
 
@@ -100,6 +100,6 @@ Eso fue lo primero que noté, escribana. No lo de la risa. Que el vino de los m�
 
 A la mañana siguiente bajé a lavarme a una fuente de la calle que sube del puerto. El agua caía de una boca de león a una pileta de mármol y se quedaba quieta, y yo me asomé, como me asomo siempre, porque me gusta ver qué cara traigo; cambia según el año, según quién me rece. Esperaba la de siempre, la de descanso, la del muchacho que ya no lo es tanto, de pelo largo.
 
-Era esa. Casi. Tenía las manos firmes, por primera vez en un siglo, y me las vi agarradas a la orilla de la pileta, anchas, de nudillos gruesos. Tenía el cuello más grueso. Tenía —me acerqué para estar seguro, y el agua tembló y luego se aquietó otra vez— la barba un poco más rizada que la víspera, más corta, como de soldado que se la cortó en campaña.
+Era esa. Casi. Tenía las manos firmes, por primera vez en medio siglo, y me las vi agarradas a la orilla de la pileta, anchas, de nudillos gruesos. Tenía el cuello más grueso. Tenía —me acerqué para estar seguro, y el agua tembló y luego se aquietó otra vez— la barba un poco más rizada que la víspera, más corta, como de soldado que se la cortó en campaña.
 
 Me quedé un rato viéndome. Luego me eché agua en la cara, me sacudí como perro y me fui a desayunar, porque tenía hambre otra vez. Esa es la cosa. Tenía hambre otra vez, y sabía dónde había comida.
