@@ -1,6 +1,6 @@
-# Brief PROPUESTO — «El nuevo Dioniso» (Cuaderno II de «Los cuadernos de la escribana»)
+# Brief SUPUESTO — «El nuevo Dioniso» (Cuaderno II de «Los cuadernos de la escribana»)
 
-**Estado: PROPUESTO — Puerta 1 abierta el 2026-09-20.** Si Nico no responde en 72 horas (§3.3), el estudio avanza con este brief marcado como supuesto.
+**Estado: SUPUESTO — Puerta 1 cerrada por plazo el 2026-11-27 (D2-01).** La puerta se abrió el 2026-09-20; venció el plazo de 72 horas (§3.3) sin respuesta, así que el estudio avanza con este brief y sus siete defaults como canon operativo. Nico puede revertir cualquiera en cualquier momento; el estudio propaga el cambio. Ajustes del estudio sobre el brief (todos TOMADOS, en `decisiones.md`): marco de dictado jurado en Delfos (D2-02), hilo humano de los Eumélidas (D2-04), milagro de la derrota precisado (D2-05).
 
 ## Premisa
 
@@ -35,7 +35,7 @@ Péplum ni telenovela Antonio-Cleopatra; los humanos históricos jamás dicen lo
 
 ---
 
-## PUERTA 1 — Ronda única (máximo 7 preguntas, con defaults)
+## PUERTA 1 — Ronda única (cerrada por plazo; defaults adoptados, ver `preguntas.md`)
 
 | # | Pregunta | Default si no respondes |
 |---|---|---|

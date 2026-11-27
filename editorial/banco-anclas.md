@@ -38,11 +38,39 @@ Mantenido por el **investigador**. Anclas = episodios documentados que sirven a 
 
 ### El último oráculo de Delfos a Juliano (362 d.C.) — cedida por el Libro 1
 **Qué consta:** respuesta transmitida: "Decid al rey: el bello recinto ha caído...". **Fuente:** atribuida vía Filostorgio/Cedreno. **Estado:** PLAUSIBLE (transmisión tardía; presentarla como lo que es).
-**El hueco:** el oráculo usando su última voz para dictar su propia acta de defunción.
+**El hueco:** el oráculo usando su última voz para dictar su propia acta de defunción. **Uso:** cap. 27 del Cuaderno II (D2-05).
 
 ### El tratado de los blemios (s. V) ✍ (cap. 15)
 **Qué consta:** tras la paz con el imperio (registrada por Prisco, c. 452), los blemios y nóbadas conservaron acceso al culto de Isis en Filae, incluido el préstamo periódico de la estatua río arriba; Justiniano ordenó el cierre del templo (c. 535–537, ejecutado por Narsés según Procopio). **Fuente:** Prisco de Panio; Procopio. **Estado:** VERIFICADA.
 **El hueco:** la única diosa que murió con contrato colectivo; el enderezón de la sacerdotisa en la pasarela (milagro de la derrota del cap. 15).
+
+### Anclas añadidas para el Borrador 0 del Cuaderno II (2026-11-27, D2-09)
+Propuestas por el estudio al cerrar la Puerta 1. Estado honesto: **PLAUSIBLE (pasaje localizado)** = la fuente y el pasaje existen y se localizaron; falta cotejar la letra en edición crítica. El investigador las sube a VERIFICADA en el pase editorial.
+
+- **La libertad de los griegos (196 a.C.)** — Flaminino en los juegos ístmicos; el público hace repetir al heraldo; los cuervos caen por el grito. Polibio 18.46; Livio 33.32–33; Plutarco, *Flam.* 10. PLAUSIBLE (pasaje localizado). Cap. 2.
+- **Las Bacanales (186 a.C.)** — denuncia de Hispala Fecenia y Ebucio; el cónsul Postumio; ~7,000 implicados; el senadoconsulto (tablilla de bronce de Tiriolo, hoy en Viena) limita los ritos a cinco personas con licencia. Livio 39.8–19; *CIL* I² 581. PLAUSIBLE (pasaje localizado). Caps. 3–4.
+- **Los artistas griegos de Fulvio Nobilior (186 a.C.)** — sus juegos votivos traen artistas de Grecia y el primer certamen atlético en Roma. Livio 39.22. PLAUSIBLE (pasaje localizado). Cap. 3.
+- **Emilio Paulo ante el Zeus de Olimpia (167 a.C.)** — se conmueve como si viera al dios presente. Livio 45.28; Polibio 30.10. PLAUSIBLE. Cap. 5.
+- **Los dados de Corinto (146 a.C.)** — Polibio ve a los soldados jugar dados sobre las pinturas; el Dioniso de Arístides; Átalo puja; Mumio se lo lleva a Roma (templo de Ceres). Estrabón 8.6.23; Plinio, *NH* 35.24. PLAUSIBLE (pasaje localizado). Cap. 6.
+- **Mitrídates-Dioniso y las Vísperas asiáticas (88 a.C.)** — matanza de itálicos en un día; en Éfeso los arrancan del Artemision. Apiano, *Mitr.* 22–23; el título de Dioniso, en fuentes y epigrafía (cotejar). PLAUSIBLE. Cap. 8.
+- **La lira en Delfos (86 a.C.)** — Cafis oye la cítara en el santuario; Sila responde que es señal de alegría. Plutarco, *Sila* 12; toma de Atenas, *Sila* 14. PLAUSIBLE (pasaje localizado). Cap. 9.
+- **Ptolomeo XII Neos Dionysos, el flautista** — Estrabón 17.1.11; restauración por Gabinio en 55 con Antonio en la caballería, Plutarco, *Ant.* 3. PLAUSIBLE. Cap. 10.
+- **El teatro de Pompeyo y la voz de Esopo (55 a.C.)** — primer teatro de piedra con templo de Venus Vencedora en lo alto (Tertuliano, *De spect.* 10); Esopo pierde la voz en el juramento "si sciens fallo"; la compasión por los elefantes. Cicerón, *Fam.* 7.1. PLAUSIBLE (pasaje localizado). Cap. 11.
+- **Antonio y Citeris (49–48 a.C.)** — Cicerón, *Fil.* 2.58; Plutarco, *Ant.* 9. PLAUSIBLE. Cap. 12.
+- **Los vestidos en la pira de César (44 a.C.)** — Suetonio, *Iul.* 84. PLAUSIBLE. Cap. 13.
+- **Éfeso: Dador de Alegría y Comedor de carne cruda (41 a.C.)** — Plutarco, *Ant.* 24. PLAUSIBLE (pasaje localizado). Cap. 15.
+- **El Cidno (41 a.C.)** — Plutarco, *Ant.* 26–27. PLAUSIBLE. Cap. 16.
+- **Los Inimitables, Filotas y los ocho jabalíes (41–40 a.C.)** — Plutarco, *Ant.* 28–29. PLAUSIBLE. Cap. 17.
+- **La enramada sobre el teatro y la boda con Atenea (39–38 a.C.)** — Ateneo 4.148b–c (Sócrates de Rodas); Séneca el Viejo, *Suas.* 1.6. PLAUSIBLE. Cap. 18.
+- **El triunfo alejandrino como Líber (34 a.C.)** — Veleyo Patérculo 2.82; Donaciones, Plutarco, *Ant.* 54. PLAUSIBLE. Cap. 19.
+- **Samos y Priene (32 a.C.)** — Plutarco, *Ant.* 56–57. PLAUSIBLE. Cap. 20.
+- **El Dioniso de la Gigantomaquia cae al teatro (31 a.C.)** — Plutarco, *Ant.* 60. PLAUSIBLE (pasaje localizado). Cap. 21.
+- **Accio y los tres días en la proa (31 a.C.)** — Plutarco, *Ant.* 66–67. PLAUSIBLE. Cap. 22.
+- **El Timonio y los Que Morirán Juntos (31–30 a.C.)** — Plutarco, *Ant.* 69–71. PLAUSIBLE. Cap. 23.
+- **La procesión invisible (30 a.C.)** — Plutarco, *Ant.* 75. PLAUSIBLE (pasaje localizado). **El hueco capital del libro.** Cap. 24.
+- **Las dos muertes (30 a.C.)** — Plutarco, *Ant.* 76–86 (la duda del áspid en 86). PLAUSIBLE. Cap. 25.
+- **Octaviano ante Alejandro; la memoria de Antonio condenada** — Suetonio, *Aug.* 18; Dion Casio 51.16, 51.19. PLAUSIBLE. Cap. 26.
+- **Dioniso en Delfos: el invierno y la tumba** — Plutarco, *De E apud Delphos* 9; *De Iside et Osiride* 35. PLAUSIBLE. Marco.
 
 ## Cuaderno 3 — El libro de los muertos
 
