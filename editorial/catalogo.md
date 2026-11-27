@@ -9,7 +9,7 @@ Universo (D-003, RATIFICADA): todas las religiones y dioses fueron reales; los d
 | # | Cuaderno | Slug | Narrador | Tema | Etapa |
 |---|---|---|---|---|---|
 | 1 | **La escribana de los dioses** (D-023; antes «El registro de los últimos dioses») | `libro-01` | Enheduanna/Edna | El final de todo, hoy (CDMX) | **✅ APROBADO COMPLETO** — Borrador 1 cerrado en tamaño natural (66,224 palabras, D-020), Tepeyac aprobado (D-021), título ratificado (D-023); espejo EN en curso |
-| 2 | El nuevo Dioniso | `libro-02` | Dioniso | Morir por absorción; el dios que apostó a Marco Antonio (Éfeso 41 a.C. → Accio → la procesión invisible de Alejandría) | 0 — Semilla |
+| 2 | El nuevo Dioniso | `libro-02` | Dioniso | Morir por absorción; el dios que apostó a Marco Antonio (Éfeso 41 a.C. → Accio → la procesión invisible de Alejandría) | **6 — Puerta 2 abierta** — Borrador 0 completo (28 caps., 64,672 palabras) con pase editorial; brief SUPUESTO (Puerta 1 cerrada por plazo, D2-01) |
 | 3 | El libro de los muertos | `libro-03` | Tot | Los profesionales de la muerte usando su propio manual; Isis conquista al conquistador; el último jeroglífico (Filae, 394) | 0 — Semilla |
 | 4 | El invierno de los dioses | `libro-04` | Odín | Cómo se vive sabiendo el final: el panteón que profetizó su Ragnarök; Islandia lo vota (1000); Snorri lo salva por escrito | 0 — Semilla |
 | 5 | El quinto sol | `libro-05` | Cihuacóatl | La mudanza mesoamericana: el único panteón que no murió — 500 años de clandestinidad, del bulto de Huitzilopochtli al monolito de Tláloc entrando al museo bajo su propia lluvia (1964) | 0 — Semilla |
