@@ -1,6 +1,6 @@
 # 21. El dios que cayó al teatro
 
-Atenas, el año 31, antes del verano.
+Atenas, el año 31 antes de la cuenta, antes del verano.
 
 Pedí vino antes de empezar este. No me lo dio. La escribana me lo dijo con la misma voz con que dice las fechas: lo que queda en el odre no es para este. Me dio pan. Lo tengo en la mano izquierda, la que no está sobre el libro, y no me lo he comido.
 
@@ -80,4 +80,4 @@ En el puerto me vi en el agua de un abrevadero. No les voy a decir que tenía mi
 
 Era tarde. Eso también lo asiento. Ya estaban las naves en el golfo; ya estaba el joven César del otro lado del mar con su almirante y con su dios. Un dios que se suelta de su nombre no detiene una guerra. Lo único que hice esa noche fue dejar de comer de ella.
 
-Me subí a otro barco, uno de trigo, que iba hacia el oeste, hacia Accio. No para ayudar. Para ver cómo acababa. Para estar en los bastidores cuando se acabara la función, que es donde está uno cuando ya no le toca salir.
+Me subí a otro barco, uno de trigo, que iba hacia el oeste, hacia Accio. No para ayudar. Para ver cómo acababa.

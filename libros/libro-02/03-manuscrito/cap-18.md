@@ -1,6 +1,6 @@
 # 18. La boda con Atenea
 
-Atenas, invierno del 39 al 38.
+Atenas, invierno del 39 al 38 antes de la cuenta.
 
 Le construyeron una gruta encima de mi teatro.
 

@@ -1,6 +1,6 @@
 # 14. La cara del biógrafo
 
-Delfos, invierno del 362.
+Delfos, invierno del año 362 de la cuenta que todavía no usan.
 
 Incliné el odre y lo que salió fue un hilo. Luego una gota. Luego el ruido que hace el cuero cuando ya no tiene nada adentro y uno insiste, que es el mismo ruido que hace un hombre cuando insiste.
 
@@ -10,7 +10,7 @@ Incliné el odre y lo que salió fue un hilo. Luego una gota. Luego el ruido que
 
 Estábamos en el teatro otra vez. Yo había querido subir; dentro del templo de mi hermano hace un frío de bodega y uno cuenta peor. Ella subió detrás de mí sin quejarse, con el libro contra el pecho, y se sentó dos gradas más abajo, de lado, para poder verme y ver el valle. La nieve había parado. El cielo estaba limpio y negro y tenía todas sus estrellas puestas, como un teatro lleno en el que nadie se ha sentado todavía.
 
-Me dio un pedazo de pan. Era el último del segundo día. Se lo acepté.
+Me dio un pedazo de pan. Era el último de esa noche. Se lo acepté.
 
 —Quiero preguntarte por el sacerdote —dijo.
 

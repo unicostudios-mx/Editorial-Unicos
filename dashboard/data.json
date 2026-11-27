@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-19",
+  "generado": "2026-11-27",
   "editorial": "Editorial Unico Studios",
   "libros": [
     {
@@ -15,6 +15,20 @@
       "preguntas_abiertas": 0,
       "ultima_actualizacion": "2026-09-20",
       "nota": "Nico aceptó el tamaño natural (D-020, RATIFICADA; revierte D-014): el Libro 1 queda en 66,224 palabras / 40 capítulos. TÍTULO RATIFICADO (D-023): «La escribana de los dioses» / The Scribe of the Gods, cintillo LOS CUADERNOS DE LA ESCRIBANA · CUADERNO I. Libro 1 totalmente aprobado; espejo EN: 35/40 en esta sesión (D-026; los cinco [TK] van a pase de traducción en sesión nueva). Puerta 1 del Cuaderno 2 presentada a Nico."
+    },
+    {
+      "slug": "libro-02",
+      "titulo": "El nuevo Dioniso (título de trabajo)",
+      "etapa": 6,
+      "etapa_nombre": "Puerta 2 abierta — Borrador 0 entregado",
+      "capitulos_escritos": 28,
+      "capitulos_total": 28,
+      "palabras": 64672,
+      "palabras_meta": 60000,
+      "decisiones_tomadas": 14,
+      "preguntas_abiertas": 2,
+      "ultima_actualizacion": "2026-11-27",
+      "nota": "Cuaderno II de la saga. Puerta 1 cerrada por plazo con defaults (D2-01). Marco: Dioniso dicta su cuaderno con la mano sobre el Registro en Delfos, invierno de 362. Borrador 0 completo con pase de continuidad y crítico; entrega en libros/libro-02/04-entrega.md. Abiertas: P8 (título) y P9 (tamaño natural de la saga)."
     }
   ]
 }

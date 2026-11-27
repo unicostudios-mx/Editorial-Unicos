@@ -16,8 +16,6 @@ Quité la mano del Registro. Lo digo para que conste: la quité. Lo que voy a co
 
 Ya no hay vino. Desde el Timonio no hay. Queda un pedazo de pan en la tela de la escribana, el último, y ella lo está guardando para algo que no me ha dicho.
 
-—
-
 El médico se llamaba Oribasio. Era de Pérgamo. Era amigo del emperador desde antes de que fuera emperador, desde la juventud, desde los años en que Juliano leía a Homero a escondidas de los obispos; y era, me enteré después, un hombre que estaba escribiendo para su amigo una enciclopedia de toda la medicina de los griegos, en muchos libros, porque Juliano se lo pidió. Un hombre que recogía lo que se iba a perder. Me cayó bien antes de verle la cara.
 
 Así cuentan que llegó a Delfos: enviado por el emperador a reponer el oráculo, o a consultarlo, o las dos cosas. Los que lo cuentan no se ponen de acuerdo, y yo no sé qué le encargaron por escrito. Sé lo que traía. Traía incienso, traía una bolsa de monedas para los sacerdotes que quedaban, que eran dos y uno estaba sordo, y traía una cabra.
@@ -29,8 +27,6 @@ Les explico la cabra. Antes de consultar al dios, aquí, se le echaba agua fría
 Esa historia me la sé de memoria. La pensé toda mientras le echaban el agua a la cabra de Oribasio en el patio, a la luz de las antorchas, con el Parnaso blanco encima.
 
 La cabra tembló. Claro que tembló. Era invierno, de noche, en una montaña, y le estaban echando agua de la fuente Castalia en el lomo. En invierno todas las cabras tiemblan. Los dos sacerdotes se miraron. El sordo dijo que era buena señal. Oribasio, que era médico, le puso la mano a la cabra en el pecho como se la pone a un enfermo, y no dijo nada. Yo no hice nada con la cabra. Lo juro aquí: la cabra fue la cabra.
-
-—
 
 La Pitia era una vieja de Delfos. Sesenta años, quizá más. Viuda. Vivía abajo, en el pueblo, en una casa con un corral, y subía al templo cuando alguien venía, que ya era casi nunca. La última de su oficio; no había muchacha que la fuera a reemplazar, ni quién le pagara a la muchacha. Tenía las manos grandes y los nudillos hinchados de lavar ropa en agua fría. La había visto subir muchas veces a lo largo de esos inviernos, a barrer, a prender una lámpara, a sentarse un rato en el trípode sin que nadie le preguntara nada, como se sienta uno en la silla de un muerto para que no se enfríe del todo.
 
@@ -44,8 +40,6 @@ Oribasio hizo la pregunta del otro lado de la cortina. No la voy a repetir. No p
 
 Y la vieja esperó a que le hablara Apolo.
 
-—
-
 Apolo no estaba.
 
 Es invierno. En invierno se va. Y aunque estuviera, ya no tenía voz. No la gastó: la guardó. Desde el invierno de Sila, desde la lira, no le volvió a hablar a un mortal; la guardaba, me dijo entonces, para una vez que hiciera falta y no se pudiera leer al revés. Durante más de cuatro siglos los sacerdotes cantaron sin él, y él guardándola, como guarda el último aceite una viuda pobre, hasta que el aceite se le secó en el frasco sin abrirlo. Lo supe al entrar. El cuarto olía a piedra mojada y a lámpara. No olía a él. La grieta del piso, la de donde salía el aliento, estaba seca. La fuente de adentro, la que hablaba —la Casótide, el agua que corría por debajo del templo y que los de antes oían murmurar—, estaba callada desde quién sabe cuándo.
@@ -56,11 +50,7 @@ No contestó.
 
 La vieja seguía con los ojos cerrados y las manos en el caldero. Empezaba a temblarle la barbilla. Yo sabía lo que iba a pasar si nadie hablaba. Iba a forzarse. Iba a querer cumplir, porque había un enviado del emperador del otro lado de la cortina y una cabra mojada en el patio y porque era su oficio y era la última. Iba a sacar de sí misma una voz que no tenía. Y ya les conté cómo acabó la otra vez.
 
-Pensé en la frase de mi hermano. En la escalinata de Alejandría, hacía casi cuatrocientos años. *Tú sabes ponerte caras. Si algún día hace falta que alguien diga algo con la mía, en mi casa, en invierno, cuando no esté…*
-
-No la acabó. La acabé yo.
-
-—
+Pensé en mi hermano el invierno de Sila, sentado junto a esta misma piedra con la lira en las rodillas, sin tocarla. *Para una vez que haga falta y no se pueda leer al revés.* Nadie me lo encargó. Me lo encargué yo.
 
 Me puse su cara.
 
@@ -82,8 +72,6 @@ Eso fue todo. Tres renglones.
 
 Mi hermano se hizo famoso por los oráculos de dos caras. Al rey de Lidia, ya se los conté, le dijo que si cruzaba el río destruiría un gran imperio, y el rey cruzó, y el imperio que destruyó fue el suyo. Así hablaba él cuando tenía voz: con frases que se pueden leer al derecho y al revés, para que el dios nunca se equivoque. Estos tres no. Estos no se pueden leer al revés por ningún lado. Era para esto que la guardaba. No le alcanzó; le alcanzó a la mía.
 
-—
-
 Podía haber dicho otra cosa. Quiero que conste eso más que lo demás.
 
 No tenía la mano en el Registro. Estaba con la cara de otro, en un cuarto oscuro, delante de un enviado que había subido una montaña en invierno para oír que sí. Podía haberle dado lo que venía a buscar. *Restaura, y Febo volverá.* *Levanta el altar, y la fuente hablará.* Cualquiera de esas. Habría sonado bien. Habría alegrado a un hombre bueno en una tienda de campaña en Persia. Habría sido otra máscara de las que se creen cara: un oráculo diciendo que el oráculo vive.
@@ -93,8 +81,6 @@ Juliano nos amaba con gramática, ya se los dije la primera noche. Nos quería d
 Porque esa máscara, la de mi hermano, me la puse sabiendo que era máscara. Y la máscara que se sabe máscara no miente.
 
 Le dije la verdad. La casa se cayó. Que no la levante. Que no gaste.
-
-—
 
 Del otro lado de la cortina hubo un rato de nada.
 
@@ -109,8 +95,6 @@ Oribasio entró sin pedir permiso, que en un lugar sagrado no se hace, pero era 
 No le dijo nada a nadie. Le dio las monedas a los sacerdotes, todas. Bajó al patio. Subió a su mula. Se fue esa misma noche, con las antorchas, por el camino del hielo, con prisa de médico que lleva un mal diagnóstico y prefiere darlo él antes que lo dé otro.
 
 La cabra se quedó. La escribana dice que se la llevó el sacerdote sordo.
-
-—
 
 Ahora les digo lo otro, lo que tengo que decirles con la mano aquí aunque me cueste el aire que me queda.
 

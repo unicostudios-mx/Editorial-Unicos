@@ -14,8 +14,6 @@ Eso es atrás. En el teatro le dicen bastidores. Es el lugar donde uno ve la fun
 
 Me había quedado flaco. Lo de Atenas, la estatua que cayó al teatro —que yo tiré o que me tiró con ella; todavía no lo sé—, me había costado más de lo que calculé. Me temblaban las manos. Y la cara, cuando me la veía reflejada en el agua del golfo, seguía siendo casi la de él: el cuello ancho, la barba de soldado. Se me iba a quedar esa cara, me había dicho la reina. Ya no había nombre que me engordara. Lo había soltado. Y un dios que suelta un nombre se queda como queda un actor al que le quitan el vestuario a media temporada: en camisa, con frío, sin saber muy bien qué hacer con los brazos.
 
-—
-
 La mañana no tuvo viento. Las dos flotas se miraron horas, como dos coros que esperan la señal del flautista y el flautista no llega. Yo conozco esa espera. La he visto en mil gradas: el público que ya se sentó, la luz que ya cambió, y nadie sale. Es el momento más largo de cualquier obra. Se oía el agua lamer los cascos. Se oía a un remero toser.
 
 Antes, cuando todavía era de noche, había pasado algo que quiero asentar porque nadie lo cuenta en las estatuas. Antonio recorría la orilla para subir a su nave, y un centurión viejo, con la cara cosida de cicatrices, se le paró enfrente. El sacerdote de Queronea recogió lo que le dijo, y lo digo como él lo escribió, más o menos: *General, ¿por qué desconfías de estas heridas y de esta espada y pones tus esperanzas en unos maderos? Que peleen en el mar los egipcios y los fenicios. A nosotros danos tierra, que en tierra sabemos morir o vencer.*
@@ -26,7 +24,7 @@ Yo lo vi desde el muelle. Y les digo una cosa que no les va a gustar: era un ges
 
 Lo que pasa es que el gesto era lo único que Antonio tenía. Detrás no había nada. Y yo, que ya no estaba en él, lo vi por primera vez desde afuera: un hombre de cincuenta y dos años, ancho, con la barba crecida de varios días porque así le gustaba que lo vieran sus soldados, haciendo con la cara lo que no podía hacer con el plan.
 
-—
+Así pasó la mañana.
 
 Hacia el mediodía se levantó la brisa del mar, la que se levanta siempre en esa costa a esa hora. Los pescadores de Accio la conocen por su nombre. Y con la brisa empezó.
 
@@ -34,11 +32,13 @@ No les voy a contar la batalla. No la entendí. Las batallas en el agua no se pa
 
 Yo no hice nada.
 
-Se los digo así, en tres palabras, porque las otras veces que no hice nada fue porque no podía. Esta vez podía. Un dios siempre puede algo pequeño. La brisa, por ejemplo. Una brisa es una cosa muy pequeña; se mueve con poco; cualquiera de mis tíos lo sabía hacer de chico. O un humo que se va para un lado y no para el otro. O una cuerda que se rompe en la nave de un almirante de César en el momento justo. Cosas que después se explican con la suerte. Yo conozco el oficio. Lo he practicado en escenarios más difíciles.
+—Lo asiento —dice la escribana—. ¿Con qué palabras?
+
+—Con esas. Cuatro.
+
+Se los digo así, en cuatro palabras, porque las otras veces que no hice nada fue porque no podía. Esta vez podía. Un dios siempre puede algo pequeño. La brisa, por ejemplo. Una brisa es una cosa muy pequeña; se mueve con poco; cualquiera de mis tíos lo sabía hacer de chico. O un humo que se va para un lado y no para el otro. O una cuerda que se rompe en la nave de un almirante de César en el momento justo. Cosas que después se explican con la suerte. Yo conozco el oficio. Lo he practicado en escenarios más difíciles.
 
 Me quedé sentado entre los cabos con las manos sobre las rodillas, apretadas, para que no temblaran. Y no fue virtud. Quiero que conste: no fue virtud ni sabiduría. Fue que en Atenas, cuando caí al teatro, había entendido algo que todavía no sabía decir, y lo único que sabía de ese algo era que si movía un dedo ese día, el dedo iba a ser de Antonio.
-
-—
 
 Entonces la reina abrió las velas.
 
@@ -51,8 +51,6 @@ La vio irse. Dejó a los suyos peleando —a los que todavía morían por él en
 Puede ser. Yo estaba en la popa de ella y lo vi venir por detrás, remando como un loco, y les digo que no parecía un enamorado. Parecía un actor que vio salir de escena a la única persona que sabía su texto.
 
 La reina lo reconoció. Mandó izar una señal. Lo subieron a bordo.
-
-—
 
 Y aquí viene lo que quiero contar, que es poco.
 
@@ -74,7 +72,7 @@ Le hablé una vez, la segunda noche. No me oyó, y yo lo sabía.
 
 Las olas golpeaban la proa con un ruido de palmas lentas.
 
-—
+Una cosa más de esa mañana, escribana, que se me quedó atrás.
 
 Detrás de nosotros, en el promontorio de Accio, en la punta de tierra que cierra el golfo, había un templo viejo de mi hermano. Uno chiquito, de marineros, de los que nadie va a ver a propósito. Lo vi la mañana de la batalla, antes de que empezara todo, cuando todavía no había brisa. Mi hermano estaba en la escalinata. No vino a la batalla: estaba ahí porque era su casa, como yo estaba en las naves porque eran mi función. Pero estaba del lado que iba a ganar, y lo sabía, y yo lo sabía, y nos miramos a través del agua quieta un buen rato.
 
@@ -82,7 +80,7 @@ No me dijo nada. Hace cincuenta y cinco años que no gasta la voz, desde la lira
 
 La flota de Antonio aguantó hasta la tarde, sin general. Dicen que murieron unos cinco mil. Dicen que César tomó trescientas naves. El ejército de tierra, diecinueve legiones, esperó siete días a que volviera su jefe, creyendo que iba a aparecer en cualquier momento por algún lado, porque así había sido siempre; luego se rindió. A mí esa espera de siete días me duele más que los muertos. Son siete días de público sentado en la grada cuando el actor ya se fue a su casa.
 
-—
+Eso lo supe después. En el barco no sabíamos nada.
 
 Al tercer día llegamos al Ténaro, la punta del Peloponeso. Es una punta pelona, de piedra caliente, donde según cuentan hay una cueva que baja al reino de los muertos. Yo bajé una vez por otra puerta, hace mucho, a buscar a mi madre; no me gustó el camino. Ahí las mujeres de la reina se acercaron a la proa. Primero le hablaron a Antonio de cualquier cosa, como se le habla a un enfermo. Luego lo convencieron de hablar con ella. Luego, de comer con ella. Luego, de dormir con ella.
 
@@ -90,6 +88,4 @@ Lo vi pararse. Lo vi caminar hacia la popa, despacio, sosteniéndose de la borda
 
 No lo seguí.
 
-Me quedé en la proa, solo, en su lugar caliente. Y ahí, con la piedra del Ténaro enfrente y la cueva de los muertos en algún lado de esa piedra, me di cuenta de que había pasado un día entero de batalla y tres de mar sin mover un dedo, y que esta vez no me dolía la mano de las ganas. Me dolía otra cosa más adentro. No sabía todavía qué era. Pero sabía de quién era.
-
-Era mía.
+Me quedé en la proa, solo, en su lugar caliente. Y ahí, con la piedra del Ténaro enfrente y la cueva de los muertos en algún lado de esa piedra, me di cuenta de que había pasado un día entero de batalla y tres de mar sin mover un dedo, y que esta vez no me dolía la mano de las ganas. Me dolía otra cosa más adentro. No sabía todavía qué era.

@@ -62,7 +62,7 @@ Eso es lo que yo sé hacer, escribana. Eso. Hacer que la gente se quite lo que t
 
 Y Antonio, en la tribuna, no se movió. Eso es lo que más me dolió. Se quedó con la toga todavía en las manos, ya bajada, viendo arder lo que él había empezado, con una cara que yo conocía también, porque la he tenido: la cara del actor que salió a escena sin saber qué iba a pasar y que, a la mitad, se da cuenta de que el público es suyo. No sonrió. No sonrió hasta mucho después. Pero se le aflojó algo en los hombros.
 
-Lo aprendió ahí. Esa mañana. No lo aprendió de mí: lo aprendió del público. Lo que yo sé desde que nací dos veces, lo que me costó una madre quemada y un padre que me cosió en su muslo, lo que me costó la montaña y el teatro y cuatro siglos de Atenas, él lo aprendió en una mañana de marzo con un trapo ensangrentado. Que la gente quiere que alguien le enseñe qué sentir. Que si se lo enseñas bien, hace el resto sola. Y que lo que hace sola es más grande que lo que tú le ordenarías.
+Lo aprendió ahí. Esa mañana. No lo aprendió de mí: lo aprendió del público. Lo que yo sé desde que nací dos veces, lo que me costó una madre quemada y un padre que me cosió en su muslo, lo que me costó la montaña y el teatro y cuatro siglos de Atenas, él lo aprendió en una mañana de marzo con un trapo ensangrentado.
 
 Estaba celoso. Lo asiento con la mano aquí, y la mano está muy quieta: estaba celoso como no lo había estado nunca de ningún dios. A los dioses los conozco; tienen sus cosas, sus hermanas, sus templos. Esto era un hombre que se había metido en mi oficio sin pedir permiso y lo había hecho bien al primer intento. Y estaba fascinado. Las dos cosas a la vez, como siempre. Me acuerdo de que pensé: ya lo sabe. Ya sabe lo que tiene. Y a partir de hoy lo va a usar.
 

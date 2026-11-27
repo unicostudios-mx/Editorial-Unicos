@@ -1,6 +1,6 @@
 # 17. Los Inimitables
 
-Alejandría, invierno del 41 al 40.
+Alejandría, invierno del 41 al 40 antes de la cuenta.
 
 Ocho jabalíes. Eso es lo que vio el muchacho, y lo cuento primero porque es la escena que mejor me sé de todo ese invierno, aunque yo no era el que la estaba viendo; yo estaba detrás de él, en la cocina, robándome una costra de pan.
 
@@ -22,13 +22,13 @@ Lo asiento así, sin adorno, porque la escribana me lo pidió así y porque es v
 
 Y me iba pareciendo a él. Eso también lo asiento.
 
-En las noches salían. Él se disfrazaba de criado, se ponía una túnica de esclavo y se iba por las calles de Alejandría a tocar puertas y a asomarse por las ventanas de la gente común para burlarse de lo que estaban haciendo adentro. Y la reina iba con él, vestida igual, de criada. Así lo cuenta mi sacerdote. Y a veces la gente de adentro salía y le contestaba con palabras, y a veces con golpes, y el hombre más poderoso del Oriente regresaba al palacio con un ojo morado, riéndose, y al día siguiente nadie le decía nada porque todos sabían y nadie lo decía.
+En las noches salían. Él se disfrazaba de criado, se ponía una túnica de esclavo y se iba por las calles de Alejandría a tocar puertas y a asomarse por las ventanas de la gente común para burlarse de lo que estaban haciendo adentro. Y la reina iba con él, vestida igual, de criada. Y a veces la gente de adentro salía y le contestaba con palabras, y a veces con golpes, y el hombre más poderoso del Oriente regresaba al palacio con un ojo morado, riéndose, y al día siguiente nadie le decía nada porque todos sabían y nadie lo decía.
 
 Yo iba detrás. No disfrazado de nada; yo ya parecía cualquiera. Iba detrás, al principio, para ver. Luego, para hacer.
 
 Una noche, en una calle de Racotis, el barrio viejo de los egipcios, me asomé yo solo a una ventana donde una familia estaba cenando lentejas, y les apagué la lámpara de un soplido, y me reí cuando la mujer gritó. No fue nada. No le pasó nada a nadie. Volvieron a prender la lámpara. Pero me quedé en la oscuridad de la calle con la risa todavía en la boca, y la risa no era mía. Era de él. Era su risa de soldado, la de las bromas de campamento, la que se ríe del susto ajeno porque el susto ajeno es lo más chistoso del mundo cuando uno nunca tiene que asustarse.
 
-Los alejandrinos lo querían, eso hay que decirlo. Les caía bien. Decían de él una cosa que mi sacerdote recogió y que yo no habría dicho mejor: que con los romanos usaba la máscara trágica, y con ellos la cómica. Eso dicen los de Alejandría, que son el pueblo más teatral que he conocido, que se ponían apodos a sus reyes como se le ponen a los actores malos. Al padre de la reina le decían el Flautista. A Antonio le decían que tenía dos máscaras. Lo decían como elogio.
+Los alejandrinos lo querían, eso hay que decirlo. Les caía bien. Decían de él una cosa que yo no habría dicho mejor: que con los romanos usaba la máscara trágica, y con ellos la cómica. Eso dicen los de Alejandría, que son el pueblo más teatral que he conocido, que se ponían apodos a sus reyes como se le ponen a los actores malos. Al padre de la reina le decían el Flautista. A Antonio le decían que tenía dos máscaras. Lo decían como elogio.
 
 Yo lo oí como elogio también. Ahí está el problema.
 
@@ -74,15 +74,13 @@ Ella se rió. No fuerte. Una risa cansada, de alguien que lleva toda la noche oy
 
 No le contesté.
 
-—Mira —dijo, y se puso a hablar como se habla en las terrazas a esa hora, despacio, sin orden, como quien acomoda cosas en un cuarto a oscuras—. Ser dios por oficio es un trabajo. Eso no lo entendió mi padre nunca. Él creía que era un regalo. Que porque le decían Dioniso ya lo era, y entonces podía hacer lo que hace Dioniso: tocar, beber, bailar, salir en carro. Y el pueblo lo veía hacer de Dioniso y pensaba: ese no es un dios, es un rey borracho. Porque se le notaba que se lo creía. Al dios nunca se le debe notar que se lo cree. —Se tocó el pecho, por encima del manto, en el lugar donde en las estatuas le ponen a Isis el nudo de la túnica—. Yo soy Isis. Desde que me pusieron la diadema. Me visto de ella cuando hay que vestirse de ella, salgo cuando hay que salir, me siento como se sienta ella en los relieves de los templos, con la espalda así. No me puedo enfermar en público. No me puedo reír en las procesiones. Los campesinos del sur me pagan el trigo porque soy ella, y los sacerdotes de Menfis me aceptan porque soy ella, y si un día se me nota que no lo soy, se me cae el reino. Eso es un trabajo. Se hace todos los días. Y cada noche me lo quito.
+—Mira —dijo, y se puso a hablar como se habla en las terrazas a esa hora, despacio, sin orden, como quien acomoda cosas en un cuarto a oscuras; se tocó el pecho, por encima del manto, en el lugar donde en las estatuas le ponen a Isis el nudo de la túnica—. Yo soy Isis. Desde que me pusieron la diadema. Me visto de ella cuando hay que vestirse de ella, salgo cuando hay que salir, me siento como se sienta ella en los relieves de los templos, con la espalda así. No me puedo enfermar en público. No me puedo reír en las procesiones. Los campesinos del sur me pagan el trigo porque soy ella, y los sacerdotes de Menfis me aceptan porque soy ella, y si un día se me nota que no lo soy, se me cae el reino. Eso es un trabajo. Se hace todos los días. Y cada noche me lo quito.
 
 —¿Y él?
 
 Supo de quién le hablaba.
 
-—Él no se lo quita. —Lo dijo sin enojo, casi con ternura—. Él no sabe que es un vestido. Por eso le queda tan bien. Por eso lo quieren. Por eso se va a hundir.
-
-Lo dijo así. Les juro —y aquí no se jura en vano— que lo dijo así, una noche de finales del invierno del 41, cuando todavía faltaban diez años. Quizá no lo decía como profecía. Quizá lo decía como dice una mujer de su marido que se gasta la quincena: ya se va a dar cuenta. Pero lo dijo.
+—Él no se lo quita. —Lo dijo sin enojo, casi con ternura—. Él no sabe que es un vestido.
 
 Me quedé viéndola. Y me dio miedo de ella. No por lo que sabía de él: por lo que sabía de mí. Porque yo también llevaba ese invierno sin quitarme nada. Porque yo también me lo estaba creyendo.
 

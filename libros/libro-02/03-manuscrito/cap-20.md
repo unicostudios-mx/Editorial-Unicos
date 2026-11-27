@@ -1,6 +1,6 @@
 # 20. Samos y Priene
 
-Samos y Priene, primavera y verano del año 32.
+Samos y Priene, primavera y verano del año 32 antes de la cuenta.
 
 La orden llegó a Teos en una tablilla sellada y la leyó en voz alta el secretario del gremio, en el patio, delante de todos, con la voz de quien lee una multa: que todos los Artistas de Dioniso, de Jonia y del Helesponto y de donde fuera, se presentaran en Samos. Todos. Los trágicos, los cómicos, los flautistas, los citaristas, los coros, los maestros de coro, los que hacen las máscaras, los que pintan los decorados, los que cosen. Por orden del general. Para las fiestas.
 

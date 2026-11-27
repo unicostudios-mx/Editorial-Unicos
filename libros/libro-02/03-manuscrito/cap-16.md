@@ -1,6 +1,6 @@
 # 16. El Cidno
 
-Tarso, el mismo año 41.
+Tarso, el mismo año 41 antes de la cuenta.
 
 —¿Qué te pasó en la cara? —me preguntó Afrodita.
 
@@ -30,7 +30,7 @@ Llegó por el río.
 
 —Ahí viene —dijo Afrodita, y se le olvidó estar sentada con elegancia y se paró en el banco.
 
-Les cuento lo que vi, y luego les cuento lo que mi sacerdote escribió, que es casi lo mismo, porque esa escena la vio tanta gente que ni él pudo equivocarse.
+Les cuento lo que vi, que es casi lo mismo que se escribió, porque esa escena la vio tanta gente que nadie pudo equivocarse.
 
 Una barca de popa dorada. Velas color púrpura, desplegadas aunque no hacía falta viento, solo para que se vieran. Remos de plata, y los remos subían y bajaban al compás de una flauta con caramillos y liras, y el ruido del agua iba con la música, como si el río también estuviera contratado. Y en medio, bajo un toldo bordado de oro, recostada, una mujer vestida exactamente como pintan a Afrodita en los cuadros. Exactamente. A los lados, niños vestidos de Amores, con alitas, abanicándola. Al timón y en las cuerdas, sus criadas, las más hermosas, vestidas unas de Nereidas y otras de Gracias. Y en las orillas —esto es lo que no se puede pintar— un humo de incienso que subía de no sé cuántos braseros escondidos entre los juncos, de manera que el olor llegaba antes que la barca, y la gente de Tarso, que había salido a ver, lo olió primero y luego la vio.
 
@@ -44,7 +44,7 @@ Una barca de popa dorada. Velas color púrpura, desplegadas aunque no hacía fal
 
 —Yo nunca he necesitado barca. —Se le había puesto la cara colorada, de un colorado que no le había visto desde Troya—. Y me están pintando la nariz más chica. Bueno. No me quejo.
 
-Toda la ciudad se fue para el río. Esto es lo mejor de todo, y lo cuenta mi sacerdote con un gusto que se le nota: la gente se salió del mercado, donde Antonio estaba sentado en su tribuna esperando recibirla como a vasalla, y se fueron todos a la orilla a ver la barca, hasta que el hombre más poderoso del Oriente se quedó solo en la plaza, en su sillita de magistrado, sin nadie a quien hablarle. Me habría encantado verlo. No lo vi; estaba en el río. Pero me lo imagino tan bien que casi me sale como recuerdo, y la escribana ya me dijo que no, que eso no lo vi, que no lo cuente como visto. No lo cuento como visto. Lo cuento como lo que habría dado por ver.
+Toda la ciudad se fue para el río. Esto es lo mejor de todo: la gente se salió del mercado, donde Antonio estaba sentado en su tribuna esperando recibirla como a vasalla, y se fueron todos a la orilla a ver la barca, hasta que el hombre más poderoso del Oriente se quedó solo en la plaza, en su sillita de magistrado, sin nadie a quien hablarle. Me habría encantado verlo. No lo vi; estaba en el río. Pero me lo imagino tan bien que casi me sale como recuerdo, y la escribana ya me dijo que no, que eso no lo vi, que no lo cuente como visto. No lo cuento como visto. Lo cuento como lo que habría dado por ver.
 
 Y por toda la orilla, de boca en boca, corrió una frase. No sé quién la soltó primero. Alguien de la reina, seguro; esas cosas no se sueltan solas. La frase era esta: que Afrodita venía a festejar con Dioniso, por el bien de Asia.
 
@@ -68,11 +68,11 @@ Se rió ella. Yo no me reí. A mí me entró otra vez el banquete por el caño: 
 
 No le contesté. Me ardía la cara, por dentro de la barba nueva.
 
-Antonio, cuando por fin le llegó la noticia a la plaza vacía, mandó a invitarla a cenar. Ella contestó que mejor viniera él. Y él, para mostrar —dice mi sacerdote— su amabilidad y su buena disposición, fue.
+Antonio, cuando por fin le llegó la noticia a la plaza vacía, mandó a invitarla a cenar. Ella contestó que mejor viniera él. Y él, para mostrar su amabilidad y su buena disposición, fue.
 
 Las luces. Les cuento las luces porque es lo único de la cena que tiene que ver conmigo. Ella había mandado colgar tantas lámparas, y en tal orden, en cuadros y en círculos, que las lámparas eran el adorno. No había que ver nada más; había que ver cómo estaba iluminado. Eso es teatro, escribana. Eso es saber que la gente no ve las cosas sino la luz que les cae. Me metí, como siempre, con los músicos, y estuve toda la noche junto a una columna, viendo las lámparas, y me dio una envidia que me dejó sin hambre.
 
-Al día siguiente él la invitó a ella, y quiso ganarle en lujo, y no pudo. Y entonces hizo lo que hacía mejor que nadie: se burló de sí mismo. De su pobreza, dijo, de su rusticidad, de su mesa de soldado. Hizo chistes de campamento, chistes gruesos, de esos que se cuentan con la boca llena de pan. Y ella, en lugar de hacer cara de reina, le contestó en el mismo tono. Así lo cuenta mi sacerdote: que viendo que el humor de Antonio era de soldado y de tropa, ella le respondió igual, sin ningún miedo, sin ninguna reserva. Le aventó el chiste de regreso, más grueso.
+Al día siguiente él la invitó a ella, y quiso ganarle en lujo, y no pudo. Y entonces hizo lo que hacía mejor que nadie: se burló de sí mismo. De su pobreza, dijo, de su rusticidad, de su mesa de soldado. Hizo chistes de campamento, chistes gruesos, de esos que se cuentan con la boca llena de pan. Y ella, en lugar de hacer cara de reina, le contestó en el mismo tono. Vio que el humor de Antonio era de soldado y de tropa, y le respondió igual, sin ningún miedo, sin ninguna reserva. Le aventó el chiste de regreso, más grueso.
 
 Él se quedó callado un instante. Yo lo vi. Y luego se rió como yo no lo había visto reírse nunca, ni en Éfeso, ni en Italia con la mima, una risa de alguien a quien por fin le contestan.
 
@@ -88,7 +88,7 @@ Tenía veintiséis años.
 
 —Veintiocho —le concedí—. Se le notaban menos.
 
-Se le notaban todos, la verdad. Se le notaban bien. Era la edad, dice mi sacerdote, en que las mujeres están en lo más brillante de su belleza y en lo más maduro de su inteligencia. La había visto de catorce, en Alejandría, en la fiesta de su padre, mirando al flautista con cara de vergüenza y de cálculo. Ahora no había vergüenza.
+Se le notaban todos, la verdad. Se le notaban bien. Era la edad en que las mujeres están en lo más brillante de su belleza y en lo más maduro de su inteligencia. La había visto de catorce, en Alejandría, en la fiesta de su padre, mirando al flautista con cara de vergüenza y de cálculo. Ahora no había vergüenza.
 
 Se volteó hacia la columna.
 
@@ -100,7 +100,7 @@ Se quedó viéndome. No como se ve a un criado. Como se ve a alguien que uno con
 
 No sé si era pregunta.
 
-—Estaba —le dije. No puedo mentir, ni ahí, ni aquí.
+—Estaba —le dije. Ahí podía mentirle; no quise.
 
 Me miró la cara. La barba. Las manos. Yo me sentí como cuando a uno lo ven sin la máscara y con el maquillaje corrido.
 
@@ -126,4 +126,4 @@ Les digo lo que me pasó cuando lo supe, y luego me callo. Me llegó también. L
 
 Esa mañana en la orilla del Cidno me vi las manos otra vez. Firmes. Anchas. Me olí la muñeca, porque mi prima me había dicho lo del cuartel, y era cierto: olía a cuero, a sudor de caballo, a vino rebajado con agua como lo beben los soldados.
 
-Me fui detrás de ellos a Alejandría. No me invitaron. Afrodita venía a festejar con Dioniso, y los dos ya tenían quién los hiciera.
+Me fui detrás de ellos a Alejandría. No me invitaron.

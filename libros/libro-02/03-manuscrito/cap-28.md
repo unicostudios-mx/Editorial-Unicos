@@ -16,8 +16,6 @@ Y bajó. No sé a dónde. No sé dónde murió ni cuándo, ni si tuvo alguien qu
 
 Eso era lo que faltaba.
 
-—
-
 —Ya —le dije a la escribana.
 
 Y quité la mano del Registro.
@@ -68,9 +66,7 @@ Ella no escribió eso. Ya había cerrado el libro. Pero se quedó viéndome un r
 
 —Y no mentiste.
 
-—Ya sé, escribana. —Me reí, o hice el ruido que me queda en lugar de la risa—. Es lo único que aprendí en doscientos años. No necesito tu libro para eso. Lo traigo puesto.
-
-—
+—Ya sé, escribana. —Me reí, o hice el ruido que me queda en lugar de la risa—. Es lo único que aprendí en doscientos años. No necesito tu libro para eso.
 
 Le enseñé el molde.
 
@@ -100,8 +96,6 @@ Puse los dos dedos en la frente. En la frente al revés, en el hueco.
 
 —Por eso. —Le volví a poner encima el cuero, la costra, con cuidado, como se arropa a alguien que duerme—. Se queda donde lo dejó él. Algún día alguien va a entrar a este cuarto buscando otra cosa. No sé cuándo. Va a ver una cara al revés en una repisa y le va a dar curiosidad, que es más fuerte que el miedo y dura más. Con eso me basta.
 
-—
-
 Bajamos al templo otra vez, a recoger lo de ella. Su banco. Su tela. En la tela quedaba el pedazo de pan, el último, el que estuvo guardando toda la noche sin decirme para qué.
 
 Lo partió en dos. Me dio la mitad.
@@ -116,7 +110,7 @@ Lo partió en dos. Me dio la mitad.
 
 —Ahora también.
 
-Comí. Pan de Corinto, duro de cuarenta y una noches, que se ablanda en la boca si uno tiene paciencia. Lo comí despacio, sentado una última vez junto a mi tumba, mientras ella se envolvía en el manto. Ninguno de los dos dijo nada. Hay comidas que no necesitan sobremesa.
+Comí. Pan de Corinto, duro de cuarenta y una noches, que se ablanda en la boca si uno tiene paciencia. Lo comí despacio, sentado una última vez junto a mi tumba, mientras ella se envolvía en el manto. Ninguno de los dos dijo nada.
 
 Cuando acabé me paré. Me sacudí las migas.
 
@@ -137,8 +131,6 @@ Lo pensé.
 No me despedí bien. No sé despedirme; soy el dios que llega, no el que se va. Le toqué el codo, como me lo tocó ella a mí la primera vez, en el escalón del teatro de Atenas, hace ocho siglos. Y salí del templo de mi hermano, y bajé por la vía sagrada, por la nieve, entre las estatuas que miran cada una para su lado, hacia el pueblo, donde ya salía humo de una chimenea.
 
 No miré para atrás. Levanté una mano. Ella sabrá si me vio.
-
----
 
 *Asiento de la escribana, al margen de la última página del dictado.*
 

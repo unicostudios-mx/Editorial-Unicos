@@ -12,8 +12,6 @@ Al día siguiente mandó a retar a César a combate singular. Un hombre contra o
 
 Era una buena respuesta. Se los digo como profesional: era la respuesta de alguien que sabía escribir finales. César no tenía gracia, no tenía cara, no tenía cuerpo para el escenario; tenía oído. Sabía que el público de Roma no quería un duelo: quería un suicidio. Y se lo dejó a Antonio por escrito, como se le deja a un actor la última página.
 
-—
-
 Esa noche Antonio cenó con sus amigos.
 
 Yo estaba en la puerta de servicio, en mi marco. Ya me conocían las paredes de esa casa.
@@ -26,15 +24,13 @@ Ahí decidí.
 
 Les voy a contar lo que pensé, aunque no lo pensé en orden. Lo ordeno ahora porque ella me lo pide con la mirada y porque, sin vino, ya no me sale de otra manera.
 
-Pensé: mañana pierde. Eso ya no tiene arreglo y no lo voy a arreglar. Mañana pierde y se mata o lo matan; da igual cuál, porque las dos cosas van a pasar en el mismo día. Pensé: y se va a morir con mi cara. Porque durante diez años le rezaron a él con mi nombre, y lo que le rezaron se me pegó a mí, y lo que era mío se le pegó a él. Yo me puse su cuello, su barba, su hambre de aplauso, su manera de ser generoso para que lo vieran. Él se puso mi corona de hiedra, mi tirso, mi túnica de azafrán, mi nombre en las monedas. Nos cambiamos las caras como se cambian los sombreros dos borrachos en una boda. Y lo de Atenas, la estatua al teatro, me había devuelto un poco la mía, pero él seguía con la mía puesta. La gente de la ciudad, los soldados, los que cuentan presagios, lo seguían viendo como el Nuevo Dioniso. Mañana, si moría así, se moría una máscara que se creyó cara. Y eso, escribana, es lo único que de verdad es mentira en todo esto.
+Pensé: mañana pierde. Eso ya no tiene arreglo y no lo voy a arreglar. Mañana pierde y se mata o lo matan; da igual cuál, porque las dos cosas van a pasar en el mismo día. Pensé: y se va a morir con mi cara. Porque durante diez años le rezaron a él con mi nombre, y lo que le rezaron se me pegó a mí, y lo que era mío se le pegó a él. Yo me puse su cuello, su barba, su hambre de aplauso, su manera de ser generoso para que lo vieran. Él se puso mi corona de hiedra, mi tirso, mi túnica de azafrán, mi nombre en las monedas. Nos cambiamos las caras como se cambian los sombreros dos borrachos en una boda. Y lo de Atenas, la estatua al teatro, me había devuelto un poco la mía, pero él seguía con la mía puesta. La gente de la ciudad, los soldados, los que cuentan presagios, lo seguían viendo como el Nuevo Dioniso.
 
 Pensé: que se muera como Antonio. Como el nieto del orador. Como el hombre que se rió del soldado de la coraza. Que se le caiga mi cara de encima antes de que llegue la mañana, para que lo que se muera mañana sea él y no yo puesto en él.
 
 Y para eso no bastaba quitármela en secreto. Ya lo había hecho en Atenas, a medias, y la gente lo leyó como presagio contra él, no como devolución. Había que sacarla de la ciudad. Delante de todos. Por la puerta. Con ruido.
 
 Yo soy Bromio. El que hace ruido.
-
-—
 
 A medianoche la ciudad estaba callada.
 
@@ -62,8 +58,6 @@ Saqué el tropel de las mujeres de Éfeso vestidas de bacantes, y a los hombres 
 
 Y eché a andar.
 
-—
-
 No me vio nadie. Me oyó todo el mundo.
 
 Mi sacerdote lo cuenta así, y lo cuenta bien, y yo no le voy a corregir nada porque lo que escribió es exacto desde afuera: que esa noche, a medianoche, en medio de la quietud y del abatimiento de la ciudad, se oyeron de pronto sonidos de toda clase de instrumentos y gritos de una multitud, con voces de bacantes y saltos de sátiros, como si un cortejo de juerguistas saliera de la ciudad con gran alboroto. Que el cortejo pareció atravesar la ciudad por en medio, hacia la puerta de afuera, la que daba al enemigo. Que ahí el ruido fue más fuerte. Y que luego salió.
@@ -78,8 +72,6 @@ Y mientras andaba, se me iba cayendo.
 
 No sé decirlo de otra manera. A cada calle se me caía algo que no era mío. El cuello ancho. La barba de varios días. Ese gusto en la crueldad que me entró en Éfeso con el segundo nombre, el de Comedor de carne cruda, y que nunca se me quitó del todo. La manía de repartir para que me vieran repartir. Se me iban cayendo como se caen los adornos de un carro de desfile cuando el carro va muy rápido. Y yo los iba empujando hacia adelante con el cortejo, hacia la puerta, con las bacantes de Éfeso, con los sátiros de Éfeso. Fuera. Al enemigo. Que se los quedara César. A él le iban a servir.
 
-—
-
 Pasé por debajo de la ventana de Antonio. Esto también lo quiero asentar.
 
 Era en el ala del palacio que da a la calle grande, una ventana alta, con luz. No sé si estaba despierto. Quiero creer que sí. Dicen que la ciudad entera oyó, y él era parte de la ciudad, y no tenía por qué dormir esa noche. Pero no lo vi en la ventana. No vi su cara. No le vi cambiar la cara, si es que le cambió; las caras de los hombres no cambian así, de golpe, en una noche, delante de un dios. No hubo nada que ver.
@@ -90,8 +82,6 @@ Me detuve un momento abajo. El cortejo siguió sonando a mi alrededor, la flauta
 
 Y seguí.
 
-—
-
 Hubo uno que salió a la calle.
 
 Un hombre, en un cuarto de alquiler de un barrio de griegos, cerca de la calle grande. Se despertó con la flauta. Y reconoció la tonada: no la de Éfeso, ni la del istmo, sino una que su padre le enseñó de niño, en Roma, en un cuarto de libertos, una entrada de coro que en su familia se pasaba de padre a hijo desde Teos y que nadie más en el mundo tocaba así, con esa nota de más al final, que es un error que alguien cometió hace siglos y que se fue heredando como se heredan las narices.
@@ -99,8 +89,6 @@ Un hombre, en un cuarto de alquiler de un barrio de griegos, cerca de la calle g
 Eumelo salió descalzo. En camisa. No llevó nada; luego se arrepintió de no haber llevado la máscara, eso se lo oí decir. Salió a la calle grande y siguió el ruido hacia el oriente. No vio nada. Iba entre el ruido como se va en la lluvia. Pasó junto a los dos soldados de la esquina, que le gritaron algo, y él no les contestó. Caminó detrás de mí todo el trecho que faltaba, sin saber que era detrás de mí, con la boca abierta, tarareando la tonada de su padre con la nota de más.
 
 Fue el único que vino. Se los digo porque el sacerdote no lo sabe: hubo un mortal en esa procesión. Uno. Descalzo, sin máscara, de cuarenta y dos años, que creía que iba siguiendo un presagio.
-
-—
 
 La puerta de afuera era una puerta grande, de piedra, con dos torres. Del otro lado, en la oscuridad, a no mucha distancia, estaban las fogatas del campamento de César. Se veían como se ven desde la grada las lámparas del otro lado del escenario.
 
@@ -120,7 +108,7 @@ Del otro lado de la puerta, adentro, estaba Eumelo. Lo oí respirar. Se había q
 
 No era cierto. Pero él no tenía cómo saberlo, y yo ya no tenía con qué decírselo.
 
-—
+Eso fue adentro, escribana. Afuera lo contaron de otro modo.
 
 Los que interpretan señales dijeron después que el dios al que Antonio más se había parecido y al que más se había apegado lo estaba abandonando. Así lo escribió mi sacerdote. Así lo leyó toda la gente que lo leyó durante dos siglos y medio.
 

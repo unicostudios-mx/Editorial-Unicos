@@ -83,5 +83,3 @@ Eso es todo, escribana. Cinco palabras ella, cuatro yo. No pongas más.
 Al día siguiente el Flautista empezó a cobrar los diez mil talentos, y los romanos se instalaron en la ciudad para ayudarle a cobrarlos. El de la caballería se fue con Gabinio de vuelta a Siria a las pocas semanas. Yo lo seguí con los ojos hasta el puerto y luego, sin decidirlo, con el resto del cuerpo, hasta que lo perdí entre los soldados que subían a los barcos.
 
 No lo seguí a Siria. Me quedé unos días más, comiendo del miedo del Flautista, que sabía cada vez más a hambre y menos a vino. Pero ya había hecho una cosa que no se deshace. Había visto dos imitadores en la misma semana: uno con mi título, que lo hacía mal y con miedo, y uno sin título, que lo hacía bien sin darse cuenta. Y había aprendido a distinguirlos.
-
-Y una niña de catorce años había aprendido, esa misma semana, en la fiesta del padre que había matado a su hermana, que ser dios por oficio es un trabajo. Que se ensaya. Que se suda. Que si se hace mal te echan, y si eres mujer te matan, y que hay que hacerlo, de todas maneras, mejor que los jueces.

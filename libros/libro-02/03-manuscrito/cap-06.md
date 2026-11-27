@@ -80,4 +80,4 @@ Esa noche, la primera que pasó en la casa de su amo, en un rincón de la cocina
 
 No tenía tirso. No tenía máscara tampoco: la última se le había quedado en Corinto, en el baúl, y la quemaron con todo lo demás. Tenía nada más el molde. Lo tuvo un rato en las manos, con mi cara sonriente vuelta hacia arriba, y luego lo envolvió, se lo metió debajo de la cabeza como almohada y se durmió.
 
-Yo me quedé en la cocina. Ahí, en Roma, como botín: él en la cocina de un amo, yo en la pared de un templo, mi cara en un trapo bajo la cabeza de un esclavo de veinte años. Entramos juntos. Nos compraron juntos. Y ninguno de los dos se fue.
+Yo me quedé en la cocina. Ahí, en Roma, como botín: él en la cocina de un amo, yo en la pared de un templo, mi cara en un trapo bajo la cabeza de un esclavo de veinte años.

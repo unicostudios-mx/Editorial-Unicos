@@ -1,6 +1,6 @@
 # 19. Las monedas
 
-Alejandría, otoño del año 34.
+Alejandría, otoño del año 34 antes de la cuenta.
 
 Me busqué en la procesión y no me encontré.
 

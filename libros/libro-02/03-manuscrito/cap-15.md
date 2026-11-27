@@ -18,7 +18,7 @@ Los Artistas de Dioniso tenían alquilado medio patio detrás del teatro, ese te
 
 —Por eso te lo digo.
 
-Lo quise desde que nació, y ya les conté. A él no le digo quién soy y él no me pregunta; somos así en esa familia, desde el primero. Me ve llegar siempre por la puerta de atrás, flaco o gordo según el año, me reconoce a medias, me da de lo que hay, y si alguien le pregunta quién es el tipo dice que es un tío. "Un tío de la compañía." Hay uno en cada compañía. Ustedes también lo han visto: el que ayuda con las cuerdas, el que se sabe todos los papeles, el que nadie contrató.
+Lo quise desde que nació. A él no le digo quién soy y él no me pregunta; somos así en esa familia, desde el primero. Me ve llegar siempre por la puerta de atrás, flaco o gordo según el año, me reconoce a medias, me da de lo que hay, y si alguien le pregunta quién es el tipo dice que es un tío. "Un tío de la compañía." Hay uno en cada compañía. Ustedes también lo han visto: el que ayuda con las cuerdas, el que se sabe todos los papeles, el que nadie contrató.
 
 —Llegaste a tiempo, tío —me dijo, sin levantar la vista—. Hay trabajo. Nos pagan por sátiro.
 
@@ -56,7 +56,7 @@ No lo buscó. Es la única vez en todo este cuaderno que le he pedido algo así 
 
 Lo que sí recuerdo es lo de Éfeso. Los dos nombres me llegaron por el mismo caño. El dulce y el crudo, revueltos, como llega el vino de una tinaja donde alguien echó agua de mar: no se puede separar después. Uno no puede tomarse la mitad de un trago. Esa tarde me entró la alegría de las mujeres disfrazadas y el rencor de la viuda de la azotea, y los dos me alimentaron igual. Esa es la parte que mi sacerdote no podía saber y que yo no sabía tampoco hasta que me pasó: que el rencor también llena. Que también es testimonio. Que una ciudad que le dice Salvaje a un hombre con mi nombre en la boca le está rezando al Salvaje, y el Salvaje, que soy yo, tiene hambre.
 
-El banquete fue en una casa grande cerca del ágora. Me metí con los músicos. Antonio tenía ya en Asia una corte de artistas que daba gusto y vergüenza: un citarista de nombre Anaxenor, un flautista que llamaban Juto, un bailarín Metrodoro, y una manada de gente de teatro de Asia que, dice mi sacerdote con su cara de sacerdote, dejaba muy atrás en desvergüenza a los bufones que había traído de Italia. Tiene razón. Yo los vi. Eran buenísimos.
+El banquete fue en una casa grande cerca del ágora. Me metí con los músicos. Antonio tenía ya en Asia una corte de artistas que daba gusto y vergüenza: un citarista de nombre Anaxenor, un flautista que llamaban Juto, un bailarín Metrodoro, y una manada de gente de teatro de Asia que dejaba muy atrás en desvergüenza a los bufones que había traído de Italia. Yo los vi. Eran buenísimos.
 
 No les voy a describir la sala. No sirve. Les digo lo que importa: que el hombre comía como yo como cuando como bien. Que se reía con la boca llena. Que abrazaba a los que le servían. Que les hablaba a los reyes de tú y a los cocineros de usted, por broma, y los dos se reían igual porque los dos le tenían miedo. Que en un momento, después de un plato que no sé qué era —algo con pescado, algo con miel, algo que hizo que todos se callaran a masticar—, mandó llamar al cocinero, un hombre chaparro con los antebrazos quemados, y delante de todos le preguntó cómo se llamaba, y el cocinero dijo su nombre, y Antonio dijo que una cena así merecía una casa, y preguntó de quién era la casa más bonita que hubiera por ahí, y alguien del séquito dijo un nombre de Magnesia, y Antonio dijo que esa.
 

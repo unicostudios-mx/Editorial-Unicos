@@ -78,7 +78,7 @@ Me reí. Me reí fuerte, como me río yo, y el eco del templo de mi hermano me l
 
 Ahí me agarró. Esa es su manera: deja que uno hable y hable, y luego dice una frase chiquita, con voz de recibo, y uno se queda viendo que la frase chiquita llevaba adentro todo lo demás. La odié un poco. Lo asiento. Luego me dio curiosidad, que en mí es más fuerte que el odio y dura más.
 
-Porque tenía razón, y yo no lo había pensado nunca así. El teatro no es mentira. Todos los que están en la grada saben que el hombre de la máscara no es el dios; nadie sale engañado. Sale cambiado, que es otra cosa. La máscara que se sabe máscara no miente: enseña. La que miente es la otra, la que se cree cara. Esto —ya se los digo para que lo vayan cargando— es la historia de la segunda clase de máscara. Y me tomó casi doscientos años aprender la diferencia, y la aprendí con el nombre robado.
+Porque tenía razón, y ella sabía por qué la tenía. ¿En qué se distingue el que se pone una máscara del que miente? Yo tardé casi doscientos años en saberlo, y lo supe con el nombre robado. Eso es lo que vine a contar.
 
 —Va —le dije.
 
@@ -100,11 +100,11 @@ Ella no levantó la vista. Escribió. Oí la caña raspar el pergamino.
 
 —Lo vas a necesitar. Es largo.
 
-Tenía razón también en eso. Esta es la historia de cómo un hombre me robó el nombre. No me lo robó a la fuerza, ni con un decreto, como roban los emperadores; me lo robó con aplausos, con flautas, con mujeres vestidas de mis mujeres, con dinero, con una reina. Me lo robó y lo usó mejor que yo. Esa es la parte que me cuesta. Que no me haya robado un ladrón: que me haya robado un actor mejor.
+Tenía razón también en eso. Esta es la historia de cómo un hombre me robó el nombre. No me lo robó a la fuerza, ni con un decreto, como roban los emperadores; me lo robó con aplausos, con flautas, con mujeres vestidas de mis mujeres, con dinero, con una reina. Me lo robó y lo usó mejor que yo. Esa es la parte que me cuesta.
 
 Y es también la historia de cómo se me fue muriendo la casa —la de Grecia, digo; la de la familia—, no en una batalla, sino a lo largo de casi doscientos años de ser admirada por un imperio que nos quería tanto que nos fue poniendo en vitrinas. Ustedes pueden ir a ver las vitrinas. Están en sus museos. Les digo de una vez: somos nosotros. Somos los que ven ahí.
 
-Y es, si llego al final, y si el médico del emperador llega antes de que se me acabe el pan, la historia de lo que hice esta noche. Esa no se las adelanto. Esa todavía no la sé.
+Y es, si llego al final, y si el médico del emperador llega antes de que se me acabe el pan, la historia de lo que hice la última noche. Esa no se las adelanto: la primera noche todavía no la sabía.
 
 Afuera empezaba a nevar otra vez. Ella cortó un pedazo de pan con los dedos, me lo dio, y se acomodó el libro.
 

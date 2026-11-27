@@ -14,8 +14,6 @@ En ese mismo rato la caballería de Antonio también se pasó. La infantería pe
 
 No era cierto, o no lo sé. No voy a decir que lo era. Pero lo gritó, y la gente de la calle lo oyó, y yo lo oí, y les digo que era su voz. La suya. Nada más de él. Ni una nota mía.
 
-—
-
 La reina tenía mandado construir un mausoleo junto al templo de Isis, un edificio alto, de dos pisos, de piedra, con puertas que se cerraban dejando caer bloques desde arriba. Ahí había llevado su tesoro: oro, plata, esmeraldas, perlas, ébano, marfil, canela, y montones de leña y estopa encima de todo, para quemarlo si hacía falta. Cuando supo que la flota se había pasado, se metió en el mausoleo con sus dos mujeres, soltó los bloques de las puertas, y mandó decirle a Antonio que estaba muerta.
 
 Antonio lo creyó.
@@ -34,8 +32,6 @@ Yo estaba en el umbral del cuarto. No entré. Les quiero decir por qué no entr�
 
 Entonces llegó Diomedes, el secretario de la reina, con orden de llevarlo al mausoleo. La reina estaba viva.
 
-—
-
 Lo llevaron cargado hasta la puerta del mausoleo. La reina no abrió. No se fiaba de abrir, con los romanos en la ciudad. Se asomó por una ventana alta, y desde ahí ella y sus dos mujeres, Iras y Carmión, las únicas que había dejado entrar con ella, bajaron cuerdas y sogas. Ataron a Antonio. Y lo subieron.
 
 Los que estaban ahí dijeron después que no hubo cosa más digna de lástima. Lo escribió el de Queronea y no exageró. Era un hombre grande, pesado, cubierto de sangre, que tendía las manos hacia arriba mientras lo izaban, dando vueltas en el aire, y arriba tres mujeres que no tenían oficio de cargar nada jalaban la soga con los dientes apretados, la reina agarrada con las dos manos, inclinada sobre el borde, con la cara torcida del esfuerzo, mientras los de abajo gritaban para animarla y sufrían con ella.
@@ -47,8 +43,6 @@ Yo subí por dentro. Un dios entra donde quiere si no lo están esperando, y a m
 Antonio la hizo callar.
 
 Y pidió vino.
-
-—
 
 Quiero detenerme en esto, aunque es una línea.
 
@@ -76,8 +70,6 @@ Tenía cincuenta y seis años, dice mi sacerdote, o cincuenta y tres, que no est
 
 Cincuenta y tres. Ella lo tiene.
 
-—
-
 La reina vivió unos días más. Les cuento lo que consta y rápido, porque lo que no consta es lo que importa.
 
 Ese mismo día César mandó a Proculeyo a sacarla viva del mausoleo; la quería viva para su triunfo. Proculeyo habló con ella a través de la puerta. Mientras tanto otro oficial, Galo, se quedó platicando con ella en la puerta y Proculeyo puso una escalera por la ventana de atrás, la misma por donde subieron a Antonio, y entró con dos esclavos. Una de las mujeres gritó. La reina sacó un puñal que traía en la cintura para matarse, y Proculeyo corrió y la agarró de los brazos, y le sacudió la ropa para ver si traía veneno.
@@ -85,8 +77,6 @@ Ese mismo día César mandó a Proculeyo a sacarla viva del mausoleo; la quería
 La dejaron enterrar a Antonio. Lo enterró con sus propias manos, como entierran los reyes. Luego le dio fiebre y quiso dejarse morir de hambre, y César la amenazó con sus hijos, y comió. César la visitó una vez: ella estaba acostada en un catre, en túnica, despeinada, y se levantó y se le echó a los pies, y hablaron. Él salió creyendo que la había engañado. La engañada no era ella.
 
 Un joven de la gente de César, Dolabela, que le tenía simpatía, le mandó decir en secreto que César iba a marcharse por Siria y que a ella y a sus hijos los mandaría por delante en tres días.
-
-—
 
 La última noche fui a verla.
 
@@ -128,15 +118,9 @@ Y luego, más seria:
 
 —¿Por qué?
 
-—Porque esto no es tu función. —Se acomodó el pelo detrás de la oreja—. Mañana me voy a bañar, voy a comer bien, me voy a poner el vestido de reina y la diadema, y me voy a acostar en el lecho de oro como se acuestan las reinas en las pinturas. Todos van a saber que es un vestido. Que es una reina de pintura. Nadie se va a equivocar. Y así me voy. —Me miró otra vez al lado—. Tú me enseñaste eso sin querer, en el invierno aquel. Que se puede llevar puesta una cara que todos saben que es cara. Y que entonces no es mentira.
-
-—No te lo enseñé yo.
-
-—Bueno. Lo aprendí viéndote. Vete, Bromio. Ve a ver a tus actores.
+—Porque esto no es tu función. —Se acomodó el pelo detrás de la oreja—. Mañana me voy a bañar, voy a comer bien, me voy a poner el vestido de reina y la diadema, y me voy a acostar en el lecho de oro como se acuestan las reinas en las pinturas. Todos van a saber que es un vestido. Que es una reina de pintura. Nadie se va a equivocar. Y así me voy. —Me miró otra vez al lado—. Vete, Bromio. Ve a ver a tus actores.
 
 Me fui antes del amanecer. Ella se quedó sentada en el catre. Fue la última vez que la vi.
-
-—
 
 No vi cómo murió. Lo digo con la mano aquí, y la mano no se traba: no lo vi. No estaba.
 

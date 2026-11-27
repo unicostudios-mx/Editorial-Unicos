@@ -14,9 +14,7 @@ Yo estaba en la puerta del recinto, recargado en una columna. Alejandro también
 
 Junto a César, del lado derecho, un paso atrás, estaba mi hermano.
 
-—
-
-Salimos juntos al sol. Nos sentamos en la escalinata del recinto, él dos escalones arriba, como siempre. Se le veía bien. Se le veía como se ve a la gente que acaba de cambiar de trabajo a uno mejor pagado: un poco más alto, un poco más limpio, sin culpa todavía.
+Cuando César salió del recinto, mi hermano se quedó atrás y me buscó con los ojos. Salimos juntos al sol. Nos sentamos en la escalinata del recinto, él dos escalones arriba, como siempre. Se le veía bien. Se le veía como se ve a la gente que acaba de cambiar de trabajo a uno mejor pagado: un poco más alto, un poco más limpio, sin culpa todavía.
 
 —No me mires así —dijo—. No toqué nada en Accio.
 
@@ -54,13 +52,7 @@ Estuvimos callados. Pasaban soldados romanos por la calle con bultos de cosas qu
 
 —No te lo he pedido.
 
-—No. Te lo digo. —Y luego, más bajito, como se dicen las cosas que no se quieren tener dichas—: A mí me va a quedar poca voz. Ya me queda poca. La guardo. Pero tú sabes ponerte caras. Si algún día hace falta que alguien diga algo con la mía, en mi casa, en invierno, cuando no esté…
-
-No acabó la frase. Se paró. Se sacudió el polvo del manto y bajó la escalinata hacia donde César estaba subiendo a su caballo.
-
-No le contesté. No sabía qué. Me quedé con su frase a medias en el regazo, como quien se queda con un paquete que le encargaron entregar y no le dijeron a quién.
-
-—
+—No. Te lo digo. —Se paró, se sacudió el polvo del manto y bajó la escalinata hacia donde César estaba subiendo a su caballo.
 
 Esa tarde encontré a Eumelo haciendo una cara.
 
@@ -88,8 +80,6 @@ Eumelo se quedó pensando con el pincel en el aire.
 
 —Para que lo dejen entrar —dijo.
 
-—
-
 La función fue esa noche, en el patio.
 
 No había teatro. No había grada. Pusieron lámparas en el brocal del pozo y en las ventanas, y una manta colgada entre la higuera y una puerta para que los actores se cambiaran detrás. Eran tres: Eumelo y dos de los que quedaban de su compañía, un viejo que hacía los papeles de rey y un muchacho que hacía de mensajero y de Ágave, con una peluca de crin. El coro eran cuatro vecinas que se sabían los cantos más o menos, porque Eumelo se los había enseñado esa semana a cambio de que le lavaran la ropa. Un flautista ciego que vivía en el cuarto de la esquina.
@@ -105,8 +95,6 @@ Eumelo salió de detrás de la manta con la máscara nueva puesta, oliendo todav
 —*Llego, hijo de Zeus, a esta tierra de los tebanos, yo, Dioniso, a quien parió la hija de Cadmo, Sémele, con el fuego del rayo por partera. He cambiado mi forma de dios por la de un mortal…*
 
 Y la máscara se puso tibia.
-
-—
 
 Ya les he contado cómo es eso en otras funciones, cuando era joven y gordo de alegría ajena. Lo cuento ahora por última vez y lo cuento distinto, porque esa noche fue distinto.
 
@@ -128,13 +116,9 @@ Yo soy esto. Esta cara de lino sobre una cara de hombre. Una máscara que dice e
 
 No tengo edificio. Nunca tuve. Lo que tuve fue esto, y lo cambié diez años por un nombre en las monedas.
 
-—
-
 —Lo tengo —dice la escribana.
 
-Lo escribió. La veo escribirlo con la misma letra que usa para los precios del trigo en un año de sequía. No lo subraya. Ella no subraya nunca. Está bien. Es mío. No es una regla de nadie; es lo que me pasó a mí en un patio de Alejandría, con una niña y un soldado.
-
-—
+Lo escribió. La veo escribirlo con la misma letra que usa para los precios del trigo en un año de sequía. No lo subraya. Ella no subraya nunca. Está bien. Es mío. Es lo que me pasó a mí en un patio de Alejandría, con una niña y un soldado.
 
 La función acabó tarde. Ágave salió con la cabeza de su hijo en las manos —una cabeza de trapo con una peluca, que hizo reír a los marineros y llorar a la mamá de la niña, y las dos cosas estaban bien— y el coro cantó lo último, desafinado, y el flautista ciego tocó la salida, y ya.
 

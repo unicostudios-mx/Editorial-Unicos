@@ -88,4 +88,4 @@ La segunda la entendí un poco después, cuando se me enfriaron las manos: que c
 
 Acepté el tamaño. Esa noche, junto a la tinaja, acepté caber en cinco.
 
-Y empecé a tener hambre. No se me ha quitado.
+Y empecé a tener hambre.
